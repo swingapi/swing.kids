@@ -1,10 +1,11 @@
 name: Deploy Static Pages
 
 on:
-  push:
-    branches: ["main"]
-
   workflow_dispatch:
+
+  push:
+    tags:
+      - '[0-9]+.[0-9]+.[0-9]+'
 
 permissions:
   contents: read
