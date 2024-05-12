@@ -1,0 +1,30 @@
+name: Deploy Static Pages
+
+on:
+  push:
+    branches: ["main"]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-n-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Publish
+        uses: Kjuly/sphinx-publisher@main
+        with:
+          default-lang: en
+          lang-mappings: |-
+            en:en
+            zh-Hans:zh_CN
