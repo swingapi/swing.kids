@@ -1,10 +1,5 @@
-.. swing.kids documentation master file, created by
-   sphinx-quickstart on Sun May 12 19:53:25 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Swing Kids!
-======================
+Swing Kids
+==========
 
 .. toctree::
    :maxdepth: 1
@@ -12,10 +7,21 @@ Welcome to Swing Kids!
 
    en • English <lang>
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Asia
+   :hidden:
 
-Indices and tables
-==================
+   ko_KR/index
+   th_TH/index
+   zh_CN/index
+   zh_HK/index
+   zh_TW/index
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: Others
+   :hidden:
+
+   support
+   privacy_n_terms

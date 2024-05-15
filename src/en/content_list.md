@@ -1,0 +1,11 @@
+index.rst
+lang.md
+support.md
+privacy_n_terms.md
+privacy.md
+terms.md
+ko_KR
+th_TH
+zh_CN
+zh_HK
+zh_TW
