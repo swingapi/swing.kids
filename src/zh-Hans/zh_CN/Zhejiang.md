@@ -14,11 +14,7 @@ double-swing
 
 ## 杭州
 - [Camel Walk Swing (骆驼摇摆)](camel-walk-swing.md)
-
-## 杭州
 - [Seriously! Swing Studio (SSS认真摇摆工作室)](seriously-swing-studio.md)
-
-## 杭州
 - [Swing Hangzhou (摇摆杭州)](swing-hang-zhou.md)
 
 ## 嘉兴

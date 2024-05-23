@@ -10,6 +10,4 @@ swing-chang-sha
 
 ## Changsha
 - [Lizi Swing Dance Studio (栗子摇摆舞室)](lizi-swing-dance-studio.md)
-
-## Changsha
 - [Swing Changsha (长沙摇摆)](swing-chang-sha.md)

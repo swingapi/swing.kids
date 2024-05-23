@@ -21,11 +21,7 @@ yue-c-swing
 
 ## Guangzhou
 - [Blues Guangzhou](blues-guang-zhou.md)
-
-## Guangzhou
 - [Swing Canton (粤摇摆)](swing-canton.md)
-
-## Guangzhou
 - [TheBreak Swing Dance](the-break-swing-dance.md)
 
 ## Shantou
@@ -33,14 +29,8 @@ yue-c-swing
 
 ## Shenzhen
 - [Groove Blues Swing](groove-blues-swing.md)
-
-## Shenzhen
 - [SO Dancing](so-dancing.md)
-
-## Shenzhen
 - [Swing Shenzhen (摇摆深圳)](swing-shen-zhen.md)
-
-## Shenzhen
 - [Swing Time (摇摆时代)](swing-time.md)
 
 ## Zhuhai

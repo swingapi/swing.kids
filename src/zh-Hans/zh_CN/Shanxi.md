@@ -10,6 +10,4 @@ swing-bing-zhou
 
 ## 太原
 - [Jin Swing (晋摇摆)](jin-swing.md)
-
-## 太原
 - [Swing Bing Zhou (摇摆并州)](swing-bing-zhou.md)

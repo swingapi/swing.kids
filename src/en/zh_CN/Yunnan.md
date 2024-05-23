@@ -15,9 +15,5 @@ swing-kun-ming
 
 ## Kunming
 - [Flying Home (昆明摇摆)](flying-home.md)
-
-## Kunming
 - [Smalls Swing (斯莫斯昆明摇摆)](smalls-swing.md)
-
-## Kunming
 - [Swing Kunming (摇摆之滇)](swing-kun-ming.md)

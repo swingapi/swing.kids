@@ -5,9 +5,9 @@
 :hidden:
 
 hong-kong-swing
-swing-pocket
 rhythm-studio
+swing-pocket
 ```
 - [Hong Kong Swing](hong-kong-swing.md)
-- [Swing Pocket (一代搖擺)](swing-pocket.md)
 - [Rhythm Studio](rhythm-studio.md)
+- [Swing Pocket (一代搖擺)](swing-pocket.md)

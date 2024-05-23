@@ -14,11 +14,7 @@ double-swing
 
 ## Hangzhou
 - [Camel Walk Swing (骆驼摇摆)](camel-walk-swing.md)
-
-## Hangzhou
 - [Seriously! Swing Studio (SSS认真摇摆工作室)](seriously-swing-studio.md)
-
-## Hangzhou
 - [Swing Hangzhou (摇摆杭州)](swing-hang-zhou.md)
 
 ## Jiaxing

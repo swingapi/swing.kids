@@ -21,11 +21,7 @@ yue-c-swing
 
 ## 广州
 - [Blues Guangzhou](blues-guang-zhou.md)
-
-## 广州
 - [Swing Canton (粤摇摆)](swing-canton.md)
-
-## 广州
 - [TheBreak Swing Dance](the-break-swing-dance.md)
 
 ## 汕头
@@ -33,14 +29,8 @@ yue-c-swing
 
 ## 深圳
 - [Groove Blues Swing](groove-blues-swing.md)
-
-## 深圳
 - [SO Dancing](so-dancing.md)
-
-## 深圳
 - [Swing Shenzhen (摇摆深圳)](swing-shen-zhen.md)
-
-## 深圳
 - [Swing Time (摇摆时代)](swing-time.md)
 
 ## 珠海
