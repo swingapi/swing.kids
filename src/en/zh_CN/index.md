@@ -38,6 +38,7 @@ Zhejiang
 
 ## Beijing
 - [A Frame (A Frame 舞蹈工作室)](a-frame.md)
+- [A Jass Dance (爵士时代跳舞公司)](a-jass-dance.md)
 - [Blues Beijing](blues-beijing.md)
 - [Cat's Corner Studio (猫角工作室)](cat-s-corner-studio.md)
 - [Soul Swing](soul-swing.md)
