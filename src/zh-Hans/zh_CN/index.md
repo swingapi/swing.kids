@@ -130,7 +130,7 @@ Zhejiang
 ## 江苏
 
 ### 南京
-- [Lai Si Swing (爵对莱斯南京摇摆舞)](lai-si-swing.md)
+- [Laisi Swing Studio (爵对莱斯工作室)](laisi-swing-studio.md)
 - [Swing Nanjing (金陵摇摆)](swing-nan-jing.md)
 
 ---
