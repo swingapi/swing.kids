@@ -43,6 +43,7 @@ Zhejiang
 - [Cat's Corner Studio (猫角工作室)](cat-s-corner-studio.md)
 - [Soul Swing](soul-swing.md)
 - [Swing Beasts (摇摆野兽)](swing-beasts.md)
+- [Swing Beijing (摇摆北京)](swing-beijing.md)
 - [Swing Friends](swing-friends.md)
 - [Swing Land (摇摆乐园)](swing-land.md)
 - [Swing Travels (摇摆之旅)](swing-travels.md)
