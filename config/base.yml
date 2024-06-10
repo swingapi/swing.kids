@@ -21,7 +21,7 @@ theme:
   language: en
   custom_dir: '../../overrides'
   logo: assets/logo.png
-  favicon: assets/favicon.ico
+  favicon: assets/favicon.png
   # icon:
   #   admonition:
   #     note: fontawesome/solid/map-location-dot
