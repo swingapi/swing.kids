@@ -1,14 +1,22 @@
+---
+title: Swing Taiwan
+subtitle: Swing Taiwan 社交舞與搖擺舞學校
+---
+
 # Swing Taiwan
 
-## 基本信息
+Swing Taiwan 社交舞與搖擺舞學校  
+:fontawesome-solid-location-dot: 台北  
 
-{bdg-dark}`当地名称`{bdg}`Swing Taiwan 社交舞與搖擺舞學校`  
-{bdg-dark}`所在城市`{bdg}`台北`  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <hi@swingtaiwan.com>  
-{far}`globe;ky-contact-icon` <https://www.swingtaiwan.com>  
-{fab}`facebook-f;ky-contact-icon` [SwingTaiwan3](https://www.facebook.com/SwingTaiwan3)  
-{fab}`instagram;ky-contact-icon` [swingtaiwan](http://instagram.com/swingtaiwan)  
-{fab}`youtube;ky-contact-icon` [swingtaiwan197](https://youtube.com/swingtaiwan197)  
+:fontawesome-solid-envelope: <hi@swingtaiwan.com>  
+:fontawesome-solid-globe: <https://www.swingtaiwan.com>  
+:fontawesome-brands-facebook-f: [SwingTaiwan3](https://www.facebook.com/SwingTaiwan3)  
+:fontawesome-brands-instagram: [swingtaiwan](http://instagram.com/swingtaiwan)  
+:fontawesome-brands-youtube: [swingtaiwan197](https://youtube.com/swingtaiwan197)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_TW%20%E2%80%A2%20Swing%20Taiwan&region=zh_TW&id=swing-tai-wan&name=Swing%20Taiwan)

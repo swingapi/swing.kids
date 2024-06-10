@@ -1,17 +1,23 @@
+---
+title: Smalls Swing
+subtitle: 斯莫斯昆明摇摆
+---
+
 # Smalls Swing
 
-## 基本信息
+斯莫斯昆明摇摆  
+`成立年份：2019`  
+:fontawesome-solid-location-dot: 昆明  
 
-{bdg-dark}`当地名称`{bdg}`斯莫斯昆明摇摆`  
-{bdg-dark}`成立年份`{bdg}`2019`  
-{bdg-dark}`所在城市`{bdg}`昆明`  
 
-```{admonition} 场地
-:class: venue
+???+ venue "场地"
 
-昆明春城路64号米兰国际 B 座 2109 室。
-```
+    昆明春城路64号米兰国际 B 座 2109 室。  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` SmallsSwing斯莫斯昆明摇摆  
+:fontawesome-brands-weixin: SmallsSwing斯莫斯昆明摇摆  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Smalls%20Swing&region=zh_CN&id=smalls-swing&name=Smalls%20Swing)

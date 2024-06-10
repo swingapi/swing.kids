@@ -1,11 +1,19 @@
+---
+title: Hi Swing
+subtitle: 摇摆成都
+---
+
 # Hi Swing
 
-## 基本信息
+摇摆成都  
+`成立年份：2019`  
+:fontawesome-solid-location-dot: 成都  
 
-{bdg-dark}`当地名称`{bdg}`摇摆成都`  
-{bdg-dark}`成立年份`{bdg}`2019`  
-{bdg-dark}`所在城市`{bdg}`成都`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` HiSwing摇摆成都  
+:fontawesome-brands-weixin: HiSwing摇摆成都  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Hi%20Swing&region=zh_CN&id=hi-swing&name=Hi%20Swing)

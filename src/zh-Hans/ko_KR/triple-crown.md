@@ -1,14 +1,22 @@
+---
+title: Triple Crown Swing Dance Academy
+subtitle: 트리플크라운 스윙댄스학원
+---
+
 # Triple Crown Swing Dance Academy
 
-## 基本信息
+트리플크라운 스윙댄스학원  
+:fontawesome-solid-location-dot: 首尔  
 
-{bdg-dark}`当地名称`{bdg}`트리플크라운 스윙댄스학원`  
-{bdg-dark}`所在城市`{bdg}`首尔`  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <triplecrown231@gmail.com>  
-{far}`globe;ky-contact-icon` <http://www.triplecrownsd.com>  
-{fab}`facebook-f;ky-contact-icon` [TripleCrownSDA](https://www.facebook.com/TripleCrownSDA)  
-{fab}`instagram;ky-contact-icon` [triplecrown_swingdance](http://instagram.com/triplecrown_swingdance)  
-{fab}`youtube;ky-contact-icon` [TripleCrownSwingDanceAcademy](https://youtube.com/TripleCrownSwingDanceAcademy)  
+:fontawesome-solid-envelope: <triplecrown231@gmail.com>  
+:fontawesome-solid-globe: <http://www.triplecrownsd.com>  
+:fontawesome-brands-facebook-f: [TripleCrownSDA](https://www.facebook.com/TripleCrownSDA)  
+:fontawesome-brands-instagram: [triplecrown_swingdance](http://instagram.com/triplecrown_swingdance)  
+:fontawesome-brands-youtube: [TripleCrownSwingDanceAcademy](https://youtube.com/TripleCrownSwingDanceAcademy)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Triple%20Crown%20Swing%20Dance%20Academy&region=ko_KR&id=triple-crown&name=Triple%20Crown%20Swing%20Dance%20Academy)

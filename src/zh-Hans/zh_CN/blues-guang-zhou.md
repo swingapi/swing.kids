@@ -1,11 +1,19 @@
+---
+title: Blues Guangzhou
+tags:
+  - Blues
+---
+
 # Blues Guangzhou
 
-## 基本信息
+`成立年份：2018`  
+:fontawesome-solid-location-dot: 广州  
 
-{bdg-dark}`成立年份`{bdg}`2018`  
-{bdg-dark}`所在城市`{bdg}`广州`  
-{bdg-dark}`舞种类型`{bdg}`Blues`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` Blues Guangzhou  
+:fontawesome-brands-weixin: Blues Guangzhou  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Blues%20Guangzhou&region=zh_CN&id=blues-guang-zhou&name=Blues%20Guangzhou)

@@ -1,6 +1,14 @@
+---
+title: Clave
+subtitle: 클라베
+---
+
 # Clave
 
-## 基本信息
+클라베  
+:fontawesome-solid-location-dot: 水原  
 
-{bdg-dark}`当地名称`{bdg}`클라베`  
-{bdg-dark}`所在城市`{bdg}`水原`  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Clave&region=ko_KR&id=clave&name=Clave)

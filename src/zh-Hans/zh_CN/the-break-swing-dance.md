@@ -1,10 +1,17 @@
+---
+title: TheBreak Swing Dance
+---
+
 # TheBreak Swing Dance
 
-## 基本信息
+`成立年份：2019`  
+:fontawesome-solid-location-dot: 广州  
 
-{bdg-dark}`成立年份`{bdg}`2019`  
-{bdg-dark}`所在城市`{bdg}`广州`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` TheBreak Swing Dance  
+:fontawesome-brands-weixin: TheBreak Swing Dance  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20TheBreak%20Swing%20Dance&region=zh_CN&id=the-break-swing-dance&name=TheBreak%20Swing%20Dance)

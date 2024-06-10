@@ -1,10 +1,18 @@
+---
+title: Swing Beijing
+subtitle: 摇摆北京
+---
+
 # Swing Beijing
 
-## Info
+摇摆北京  
+:fontawesome-solid-location-dot: Beijing  
 
-{bdg-dark}`Local Name`{bdg}`摇摆北京`  
-{bdg-dark}`City`{bdg}`Beijing`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` SwingBeijing 北京摇闻  
+:fontawesome-brands-weixin: SwingBeijing 北京摇闻  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Beijing&region=zh_CN&id=swing-beijing&name=Swing%20Beijing)

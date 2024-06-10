@@ -1,11 +1,19 @@
+---
+title: Swing Wuhan
+subtitle: 摇摆武汉
+---
+
 # Swing Wuhan
 
-## Info
+摇摆武汉  
+`Year Established: 2017`  
+:fontawesome-solid-location-dot: Wuhan  
 
-{bdg-dark}`Local Name`{bdg}`摇摆武汉`  
-{bdg-dark}`Year Established`{bdg}`2017`  
-{bdg-dark}`City`{bdg}`Wuhan`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` SwingWuHan 摇摆武汉  
+:fontawesome-brands-weixin: SwingWuHan 摇摆武汉  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Wuhan&region=zh_CN&id=swing-wu-han&name=Swing%20Wuhan)

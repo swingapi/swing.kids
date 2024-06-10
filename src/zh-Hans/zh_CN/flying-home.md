@@ -1,11 +1,19 @@
+---
+title: Flying Home
+subtitle: 昆明摇摆
+---
+
 # Flying Home
 
-## 基本信息
+昆明摇摆  
+`成立年份：2020`  
+:fontawesome-solid-location-dot: 昆明  
 
-{bdg-dark}`当地名称`{bdg}`昆明摇摆`  
-{bdg-dark}`成立年份`{bdg}`2020`  
-{bdg-dark}`所在城市`{bdg}`昆明`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` Flying Home 昆明摇摆  
+:fontawesome-brands-weixin: Flying Home 昆明摇摆  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Flying%20Home&region=zh_CN&id=flying-home&name=Flying%20Home)

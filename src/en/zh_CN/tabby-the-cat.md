@@ -1,17 +1,23 @@
+---
+title: Tabby The Cat
+subtitle: Tabby The Cat 摇摆舞工作室
+---
+
 # Tabby The Cat
 
-## Info
+Tabby The Cat 摇摆舞工作室  
+`Year Established: 2019`  
+:fontawesome-solid-location-dot: Shanghai  
 
-{bdg-dark}`Local Name`{bdg}`Tabby The Cat 摇摆舞工作室`  
-{bdg-dark}`Year Established`{bdg}`2019`  
-{bdg-dark}`City`{bdg}`Shanghai`  
 
-```{admonition} Venue
-:class: venue
+???+ venue "Venue"
 
-上海市黄浦区斜土路768号604室 Tabby the Cat 工作室。
-```
+    上海市黄浦区斜土路768号604室 Tabby the Cat 工作室。  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` Tabby the Cat摇摆舞工作室  
+:fontawesome-brands-weixin: Tabby the Cat摇摆舞工作室  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Tabby%20The%20Cat&region=zh_CN&id=tabby-the-cat&name=Tabby%20The%20Cat)

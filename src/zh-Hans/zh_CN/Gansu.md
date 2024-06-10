@@ -1,11 +1,10 @@
 # 甘肃
 
-```{toctree}
-:maxdepth: 1
-:hidden:
-
-swing-lan-zhou
-```
-
 ## 兰州
-- [Swing Lan Zhou (摇摆金城)](swing-lan-zhou.md)
+
+- [Swing Lan Zhou • 摇摆金城](swing-lan-zhou.md)
+- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Gansu&city=Lanzhou)
+
+---
+
+[添加组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Gansu&city=){ .md-button }

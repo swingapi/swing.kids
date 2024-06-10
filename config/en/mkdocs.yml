@@ -1,0 +1,193 @@
+INHERIT: '../base.yml'
+
+docs_dir: '../../src/en'
+site_dir: '../../build'
+
+theme:
+  name: material
+  language: en
+
+site_description: 'A collection of swing dance orgs from around the world.'
+nav:
+  - Home:
+    - Regions: index.md
+    - Tags: tags.md
+    - Asia:
+      - ko_KR • South Korea:
+        - Overview: ko_KR/index.md
+        - Cities:
+          - ko_KR/Busan.md
+          - ko_KR/Changwon.md
+          - ko_KR/Cheonan.md
+          - ko_KR/Cheongju.md
+          - ko_KR/Daejeon.md
+          - ko_KR/Deagu.md
+          - ko_KR/Gwangju.md
+          - ko_KR/Incheon.md
+          - ko_KR/Jeju.md
+          - ko_KR/Seoul.md
+          - ko_KR/Suwon.md
+        - Orgs:
+          - ko_KR/1st-bar.md
+          - ko_KR/asurajang.md
+          - ko_KR/babaru.md
+          - ko_KR/be-bop-bar.md
+          - ko_KR/big-apple-cheonan.md
+          - ko_KR/big-apple-seoul.md
+          - ko_KR/bongchun-salon.md
+          - ko_KR/clave.md
+          - ko_KR/cloud-9-dance-hall.md
+          - ko_KR/club-ann.md
+          - ko_KR/fiesta-2.md
+          - ko_KR/happy-hall.md
+          - ko_KR/hoppers-hall.md
+          - ko_KR/in-the-mood-sillim.md
+          - ko_KR/kyungsung-hall.md
+          - ko_KR/lala-hall.md
+          - ko_KR/mayan.md
+          - ko_KR/rico.md
+          - ko_KR/salon-de-cheonan.md
+          - ko_KR/savoy-ballroom.md
+          - ko_KR/swing-243-dance-hall.md
+          - ko_KR/swing-bar.md
+          - ko_KR/swing-it-dance-hall.md
+          - ko_KR/swing-latte.md
+          - ko_KR/swing-time-bar.md
+          - ko_KR/the-k-dance-studio.md
+          - ko_KR/the-social-club.md
+          - ko_KR/triple-crown.md
+          - ko_KR/wing-bar.md
+      - th_TH • Thailand:
+        - Overview: th_TH/index.md
+        - Cities:
+          - th_TH/Bangkok.md
+        - Orgs:
+          - th_TH/the-hop-bangkok.md
+      - zh_CN • China:
+        - Overview: zh_CN/index.md
+        - Cities:
+          - zh_CN/Anhui.md
+          - zh_CN/Beijing.md
+          - zh_CN/Chongqing.md
+          - zh_CN/Fujian.md
+          - zh_CN/Gansu.md
+          - zh_CN/Guangdong.md
+          - zh_CN/Guizhou.md
+          - zh_CN/Hebei.md
+          - zh_CN/Heilongjiang.md
+          - zh_CN/Henan.md
+          - zh_CN/Hubei.md
+          - zh_CN/Hunan.md
+          - zh_CN/Jiangsu.md
+          - zh_CN/Jiangxi.md
+          - zh_CN/Liaoning.md
+          - zh_CN/Neimenggu.md
+          - zh_CN/Shaanxi.md
+          - zh_CN/Shandong.md
+          - zh_CN/Shanghai.md
+          - zh_CN/Shanxi.md
+          - zh_CN/Sichuan.md
+          - zh_CN/Tianjin.md
+          - zh_CN/Yunnan.md
+          - zh_CN/Zhejiang.md
+        - Orgs:
+          - zh_CN/a-frame.md
+          - zh_CN/a-jass-dance.md
+          - zh_CN/amoy-swing.md
+          - zh_CN/blues-beijing.md
+          - zh_CN/blues-guang-zhou.md
+          - zh_CN/camel-walk-swing.md
+          - zh_CN/cat-s-corner-studio.md
+          - zh_CN/doo-the-swing.md
+          - zh_CN/double-swing.md
+          - zh_CN/downtown-swing.md
+          - zh_CN/flying-home.md
+          - zh_CN/go-swing-tientsin.md
+          - zh_CN/groove-blues-swing.md
+          - zh_CN/happy-swing.md
+          - zh_CN/he-cheng-swing.md
+          - zh_CN/he-fei-swing.md
+          - zh_CN/hi-swing.md
+          - zh_CN/hidden-swing.md
+          - zh_CN/ice-city-swing.md
+          - zh_CN/jin-swing.md
+          - zh_CN/laisi-swing-studio.md
+          - zh_CN/lizi-swing-dance-studio.md
+          - zh_CN/m-r-swing.md
+          - zh_CN/mala-swing.md
+          - zh_CN/nan-men-swing.md
+          - zh_CN/nb-swing.md
+          - zh_CN/rhythm-park.md
+          - zh_CN/seriously-swing-studio.md
+          - zh_CN/shi-men-swing.md
+          - zh_CN/smalls-swing.md
+          - zh_CN/so-dancing.md
+          - zh_CN/soul-swing.md
+          - zh_CN/swing-adventure.md
+          - zh_CN/swing-beasts.md
+          - zh_CN/swing-beijing.md
+          - zh_CN/swing-bing-zhou.md
+          - zh_CN/swing-canton.md
+          - zh_CN/swing-chang-sha.md
+          - zh_CN/swing-chong-qing.md
+          - zh_CN/swing-fo-shan.md
+          - zh_CN/swing-friends.md
+          - zh_CN/swing-fu-zhou.md
+          - zh_CN/swing-hang-zhou.md
+          - zh_CN/swing-hohhot.md
+          - zh_CN/swing-kun-ming.md
+          - zh_CN/swing-lan-zhou.md
+          - zh_CN/swing-land.md
+          - zh_CN/swing-nan-chang.md
+          - zh_CN/swing-nan-jing.md
+          - zh_CN/swing-shen-yang.md
+          - zh_CN/swing-shen-zhen.md
+          - zh_CN/swing-stars-studio.md
+          - zh_CN/swing-teoswa.md
+          - zh_CN/swing-tian-jin.md
+          - zh_CN/swing-time.md
+          - zh_CN/swing-topia.md
+          - zh_CN/swing-travels.md
+          - zh_CN/swing-wu-han.md
+          - zh_CN/swing-xi-an.md
+          - zh_CN/swing-zheng-zhou.md
+          - zh_CN/tabby-the-cat.md
+          - zh_CN/the-break-swing-dance.md
+          - zh_CN/tsing-tao-swing.md
+          - zh_CN/yue-c-swing.md
+          - zh_CN/yun-swing.md
+          - zh_CN/zou-jin-yao-bai-wu.md
+      - zh_HK • Hong Kong:
+        - Overview: zh_HK/index.md
+        - Cities:
+          - zh_HK/HK.md
+        - Orgs:
+          - zh_HK/hong-kong-swing.md
+          - zh_HK/rhythm-studio.md
+          - zh_HK/swing-pocket.md
+      - zh_TW • Taiwan:
+        - Overview: zh_TW/index.md
+        - Cities:
+          - zh_TW/Hsinchu.md
+          - zh_TW/Kaohsiung.md
+          - zh_TW/Taichung.md
+          - zh_TW/Taipei.md
+        - Orgs:
+          - zh_TW/big-apple-swing-studio.md
+          - zh_TW/friday-swing.md
+          - zh_TW/jf-swing.md
+          - zh_TW/lets-swing-taichung.md
+          - zh_TW/naughty-swing.md
+          - zh_TW/swing-fomosa.md
+          - zh_TW/swing-gale.md
+          - zh_TW/swing-tai-wan.md
+          - zh_TW/switch-taipei.md
+          - zh_TW/tap-life.md
+  - Events: https://swing.news
+  - Changelogs: https://github.com/swingdance/orgs/commits/main/
+  - About:
+    - support.md
+    - Privacy & Terms:
+      - privacy.md
+      - terms.md
+  - + Submit Org/Event: submit.md

@@ -1,11 +1,19 @@
+---
+title: Swing Shenyang
+subtitle: 摇摆沈阳
+---
+
 # Swing Shenyang
 
-## Info
+摇摆沈阳  
+`Year Established: 2020`  
+:fontawesome-solid-location-dot: Shenyang  
 
-{bdg-dark}`Local Name`{bdg}`摇摆沈阳`  
-{bdg-dark}`Year Established`{bdg}`2020`  
-{bdg-dark}`City`{bdg}`Shenyang`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` Swing Shenyang  
+:fontawesome-brands-weixin: Swing Shenyang  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Shenyang&region=zh_CN&id=swing-shen-yang&name=Swing%20Shenyang)

@@ -1,11 +1,19 @@
+---
+title: Swing Travels
+subtitle: 摇摆之旅
+---
+
 # Swing Travels
 
-## Info
+摇摆之旅  
+`Year Established: 2019`  
+:fontawesome-solid-location-dot: Beijing  
 
-{bdg-dark}`Local Name`{bdg}`摇摆之旅`  
-{bdg-dark}`Year Established`{bdg}`2019`  
-{bdg-dark}`City`{bdg}`Beijing`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` 摇摆之旅  
+:fontawesome-brands-weixin: 摇摆之旅  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Travels&region=zh_CN&id=swing-travels&name=Swing%20Travels)

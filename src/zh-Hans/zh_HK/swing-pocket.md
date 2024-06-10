@@ -1,13 +1,21 @@
+---
+title: Swing Pocket
+subtitle: 一代搖擺
+---
+
 # Swing Pocket
 
-## 基本信息
+一代搖擺  
+`成立年份：2021`  
+:fontawesome-solid-location-dot: HK  
 
-{bdg-dark}`当地名称`{bdg}`一代搖擺`  
-{bdg-dark}`成立年份`{bdg}`2021`  
-{bdg-dark}`所在城市`{bdg}`HK`  
 
 ## 联系
 
-{far}`globe;ky-contact-icon` <https://www.swingpocket.com>  
-{fab}`facebook-f;ky-contact-icon` [swingpockethk](https://www.facebook.com/swingpockethk)  
-{fab}`instagram;ky-contact-icon` [swingpockethk](http://instagram.com/swingpockethk)  
+:fontawesome-solid-globe: <https://www.swingpocket.com>  
+:fontawesome-brands-facebook-f: [swingpockethk](https://www.facebook.com/swingpockethk)  
+:fontawesome-brands-instagram: [swingpockethk](http://instagram.com/swingpockethk)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_HK%20%E2%80%A2%20Swing%20Pocket&region=zh_HK&id=swing-pocket&name=Swing%20Pocket)

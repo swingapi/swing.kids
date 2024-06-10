@@ -1,27 +1,41 @@
-# zh_TW • Taiwan
+---
+status: city
+---
 
-```{toctree}
-:maxdepth: 2
-:hidden:
+---
 
-swing-gale
-swing-fomosa
-lets-swing-taichung
-big-apple-swing-studio
-friday-swing
-jf-swing
-naughty-swing
-swing-tai-wan
-switch-taipei
-tap-life
-```
-- [Swing Gale (Swing Gale 大風搖擺)](swing-gale.md)
+## [Hsinchu](Hsinchu.md)
+
+- [Swing Gale • Swing Gale 大風搖擺](swing-gale.md)
+- [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Hsinchu&city=Hsinchu)
+
+---
+
+## [Kaohsiung](Kaohsiung.md)
+
 - [Swing Fomosa](swing-fomosa.md)
-- [Let’s Swing Taichung (Let’s Swing Taichung 台中搖擺舞教室)](lets-swing-taichung.md)
-- [Big Apple Swing Studio (Big Apple Swing Studio 搖擺舞教室)](big-apple-swing-studio.md)
-- [Friday Swing (Friday Swing 社交舞與搖擺舞)](friday-swing.md)
-- [JF Swing (JFSwing 搖擺舞教室)](jf-swing.md)
-- [Naughty Swing (Naughty Swing 搖擺舞團)](naughty-swing.md)
-- [Swing Taiwan (Swing Taiwan 社交舞與搖擺舞學校)](swing-tai-wan.md)
+- [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Kaohsiung&city=Kaohsiung)
+
+---
+
+## [Taichung](Taichung.md)
+
+- [Let’s Swing Taichung • Let’s Swing Taichung 台中搖擺舞教室](lets-swing-taichung.md)
+- [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Taichung&city=Taichung)
+
+---
+
+## [Taipei](Taipei.md)
+
+- [Big Apple Swing Studio • Big Apple Swing Studio 搖擺舞教室](big-apple-swing-studio.md)
+- [Friday Swing • Friday Swing 社交舞與搖擺舞](friday-swing.md)
+- [JF Swing • JFSwing 搖擺舞教室](jf-swing.md)
+- [Naughty Swing • Naughty Swing 搖擺舞團](naughty-swing.md)
+- [Swing Taiwan • Swing Taiwan 社交舞與搖擺舞學校](swing-tai-wan.md)
 - [Switch Taipei](switch-taipei.md)
-- [Tap Life (踢踏舞咖啡廳&搖擺舞工作室-TapLife)](tap-life.md)
+- [Tap Life • 踢踏舞咖啡廳&搖擺舞工作室-TapLife](tap-life.md)
+- [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei)
+
+---
+
+[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=&city=){ .md-button }

@@ -1,11 +1,19 @@
+---
+title: Swing Foshan
+subtitle: 佛山摇摆
+---
+
 # Swing Foshan
 
-## Info
+佛山摇摆  
+`Year Established: 2018`  
+:fontawesome-solid-location-dot: Foshan  
 
-{bdg-dark}`Local Name`{bdg}`佛山摇摆`  
-{bdg-dark}`Year Established`{bdg}`2018`  
-{bdg-dark}`City`{bdg}`Foshan`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` 佛山摇摆 OomDila  
+:fontawesome-brands-weixin: 佛山摇摆 OomDila  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Foshan&region=zh_CN&id=swing-fo-shan&name=Swing%20Foshan)

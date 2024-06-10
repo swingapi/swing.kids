@@ -1,12 +1,20 @@
+---
+title: Kyungsung hall
+subtitle: 경성홀
+---
+
 # Kyungsung hall
 
-## Info
+경성홀  
+:fontawesome-solid-location-dot: Seoul  
 
-{bdg-dark}`Local Name`{bdg}`경성홀`  
-{bdg-dark}`City`{bdg}`Seoul`  
 
 ## Contact
 
-{fab}`facebook-f;ky-contact-icon` [kyungsunghall](https://www.facebook.com/kyungsunghall)  
-{fab}`instagram;ky-contact-icon` [kyungsunghall](http://instagram.com/kyungsunghall)  
-{fab}`youtube;ky-contact-icon` [KyungsungHall](https://youtube.com/KyungsungHall)  
+:fontawesome-brands-facebook-f: [kyungsunghall](https://www.facebook.com/kyungsunghall)  
+:fontawesome-brands-instagram: [kyungsunghall](http://instagram.com/kyungsunghall)  
+:fontawesome-brands-youtube: [KyungsungHall](https://youtube.com/KyungsungHall)  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Kyungsung%20hall&region=ko_KR&id=kyungsung-hall&name=Kyungsung%20hall)

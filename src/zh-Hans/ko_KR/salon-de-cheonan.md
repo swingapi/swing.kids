@@ -1,6 +1,14 @@
+---
+title: Salon de Cheonan
+subtitle: 취향회관
+---
+
 # Salon de Cheonan
 
-## 基本信息
+취향회관  
+:fontawesome-solid-location-dot: 天安  
 
-{bdg-dark}`当地名称`{bdg}`취향회관`  
-{bdg-dark}`所在城市`{bdg}`天安`  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Salon%20de%20Cheonan&region=ko_KR&id=salon-de-cheonan&name=Salon%20de%20Cheonan)

@@ -1,13 +1,21 @@
+---
+title: Swing Gale
+subtitle: Swing Gale 大風搖擺
+---
+
 # Swing Gale
 
-## 基本信息
+Swing Gale 大風搖擺  
+:fontawesome-solid-location-dot: 新竹  
 
-{bdg-dark}`当地名称`{bdg}`Swing Gale 大風搖擺`  
-{bdg-dark}`所在城市`{bdg}`新竹`  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <swinggale@gmail.com>  
-{fab}`facebook-f;ky-contact-icon` [swinggale](https://www.facebook.com/swinggale)  
-{fab}`instagram;ky-contact-icon` [swinggale](http://instagram.com/swinggale)  
-{fab}`youtube;ky-contact-icon` [galeswing](https://youtube.com/galeswing)  
+:fontawesome-solid-envelope: <swinggale@gmail.com>  
+:fontawesome-brands-facebook-f: [swinggale](https://www.facebook.com/swinggale)  
+:fontawesome-brands-instagram: [swinggale](http://instagram.com/swinggale)  
+:fontawesome-brands-youtube: [galeswing](https://youtube.com/galeswing)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_TW%20%E2%80%A2%20Swing%20Gale&region=zh_TW&id=swing-gale&name=Swing%20Gale)

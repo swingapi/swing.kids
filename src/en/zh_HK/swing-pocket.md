@@ -1,13 +1,21 @@
+---
+title: Swing Pocket
+subtitle: 一代搖擺
+---
+
 # Swing Pocket
 
-## Info
+一代搖擺  
+`Year Established: 2021`  
+:fontawesome-solid-location-dot: HK  
 
-{bdg-dark}`Local Name`{bdg}`一代搖擺`  
-{bdg-dark}`Year Established`{bdg}`2021`  
-{bdg-dark}`City`{bdg}`HK`  
 
 ## Contact
 
-{far}`globe;ky-contact-icon` <https://www.swingpocket.com>  
-{fab}`facebook-f;ky-contact-icon` [swingpockethk](https://www.facebook.com/swingpockethk)  
-{fab}`instagram;ky-contact-icon` [swingpockethk](http://instagram.com/swingpockethk)  
+:fontawesome-solid-globe: <https://www.swingpocket.com>  
+:fontawesome-brands-facebook-f: [swingpockethk](https://www.facebook.com/swingpockethk)  
+:fontawesome-brands-instagram: [swingpockethk](http://instagram.com/swingpockethk)  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_HK%20%E2%80%A2%20Swing%20Pocket&region=zh_HK&id=swing-pocket&name=Swing%20Pocket)

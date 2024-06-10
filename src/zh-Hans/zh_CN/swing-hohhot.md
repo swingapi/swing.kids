@@ -1,11 +1,19 @@
+---
+title: Swing Hohhot
+subtitle: 摇摆青城
+---
+
 # Swing Hohhot
 
-## 基本信息
+摇摆青城  
+`成立年份：2019`  
+:fontawesome-solid-location-dot: 呼和浩特  
 
-{bdg-dark}`当地名称`{bdg}`摇摆青城`  
-{bdg-dark}`成立年份`{bdg}`2019`  
-{bdg-dark}`所在城市`{bdg}`呼和浩特`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` 摇摆青城 Swing Hohhot  
+:fontawesome-brands-weixin: 摇摆青城 Swing Hohhot  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Hohhot&region=zh_CN&id=swing-hohhot&name=Swing%20Hohhot)

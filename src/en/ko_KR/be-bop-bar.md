@@ -1,6 +1,14 @@
+---
+title: Be Bop Bar
+subtitle: 비밥빠
+---
+
 # Be Bop Bar
 
-## Info
+비밥빠  
+:fontawesome-solid-location-dot: Incheon  
 
-{bdg-dark}`Local Name`{bdg}`비밥빠`  
-{bdg-dark}`City`{bdg}`Incheon`  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Be%20Bop%20Bar&region=ko_KR&id=be-bop-bar&name=Be%20Bop%20Bar)

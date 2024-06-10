@@ -1,12 +1,20 @@
+---
+title: JF Swing
+subtitle: JFSwing 搖擺舞教室
+---
+
 # JF Swing
 
-## 基本信息
+JFSwing 搖擺舞教室  
+:fontawesome-solid-location-dot: 台北  
 
-{bdg-dark}`当地名称`{bdg}`JFSwing 搖擺舞教室`  
-{bdg-dark}`所在城市`{bdg}`台北`  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <jfswing.tw@gmail.com>  
-{fab}`facebook-f;ky-contact-icon` [jfswing.tw](https://www.facebook.com/jfswing.tw)  
-{fab}`instagram;ky-contact-icon` [swing_jf](http://instagram.com/swing_jf)  
+:fontawesome-solid-envelope: <jfswing.tw@gmail.com>  
+:fontawesome-brands-facebook-f: [jfswing.tw](https://www.facebook.com/jfswing.tw)  
+:fontawesome-brands-instagram: [swing_jf](http://instagram.com/swing_jf)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_TW%20%E2%80%A2%20JF%20Swing&region=zh_TW&id=jf-swing&name=JF%20Swing)

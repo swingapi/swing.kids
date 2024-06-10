@@ -1,17 +1,22 @@
+---
+title: Swing Fomosa
+---
+
 # Swing Fomosa
 
-## 基本信息
+:fontawesome-solid-location-dot: 高雄  
 
-{bdg-dark}`所在城市`{bdg}`高雄`  
 
-```{admonition} 场地
-:class: venue
+???+ venue "场地"
 
-高雄市新興區河南一路61-1號3樓
-```
+    高雄市新興區河南一路61-1號3樓  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <swingformosa@gmail.com>  
-{fab}`facebook-f;ky-contact-icon` [swingformosa2020](https://www.facebook.com/swingformosa2020)  
-{fab}`instagram;ky-contact-icon` [swingformosa](http://instagram.com/swingformosa)  
+:fontawesome-solid-envelope: <swingformosa@gmail.com>  
+:fontawesome-brands-facebook-f: [swingformosa2020](https://www.facebook.com/swingformosa2020)  
+:fontawesome-brands-instagram: [swingformosa](http://instagram.com/swingformosa)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_TW%20%E2%80%A2%20Swing%20Fomosa&region=zh_TW&id=swing-fomosa&name=Swing%20Fomosa)

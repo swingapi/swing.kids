@@ -1,11 +1,19 @@
+---
+title: In The Mood Sillim
+subtitle: 인더무드 신림
+---
+
 # In The Mood Sillim
 
-## Info
+인더무드 신림  
+:fontawesome-solid-location-dot: Seoul  
 
-{bdg-dark}`Local Name`{bdg}`인더무드 신림`  
-{bdg-dark}`City`{bdg}`Seoul`  
 
 ## Contact
 
-{fab}`facebook-f;ky-contact-icon` [inthemoodsillim](https://www.facebook.com/inthemoodsillim)  
-{fab}`instagram;ky-contact-icon` [inthemoodsillim](http://instagram.com/inthemoodsillim)  
+:fontawesome-brands-facebook-f: [inthemoodsillim](https://www.facebook.com/inthemoodsillim)  
+:fontawesome-brands-instagram: [inthemoodsillim](http://instagram.com/inthemoodsillim)  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20In%20The%20Mood%20Sillim&region=ko_KR&id=in-the-mood-sillim&name=In%20The%20Mood%20Sillim)

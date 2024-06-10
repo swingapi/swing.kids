@@ -1,12 +1,19 @@
+---
+title: The Hop Bangkok
+---
+
 # The Hop Bangkok
 
-## 基本信息
+:fontawesome-solid-location-dot: 曼谷  
 
-{bdg-dark}`所在城市`{bdg}`曼谷`  
 
 ## 联系
 
-{far}`globe;ky-contact-icon` <https://www.thehopbkk.com>  
-{fab}`facebook-f;ky-contact-icon` [thehopbangkok](https://www.facebook.com/thehopbangkok)  
-{fab}`instagram;ky-contact-icon` [thehopbangkok](http://instagram.com/thehopbangkok)  
-{fab}`youtube;ky-contact-icon` [TheHopBangkok](https://youtube.com/TheHopBangkok)  
+:fontawesome-solid-globe: <https://www.thehopbkk.com>  
+:fontawesome-brands-facebook-f: [thehopbangkok](https://www.facebook.com/thehopbangkok)  
+:fontawesome-brands-instagram: [thehopbangkok](http://instagram.com/thehopbangkok)  
+:fontawesome-brands-youtube: [TheHopBangkok](https://youtube.com/TheHopBangkok)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20th_TH%20%E2%80%A2%20The%20Hop%20Bangkok&region=th_TH&id=the-hop-bangkok&name=The%20Hop%20Bangkok)

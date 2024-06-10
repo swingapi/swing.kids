@@ -1,13 +1,21 @@
+---
+title: Big Apple (Cheonan)
+subtitle: 빅애플
+---
+
 # Big Apple (Cheonan)
 
-## 基本信息
+빅애플  
+:fontawesome-solid-location-dot: 天安  
 
-{bdg-dark}`当地名称`{bdg}`빅애플`  
-{bdg-dark}`所在城市`{bdg}`天安`  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <wookiminam@naver.com>  
-{far}`globe;ky-contact-icon` <https://cafe.naver.com/bigappleswing>  
-{fab}`facebook-f;ky-contact-icon` [cabigapple](https://www.facebook.com/cabigapple)  
-{fab}`instagram;ky-contact-icon` [bigappleswing](http://instagram.com/bigappleswing)  
+:fontawesome-solid-envelope: <wookiminam@naver.com>  
+:fontawesome-solid-globe: <https://cafe.naver.com/bigappleswing>  
+:fontawesome-brands-facebook-f: [cabigapple](https://www.facebook.com/cabigapple)  
+:fontawesome-brands-instagram: [bigappleswing](http://instagram.com/bigappleswing)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Big%20Apple%20%28Cheonan%29&region=ko_KR&id=big-apple-cheonan&name=Big%20Apple%20%28Cheonan%29)

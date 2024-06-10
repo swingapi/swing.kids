@@ -1,6 +1,14 @@
+---
+title: Rico
+subtitle: 리코
+---
+
 # Rico
 
-## Info
+리코  
+:fontawesome-solid-location-dot: Cheongju  
 
-{bdg-dark}`Local Name`{bdg}`리코`  
-{bdg-dark}`City`{bdg}`Cheongju`  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Rico&region=ko_KR&id=rico&name=Rico)

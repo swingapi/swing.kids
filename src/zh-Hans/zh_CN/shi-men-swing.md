@@ -1,11 +1,19 @@
+---
+title: Shi Men Swing
+subtitle: 石门摇摆
+---
+
 # Shi Men Swing
 
-## 基本信息
+石门摇摆  
+`成立年份：2023`  
+:fontawesome-solid-location-dot: 石家庄  
 
-{bdg-dark}`当地名称`{bdg}`石门摇摆`  
-{bdg-dark}`成立年份`{bdg}`2023`  
-{bdg-dark}`所在城市`{bdg}`石家庄`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` 石门摇摆Swing  
+:fontawesome-brands-weixin: 石门摇摆Swing  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Shi%20Men%20Swing&region=zh_CN&id=shi-men-swing&name=Shi%20Men%20Swing)

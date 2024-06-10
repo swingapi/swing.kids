@@ -1,11 +1,19 @@
+---
+title: Swing Land
+subtitle: 摇摆乐园
+---
+
 # Swing Land
 
-## Info
+摇摆乐园  
+`Year Established: 2023`  
+:fontawesome-solid-location-dot: Beijing  
 
-{bdg-dark}`Local Name`{bdg}`摇摆乐园`  
-{bdg-dark}`Year Established`{bdg}`2023`  
-{bdg-dark}`City`{bdg}`Beijing`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` SwingLand摇摆乐园  
+:fontawesome-brands-weixin: SwingLand摇摆乐园  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Land&region=zh_CN&id=swing-land&name=Swing%20Land)

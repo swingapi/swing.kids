@@ -1,12 +1,20 @@
+---
+title: Hoppers Hall
+subtitle: 하퍼스홀
+---
+
 # Hoppers Hall
 
-## 基本信息
+하퍼스홀  
+:fontawesome-solid-location-dot: 米酒  
 
-{bdg-dark}`当地名称`{bdg}`하퍼스홀`  
-{bdg-dark}`所在城市`{bdg}`米酒`  
 
 ## 联系
 
-{far}`globe;ky-contact-icon` <https://litt.ly/hopperhall>  
-{fab}`facebook-f;ky-contact-icon` [하퍼스홀](https://www.facebook.com/하퍼스홀)  
-{fab}`instagram;ky-contact-icon` [hoppershall](http://instagram.com/hoppershall)  
+:fontawesome-solid-globe: <https://litt.ly/hopperhall>  
+:fontawesome-brands-facebook-f: [하퍼스홀](https://www.facebook.com/하퍼스홀)  
+:fontawesome-brands-instagram: [hoppershall](http://instagram.com/hoppershall)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Hoppers%20Hall&region=ko_KR&id=hoppers-hall&name=Hoppers%20Hall)

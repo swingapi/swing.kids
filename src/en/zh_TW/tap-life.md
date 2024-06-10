@@ -1,21 +1,27 @@
+---
+title: Tap Life
+subtitle: 踢踏舞咖啡廳{KY_VALUE_subtitle}搖擺舞工作室-TapLife
+---
+
 # Tap Life
 
-## Info
+踢踏舞咖啡廳&搖擺舞工作室-TapLife  
+`Year Established: 2016`  
+:fontawesome-solid-location-dot: Taipei  
 
-{bdg-dark}`Local Name`{bdg}`踢踏舞咖啡廳&搖擺舞工作室-TapLife`  
-{bdg-dark}`Year Established`{bdg}`2016`  
-{bdg-dark}`City`{bdg}`Taipei`  
 
-```{admonition} Venue
-:class: venue
+???+ venue "Venue"
 
-信義區松德路106號1樓 Taipei, Taiwan 110
-```
+    信義區松德路106號1樓 Taipei, Taiwan 110  
 
 ## Contact
 
-{far}`envelope;ky-contact-icon` <taplifecafe@gmail.com>  
-{far}`globe;ky-contact-icon` <https://taplifecafe.blogspot.com>  
-{fab}`facebook-f;ky-contact-icon` [taplifecafe](https://www.facebook.com/taplifecafe)  
-{fab}`instagram;ky-contact-icon` [taplifecafe](http://instagram.com/taplifecafe)  
-{fab}`youtube;ky-contact-icon` [TapLifeStudio](https://youtube.com/TapLifeStudio)  
+:fontawesome-solid-envelope: <taplifecafe@gmail.com>  
+:fontawesome-solid-globe: <https://taplifecafe.blogspot.com>  
+:fontawesome-brands-facebook-f: [taplifecafe](https://www.facebook.com/taplifecafe)  
+:fontawesome-brands-instagram: [taplifecafe](http://instagram.com/taplifecafe)  
+:fontawesome-brands-youtube: [TapLifeStudio](https://youtube.com/TapLifeStudio)  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_TW%20%E2%80%A2%20Tap%20Life&region=zh_TW&id=tap-life&name=Tap%20Life)

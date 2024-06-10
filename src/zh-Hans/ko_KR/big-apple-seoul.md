@@ -1,12 +1,20 @@
+---
+title: Big Apple (Seoul)
+subtitle: 빅애플
+---
+
 # Big Apple (Seoul)
 
-## 基本信息
+빅애플  
+:fontawesome-solid-location-dot: 首尔  
 
-{bdg-dark}`当地名称`{bdg}`빅애플`  
-{bdg-dark}`所在城市`{bdg}`首尔`  
 
 ## 联系
 
-{far}`envelope;ky-contact-icon` <wookiminam@gmail.com>  
-{fab}`facebook-f;ky-contact-icon` [bbbigapple](https://www.facebook.com/bbbigapple)  
-{fab}`instagram;ky-contact-icon` [bigappleswing](http://instagram.com/bigappleswing)  
+:fontawesome-solid-envelope: <wookiminam@gmail.com>  
+:fontawesome-brands-facebook-f: [bbbigapple](https://www.facebook.com/bbbigapple)  
+:fontawesome-brands-instagram: [bigappleswing](http://instagram.com/bigappleswing)  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Big%20Apple%20%28Seoul%29&region=ko_KR&id=big-apple-seoul&name=Big%20Apple%20%28Seoul%29)

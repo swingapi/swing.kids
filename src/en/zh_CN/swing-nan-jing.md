@@ -1,11 +1,19 @@
+---
+title: Swing Nanjing
+subtitle: 金陵摇摆
+---
+
 # Swing Nanjing
 
-## Info
+金陵摇摆  
+`Year Established: 2019`  
+:fontawesome-solid-location-dot: Nanjing  
 
-{bdg-dark}`Local Name`{bdg}`金陵摇摆`  
-{bdg-dark}`Year Established`{bdg}`2019`  
-{bdg-dark}`City`{bdg}`Nanjing`  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` SwingNanjing摇摆南京  
+:fontawesome-brands-weixin: SwingNanjing摇摆南京  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Nanjing&region=zh_CN&id=swing-nan-jing&name=Swing%20Nanjing)

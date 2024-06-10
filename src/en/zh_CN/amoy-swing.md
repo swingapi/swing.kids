@@ -1,23 +1,29 @@
+---
+title: Amoy Swing
+tags:
+  - Lindy
+  - Balboa
+  - Blues
+---
+
 # Amoy Swing
 
-## Info
+`Year Established: 2020`  
+:fontawesome-solid-location-dot: Xiamen  
 
-{bdg-dark}`Year Established`{bdg}`2020`  
-{bdg-dark}`City`{bdg}`Xiamen`  
-{bdg-dark}`Styles`{bdg}`Lindy, Balboa, Blues`  
 
-```{admonition} Venue
-:class: venue
+???+ venue "Venue"
 
-厦门市思明区禾祥西路8-76 谜时光 Mystery Ballroom。
-```
+    厦门市思明区禾祥西路8-76 谜时光 Mystery Ballroom。  
 
-```{admonition} Party
-:class: party
+???+ party "Party"
 
-Every Friday night from 8pm to late.
-```
+    Every Friday night from 8pm to late.  
 
 ## Contact
 
-{fab}`weixin;ky-contact-icon` Amoy Swing  
+:fontawesome-brands-weixin: Amoy Swing  
+
+---
+
+:fontawesome-solid-pen-to-square: [Edit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Amoy%20Swing&region=zh_CN&id=amoy-swing&name=Amoy%20Swing)

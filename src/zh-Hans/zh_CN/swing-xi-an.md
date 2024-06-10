@@ -1,11 +1,19 @@
+---
+title: Swing Xi An
+subtitle: 摇摆西安
+---
+
 # Swing Xi An
 
-## 基本信息
+摇摆西安  
+`成立年份：2018`  
+:fontawesome-solid-location-dot: 西安  
 
-{bdg-dark}`当地名称`{bdg}`摇摆西安`  
-{bdg-dark}`成立年份`{bdg}`2018`  
-{bdg-dark}`所在城市`{bdg}`西安`  
 
 ## 联系
 
-{fab}`weixin;ky-contact-icon` SwingXian  
+:fontawesome-brands-weixin: SwingXian  
+
+---
+
+:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Swing%20Xi%20An&region=zh_CN&id=swing-xi-an&name=Swing%20Xi%20An)
