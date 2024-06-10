@@ -6,7 +6,7 @@ subtitle: 一代搖擺
 # Swing Pocket
 
 一代搖擺  
-`成立年份：2021`  
+成立于 2021  
 :fontawesome-solid-location-dot: HK  
 
 
@@ -18,4 +18,4 @@ subtitle: 一代搖擺
 
 ---
 
-:fontawesome-solid-pen-to-square: [编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_HK%20%E2%80%A2%20Swing%20Pocket&region=zh_HK&id=swing-pocket&name=Swing%20Pocket)
+[:fontawesome-solid-pen-to-square: 编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_HK%20%E2%80%A2%20Swing%20Pocket&region=zh_HK&id=swing-pocket&name=Swing%20Pocket){ .md-button } [:fontawesome-solid-plus: 添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20zh_HK%20%E2%80%A2%20%3CName%3E&region=zh_HK&province=HK&city=HK&org_id=swing-pocket){ .md-button }
