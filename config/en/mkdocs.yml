@@ -208,6 +208,7 @@ nav:
   - Events: https://swing.news
   - Changelogs: https://github.com/swingdance/orgs/commits/main/
   - About:
+    - references.md
     - support.md
     - Privacy & Terms:
       - privacy.md
