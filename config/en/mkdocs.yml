@@ -13,6 +13,28 @@ nav:
     - Regions: index.md
     - Tags: tags.md
     - Asia:
+      - ja_JP • Japan:
+        - Overview: ja_JP/index.md
+        - Cities:
+          - ja_JP/Kanagawa.md
+          - ja_JP/Niigata.md
+          - ja_JP/Osaka.md
+          - ja_JP/Sapporo.md
+          - ja_JP/Sendai.md
+          - ja_JP/Tokyo.md
+          - ja_JP/Yokohama.md
+        - Orgs:
+          - ja_JP/chillboa.md
+          - ja_JP/dancing-bus.md
+          - ja_JP/kawasaki-swing.md
+          - ja_JP/osaka-swing.md
+          - ja_JP/sapporo-swing-dance.md
+          - ja_JP/sendai-swing-club.md
+          - ja_JP/swing-dance-kobe.md
+          - ja_JP/swing-gigolo.md
+          - ja_JP/swingin-barrelhouse-records.md
+          - ja_JP/swingin-niigata.md
+          - ja_JP/tokyo-swing-dance-society.md
       - ko_KR • South Korea:
         - Overview: ko_KR/index.md
         - Cities:

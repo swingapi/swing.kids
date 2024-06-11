@@ -13,6 +13,28 @@ nav:
     - 地区: index.md
     - 标签: tags.md
     - 亚洲:
+      - ja_JP • 日本:
+        - 总览: ja_JP/index.md
+        - 城市:
+          - ja_JP/Kanagawa.md
+          - ja_JP/Niigata.md
+          - ja_JP/Osaka.md
+          - ja_JP/Sapporo.md
+          - ja_JP/Sendai.md
+          - ja_JP/Tokyo.md
+          - ja_JP/Yokohama.md
+        - 组织:
+          - ja_JP/chillboa.md
+          - ja_JP/dancing-bus.md
+          - ja_JP/kawasaki-swing.md
+          - ja_JP/osaka-swing.md
+          - ja_JP/sapporo-swing-dance.md
+          - ja_JP/sendai-swing-club.md
+          - ja_JP/swing-dance-kobe.md
+          - ja_JP/swing-gigolo.md
+          - ja_JP/swingin-barrelhouse-records.md
+          - ja_JP/swingin-niigata.md
+          - ja_JP/tokyo-swing-dance-society.md
       - ko_KR • 韩国:
         - 总览: ko_KR/index.md
         - 城市:
