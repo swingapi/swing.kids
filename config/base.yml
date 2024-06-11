@@ -2,7 +2,7 @@ site_name: Swing Kids
 site_url: https://swing.kids
 site_description: A collection of swing dance orgs from around the world.
 site_author: Kjuly
-copyright: Copyright &copy; 2024 Kaijie Yu
+copyright: Copyright &copy; 2024 <a href="https://kjuly.com" target="blank">Kaijie Yu</a>
 
 use_directory_urls: true
 
