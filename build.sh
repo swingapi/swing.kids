@@ -1,15 +1,16 @@
-#!/bin/bash
+#!/bin/sh
 
-readonly filter_lang=$1
-readonly LANGS=(
-  "en"
-  "zh-Hans"
-)
+readonly filter_lang="$1"
 
-# shellcheck source=/dev/null
-source .venv/bin/activate
+LANGS="${LANGS} en"
+LANGS="${LANGS} zh-Hans"
 
-for lang in "${LANGS[@]}" ; do
+if [ -d ".venv" ]; then
+  # shellcheck source=/dev/null
+  . .venv/bin/activate
+fi
+
+for lang in ${LANGS}; do
   if [ -n "$filter_lang" ] && [ "$lang" != "$filter_lang" ]; then
     continue
   fi

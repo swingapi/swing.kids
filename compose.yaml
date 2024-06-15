@@ -1,0 +1,16 @@
+name: ${APP_NAME}
+#
+# Usage:
+# $ lang=en docker compose up
+# $ lang=zh-Hans docker compose up
+# $ docker compose down --remove-orphans
+#
+services:
+  mkdocs:
+    build: ${SOURCE_DIR}
+    ports:
+      - "8000:${CONTAINER_PORT}"
+    working_dir: ${CONTAINER_WORK_DIR}
+    volumes:
+      - ${VOLUME_SOURCE}:${VOLUME_TARGET}
+    command: ["serve", "$lang", "0.0.0.0"]

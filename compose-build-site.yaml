@@ -1,0 +1,14 @@
+name: ${APP_NAME}
+#
+# Usage:
+# $ lang=en docker compose -f compose-build-site.yaml up
+# $ lang=zh-Hans docker compose -f compose-build-site.yaml up
+# $ docker compose -f compose-build-site.yaml down --remove-orphans
+#
+services:
+  mkdocs:
+    build: ${SOURCE_DIR}
+    working_dir: ${CONTAINER_WORK_DIR}
+    volumes:
+      - ${VOLUME_SOURCE}:${VOLUME_TARGET}
+    command: ["build", "$lang"]
