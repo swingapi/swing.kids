@@ -6,6 +6,7 @@ status: city
 
 ## [HK](HK.md)
 
+- [Hong Kong Balboa • Hong Kong Balboa](hong-kong-balboa.md)
 - [Hong Kong Swing](hong-kong-swing.md)
 - [Rhythm Studio](rhythm-studio.md)
 - [Swing Pocket • 一代搖擺](swing-pocket.md)
