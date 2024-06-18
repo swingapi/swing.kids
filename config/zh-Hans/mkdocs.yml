@@ -12,6 +12,13 @@ nav:
   - 首页:
     - 地区: index.md
     - 标签: tags.md
+    - 美洲:
+      - en_US • 美国:
+        - 总览: en_US/index.md
+        - 城市:
+          - en_US/New York.md
+        - 组织:
+          - en_US/ilindy.md
     - 亚洲:
       - ja_JP • 日本:
         - 总览: ja_JP/index.md

@@ -12,6 +12,13 @@ nav:
   - Home:
     - Regions: index.md
     - Tags: tags.md
+    - America:
+      - en_US • America:
+        - Overview: en_US/index.md
+        - Cities:
+          - en_US/New York.md
+        - Orgs:
+          - en_US/ilindy.md
     - Asia:
       - ja_JP • Japan:
         - Overview: ja_JP/index.md

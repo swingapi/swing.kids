@@ -1,0 +1,20 @@
+---
+title: iLindy
+---
+
+# iLindy
+
+:fontawesome-solid-location-dot: 纽约  
+
+
+## 联系
+
+:fontawesome-solid-envelope: <info@ilindy.com>  
+:fontawesome-solid-globe: <https://ilindy.com>  
+:fontawesome-brands-facebook-f: [iLindyhop](https://www.facebook.com/iLindyhop)  
+:fontawesome-brands-instagram: [ilindy_hop](http://instagram.com/ilindy_hop)  
+:fontawesome-brands-youtube: [ilindy](https://youtube.com/ilindy)  
+
+---
+
+[:fontawesome-solid-pen-to-square: 编辑组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20en_US%20%E2%80%A2%20iLindy&region=en_US&id=ilindy&name=iLindy){ .md-button } [:fontawesome-solid-plus: 添加活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20en_US%20%E2%80%A2%20%3CName%3E&region=en_US&province=New%20York&city=New%20York&org_id=ilindy){ .md-button }

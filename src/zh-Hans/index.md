@@ -5,6 +5,7 @@ hide:
 
 # 当前可选区域
 
+- [en_US • 美国](en_US/index.md)
 - [ja_JP • 日本](ja_JP/index.md)
 - [ko_KR • 韩国](ko_KR/index.md)
 - [th_TH • 泰国](th_TH/index.md)
