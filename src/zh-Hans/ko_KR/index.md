@@ -4,98 +4,120 @@ status: city
 
 ---
 
-## [釜山](Busan.md)
+## <a id=busan></a>[釜山](#busan) { #busan }
 
-- [1st Bar • 일빠](1st-bar.md)
-- [Swing 243 Dance Hall • 스윙243 댄스홀](swing-243-dance-hall.md)
-- [Wing Bar • 서면윙빠](wing-bar.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Busan&city=Busan)
-
----
-
-## [昌原](Changwon.md)
-
-- [Swing Latte • 스윙라떼](swing-latte.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Changwon&city=Changwon)
+| | 名称 | |
+| --- | --- | --- |
+| | [1st Bar](1st-bar.md) | 일빠 |
+| | [Swing 243 Dance Hall](swing-243-dance-hall.md) | 스윙243 댄스홀 |
+| | [Wing Bar](wing-bar.md) | 서면윙빠 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Busan&city=Busan)
 
 ---
 
-## [天安](Cheonan.md)
+## <a id=changwon></a>[昌原](#changwon) { #changwon }
 
-- [Big Apple (Cheonan) • 빅애플](big-apple-cheonan.md)
-- [Salon de Cheonan • 취향회관](salon-de-cheonan.md)
-- [The K Dance Studio • 더 케이 댄스 스튜디오](the-k-dance-studio.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Cheonan&city=Cheonan)
-
----
-
-## [米酒](Cheongju.md)
-
-- [Hoppers Hall • 하퍼스홀](hoppers-hall.md)
-- [Rico • 리코](rico.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Cheongju&city=Cheongju)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Latte](swing-latte.md) | 스윙라떼 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Changwon&city=Changwon)
 
 ---
 
-## [大田](Daejeon.md)
+## <a id=cheonan></a>[天安](#cheonan) { #cheonan }
 
-- [Swing It Dance Hall • 스윙잇 댄스홀](swing-it-dance-hall.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Daejeon&city=Daejeon)
-
----
-
-## [大邱](Deagu.md)
-
-- [Asurajang • 아수라장](asurajang.md)
-- [Babaru • 바바루](babaru.md)
-- [Club ANN • 클럽엔](club-ann.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu)
+| | 名称 | |
+| --- | --- | --- |
+| | [Big Apple (Cheonan)](big-apple-cheonan.md) | 빅애플 |
+| | [Salon de Cheonan](salon-de-cheonan.md) | 취향회관 |
+| | [The K Dance Studio](the-k-dance-studio.md) | 더 케이 댄스 스튜디오 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Cheonan&city=Cheonan)
 
 ---
 
-## [光州](Gwangju.md)
+## <a id=cheongju></a>[米酒](#cheongju) { #cheongju }
 
-- [Mayan • 마얀](mayan.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Gwangju&city=Gwangju)
-
----
-
-## [仁川](Incheon.md)
-
-- [Be Bop Bar • 비밥빠](be-bop-bar.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Incheon&city=Incheon)
+| | 名称 | |
+| --- | --- | --- |
+| | [Hoppers Hall](hoppers-hall.md) | 하퍼스홀 |
+| | [Rico](rico.md) | 리코 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Cheongju&city=Cheongju)
 
 ---
 
-## [济州岛](Jeju.md)
+## <a id=daejeon></a>[大田](#daejeon) { #daejeon }
 
-- [Swing Bar • 스윙빠](swing-bar.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Jeju&city=Jeju)
-
----
-
-## [首尔](Seoul.md)
-
-- [Big Apple (Seoul) • 빅애플](big-apple-seoul.md)
-- [Bongchun Salon • 봉천살롱](bongchun-salon.md)
-- [Cloud 9 Dance Hall • 클라우드9](cloud-9-dance-hall.md)
-- [Fiesta 2 • 피에스타2](fiesta-2.md)
-- [Happy Hall  • 해피홀](happy-hall.md)
-- [In The Mood Sillim • 인더무드 신림](in-the-mood-sillim.md)
-- [Kyungsung hall • 경성홀](kyungsung-hall.md)
-- [Lala Hall • 라라홀](lala-hall.md)
-- [SAVOY Ballroom  • 사보이](savoy-ballroom.md)
-- [Swing Time Bar • 스윙타임](swing-time-bar.md)
-- [The Social Club • 더 쏘셜클럽](the-social-club.md)
-- [Triple Crown Swing Dance Academy • 트리플크라운 스윙댄스학원](triple-crown.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing It Dance Hall](swing-it-dance-hall.md) | 스윙잇 댄스홀 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Daejeon&city=Daejeon)
 
 ---
 
-## [水原](Suwon.md)
+## <a id=deagu></a>[大邱](#deagu) { #deagu }
 
-- [Clave • 클라베](clave.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Suwon&city=Suwon)
+| | 名称 | |
+| --- | --- | --- |
+| | [Asurajang](asurajang.md) | 아수라장 |
+| | [Babaru](babaru.md) | 바바루 |
+| | [Club ANN](club-ann.md) | 클럽엔 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu)
+
+---
+
+## <a id=gwangju></a>[光州](#gwangju) { #gwangju }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Mayan](mayan.md) | 마얀 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Gwangju&city=Gwangju)
+
+---
+
+## <a id=incheon></a>[仁川](#incheon) { #incheon }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Be Bop Bar](be-bop-bar.md) | 비밥빠 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Incheon&city=Incheon)
+
+---
+
+## <a id=jeju></a>[济州岛](#jeju) { #jeju }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Bar](swing-bar.md) | 스윙빠 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Jeju&city=Jeju)
+
+---
+
+## <a id=seoul></a>[首尔](#seoul) { #seoul }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Big Apple (Seoul)](big-apple-seoul.md) | 빅애플 |
+| | [Bongchun Salon](bongchun-salon.md) | 봉천살롱 |
+| | [Cloud 9 Dance Hall](cloud-9-dance-hall.md) | 클라우드9 |
+| | [Fiesta 2](fiesta-2.md) | 피에스타2 |
+| | [Happy Hall ](happy-hall.md) | 해피홀 |
+| | [In The Mood Sillim](in-the-mood-sillim.md) | 인더무드 신림 |
+| | [Kyungsung hall](kyungsung-hall.md) | 경성홀 |
+| | [Lala Hall](lala-hall.md) | 라라홀 |
+| | [SAVOY Ballroom ](savoy-ballroom.md) | 사보이 |
+| | [Swing Time Bar](swing-time-bar.md) | 스윙타임 |
+| | [The Social Club](the-social-club.md) | 더 쏘셜클럽 |
+| | [Triple Crown Swing Dance Academy](triple-crown.md) | 트리플크라운 스윙댄스학원 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul)
+
+---
+
+## <a id=suwon></a>[水原](#suwon) { #suwon }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Clave](clave.md) | 클라베 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Suwon&city=Suwon)
 
 ---
 

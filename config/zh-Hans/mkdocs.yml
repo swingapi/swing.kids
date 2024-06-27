@@ -15,21 +15,14 @@ nav:
     - 美洲:
       - en_US • 美国:
         - 总览: en_US/index.md
-        - 城市:
-          - en_US/New York.md
+        - 城市: en_US/cities.md
         - 组织:
+          - en_US/hot-rhythm-foundation.md
           - en_US/ilindy.md
     - 亚洲:
       - ja_JP • 日本:
         - 总览: ja_JP/index.md
-        - 城市:
-          - ja_JP/Kanagawa.md
-          - ja_JP/Niigata.md
-          - ja_JP/Osaka.md
-          - ja_JP/Sapporo.md
-          - ja_JP/Sendai.md
-          - ja_JP/Tokyo.md
-          - ja_JP/Yokohama.md
+        - 城市: ja_JP/cities.md
         - 组织:
           - ja_JP/chillboa.md
           - ja_JP/dancing-bus.md
@@ -44,18 +37,7 @@ nav:
           - ja_JP/tokyo-swing-dance-society.md
       - ko_KR • 韩国:
         - 总览: ko_KR/index.md
-        - 城市:
-          - ko_KR/Busan.md
-          - ko_KR/Changwon.md
-          - ko_KR/Cheonan.md
-          - ko_KR/Cheongju.md
-          - ko_KR/Daejeon.md
-          - ko_KR/Deagu.md
-          - ko_KR/Gwangju.md
-          - ko_KR/Incheon.md
-          - ko_KR/Jeju.md
-          - ko_KR/Seoul.md
-          - ko_KR/Suwon.md
+        - 城市: ko_KR/cities.md
         - 组织:
           - ko_KR/1st-bar.md
           - ko_KR/asurajang.md
@@ -88,37 +70,12 @@ nav:
           - ko_KR/wing-bar.md
       - th_TH • 泰国:
         - 总览: th_TH/index.md
-        - 城市:
-          - th_TH/Bangkok.md
+        - 城市: th_TH/cities.md
         - 组织:
           - th_TH/the-hop-bangkok.md
       - zh_CN • 中国:
         - 总览: zh_CN/index.md
-        - 城市:
-          - zh_CN/Anhui.md
-          - zh_CN/Beijing.md
-          - zh_CN/Chongqing.md
-          - zh_CN/Fujian.md
-          - zh_CN/Gansu.md
-          - zh_CN/Guangdong.md
-          - zh_CN/Guizhou.md
-          - zh_CN/Hebei.md
-          - zh_CN/Heilongjiang.md
-          - zh_CN/Henan.md
-          - zh_CN/Hubei.md
-          - zh_CN/Hunan.md
-          - zh_CN/Jiangsu.md
-          - zh_CN/Jiangxi.md
-          - zh_CN/Liaoning.md
-          - zh_CN/Neimenggu.md
-          - zh_CN/Shaanxi.md
-          - zh_CN/Shandong.md
-          - zh_CN/Shanghai.md
-          - zh_CN/Shanxi.md
-          - zh_CN/Sichuan.md
-          - zh_CN/Tianjin.md
-          - zh_CN/Yunnan.md
-          - zh_CN/Zhejiang.md
+        - 城市: zh_CN/cities.md
         - 组织:
           - zh_CN/a-frame.md
           - zh_CN/a-jass-dance.md
@@ -126,7 +83,7 @@ nav:
           - zh_CN/blues-beijing.md
           - zh_CN/blues-guang-zhou.md
           - zh_CN/camel-walk-swing.md
-          - zh_CN/cat-s-corner-studio.md
+          - zh_CN/cats-corner-studio.md
           - zh_CN/doo-the-swing.md
           - zh_CN/double-swing.md
           - zh_CN/downtown-swing.md
@@ -188,8 +145,7 @@ nav:
           - zh_CN/zou-jin-yao-bai-wu.md
       - zh_HK • 香港:
         - 总览: zh_HK/index.md
-        - 城市:
-          - zh_HK/HK.md
+        - 城市: zh_HK/cities.md
         - 组织:
           - zh_HK/hong-kong-balboa.md
           - zh_HK/hong-kong-swing.md
@@ -197,11 +153,7 @@ nav:
           - zh_HK/swing-pocket.md
       - zh_TW • 台湾:
         - 总览: zh_TW/index.md
-        - 城市:
-          - zh_TW/Hsinchu.md
-          - zh_TW/Kaohsiung.md
-          - zh_TW/Taichung.md
-          - zh_TW/Taipei.md
+        - 城市: zh_TW/cities.md
         - 组织:
           - zh_TW/big-apple-swing-studio.md
           - zh_TW/friday-swing.md

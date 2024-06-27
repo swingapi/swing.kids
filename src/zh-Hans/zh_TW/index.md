@@ -4,37 +4,45 @@ status: city
 
 ---
 
-## [新竹](Hsinchu.md)
+## <a id=hsinchu></a>[新竹](#hsinchu) { #hsinchu }
 
-- [Swing Gale • Swing Gale 大風搖擺](swing-gale.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Hsinchu&city=Hsinchu)
-
----
-
-## [高雄](Kaohsiung.md)
-
-- [Swing Fomosa](swing-fomosa.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Kaohsiung&city=Kaohsiung)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Gale](swing-gale.md) | Swing Gale 大風搖擺 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Hsinchu&city=Hsinchu)
 
 ---
 
-## [台中](Taichung.md)
+## <a id=kaohsiung></a>[高雄](#kaohsiung) { #kaohsiung }
 
-- [Let’s Swing Taichung • Let’s Swing Taichung 台中搖擺舞教室](lets-swing-taichung.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Taichung&city=Taichung)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Fomosa](swing-fomosa.md) |  |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Kaohsiung&city=Kaohsiung)
 
 ---
 
-## [台北](Taipei.md)
+## <a id=taichung></a>[台中](#taichung) { #taichung }
 
-- [Big Apple Swing Studio • Big Apple Swing Studio 搖擺舞教室](big-apple-swing-studio.md)
-- [Friday Swing • Friday Swing 社交舞與搖擺舞](friday-swing.md)
-- [JF Swing • JFSwing 搖擺舞教室](jf-swing.md)
-- [Naughty Swing • Naughty Swing 搖擺舞團](naughty-swing.md)
-- [Swing Taiwan • Swing Taiwan 社交舞與搖擺舞學校](swing-tai-wan.md)
-- [Switch Taipei](switch-taipei.md)
-- [Tap Life • 踢踏舞咖啡廳&搖擺舞工作室-TapLife](tap-life.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei)
+| | 名称 | |
+| --- | --- | --- |
+| | [Let’s Swing Taichung](lets-swing-taichung.md) | Let’s Swing Taichung 台中搖擺舞教室 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Taichung&city=Taichung)
+
+---
+
+## <a id=taipei></a>[台北](#taipei) { #taipei }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Big Apple Swing Studio](big-apple-swing-studio.md) | Big Apple Swing Studio 搖擺舞教室 |
+| | [Friday Swing](friday-swing.md) | Friday Swing 社交舞與搖擺舞 |
+| | [JF Swing](jf-swing.md) | JFSwing 搖擺舞教室 |
+| | [Naughty Swing](naughty-swing.md) | Naughty Swing 搖擺舞團 |
+| | [Swing Taiwan](swing-tai-wan.md) | Swing Taiwan 社交舞與搖擺舞學校 |
+| | [Switch Taipei](switch-taipei.md) |  |
+| | [Tap Life](tap-life.md) | 踢踏舞咖啡廳&搖擺舞工作室-TapLife |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_TW%20%E2%80%A2%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei)
 
 ---
 

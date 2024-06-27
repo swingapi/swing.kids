@@ -4,293 +4,361 @@ status: city
 
 ---
 
-## [安徽](Anhui.md)
+## <a id=anhui></a>[安徽](#anhui) { #anhui }
 
-### 合肥
+### <a id=hefei></a>合肥 { #hefei }
 
-- [Hefei Swing • 合肥摇摆](he-fei-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Anhui&city=Hefei)
-
----
-
-## [北京](Beijing.md)
-
-- [A Frame • A Frame 舞蹈工作室](a-frame.md)
-- [A Jass Dance • 爵士时代跳舞公司](a-jass-dance.md)
-- [Blues Beijing](blues-beijing.md)
-- [Cat's Corner Studio • 猫角工作室](cat-s-corner-studio.md)
-- [Soul Swing](soul-swing.md)
-- [Swing Beasts • 摇摆野兽](swing-beasts.md)
-- [Swing Beijing • 摇摆北京](swing-beijing.md)
-- [Swing Friends](swing-friends.md)
-- [Swing Land • 摇摆乐园](swing-land.md)
-- [Swing Travels • 摇摆之旅](swing-travels.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing)
+| | 名称 | |
+| --- | --- | --- |
+| | [Hefei Swing](he-fei-swing.md) | 合肥摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Anhui&city=Hefei)
 
 ---
 
-## [重庆](Chongqing.md)
+## <a id=beijing></a>[北京](#beijing) { #beijing }
 
-- [Swing Chongqing • 山城摇摆](swing-chong-qing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Chongqing&city=Chongqing)
-
----
-
-## [福建](Fujian.md)
-
-### 福州
-
-- [Hidden Swing • 匿流摇摆舞工作室](hidden-swing.md)
-- [Swing Fuzhou • 榕城摇摆](swing-fu-zhou.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Fujian&city=Fuzhou)
-
-### 厦门
-
-- [Amoy Swing](amoy-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Fujian&city=Xiamen)
+| | 名称 | |
+| --- | --- | --- |
+| | [A Frame](a-frame.md) | A Frame 舞蹈工作室 |
+| | [A Jass Dance](a-jass-dance.md) | 爵士时代跳舞公司 |
+| | [Blues Beijing](blues-beijing.md) |  |
+| | [Cat's Corner Studio](cats-corner-studio.md) | 猫角工作室 |
+| | [Soul Swing](soul-swing.md) |  |
+| | [Swing Beasts](swing-beasts.md) | 摇摆野兽 |
+| | [Swing Beijing](swing-beijing.md) | 摇摆北京 |
+| | [Swing Friends](swing-friends.md) |  |
+| | [Swing Land](swing-land.md) | 摇摆乐园 |
+| | [Swing Travels](swing-travels.md) | 摇摆之旅 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing)
 
 ---
 
-## [甘肃](Gansu.md)
+## <a id=chongqing></a>[重庆](#chongqing) { #chongqing }
 
-### 兰州
-
-- [Swing Lan Zhou • 摇摆金城](swing-lan-zhou.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Gansu&city=Lanzhou)
-
----
-
-## [广东](Guangdong.md)
-
-### 佛山
-
-- [Swing Foshan • 佛山摇摆](swing-fo-shan.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Foshan)
-
-### 广州
-
-- [Blues Guangzhou](blues-guang-zhou.md)
-- [Swing Canton • 粤摇摆](swing-canton.md)
-- [TheBreak Swing Dance](the-break-swing-dance.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Guangzhou)
-
-### 汕头
-
-- [Swing Teoswa • 摇摆潮汕](swing-teoswa.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shantou)
-
-### 深圳
-
-- [Groove Blues Swing](groove-blues-swing.md)
-- [SO Dancing](so-dancing.md)
-- [Swing Shenzhen • 摇摆深圳](swing-shen-zhen.md)
-- [Swing Time • 摇摆时代](swing-time.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen)
-
-### 珠海
-
-- [Swing Zhuhai • 粤C • Swing](yue-c-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Zhuhai)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Chongqing](swing-chong-qing.md) | 山城摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Chongqing&city=Chongqing)
 
 ---
 
-## [贵州](Guizhou.md)
+## <a id=fujian></a>[福建](#fujian) { #fujian }
 
-### 贵阳
+### <a id=fuzhou></a>福州 { #fuzhou }
 
-- [Rhythm Park • 瑞瑟酒吧](rhythm-park.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guizhou&city=Guiyang)
+| | 名称 | |
+| --- | --- | --- |
+| | [Hidden Swing](hidden-swing.md) | 匿流摇摆舞工作室 |
+| | [Swing Fuzhou](swing-fu-zhou.md) | 榕城摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Fujian&city=Fuzhou)
 
----
+### <a id=xiamen></a>厦门 { #xiamen }
 
-## [河北](Hebei.md)
-
-### 石家庄
-
-- [Shi Men Swing • 石门摇摆](shi-men-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Hebei&city=Shijiazhuang)
-
----
-
-## [黑龙江](Heilongjiang.md)
-
-### 哈尔滨
-
-- [Ice City Swing • 摇摆哈尔滨](ice-city-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Heilongjiang&city=Harbin)
+| | 名称 | |
+| --- | --- | --- |
+| | [Amoy Swing](amoy-swing.md) |  |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Fujian&city=Xiamen)
 
 ---
 
-## [河南](Henan.md)
+## <a id=gansu></a>[甘肃](#gansu) { #gansu }
 
-### 郑州
+### <a id=lanzhou></a>兰州 { #lanzhou }
 
-- [Swing Zheng Zhou • 摇摆郑州](swing-zheng-zhou.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Henan&city=Zhengzhou)
-
----
-
-## [湖北](Hubei.md)
-
-### 武汉
-
-- [Swing Wuhan • 摇摆武汉](swing-wu-han.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Hubei&city=Wuhan)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Lan Zhou](swing-lan-zhou.md) | 摇摆金城 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Gansu&city=Lanzhou)
 
 ---
 
-## [湖南](Hunan.md)
+## <a id=guangdong></a>[广东](#guangdong) { #guangdong }
 
-### 长沙
+### <a id=foshan></a>佛山 { #foshan }
 
-- [Lizi Swing Dance Studio • 栗子摇摆舞室](lizi-swing-dance-studio.md)
-- [Swing Changsha • 长沙摇摆](swing-chang-sha.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Hunan&city=Changsha)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Foshan](swing-fo-shan.md) | 佛山摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Foshan)
 
----
+### <a id=guangzhou></a>广州 { #guangzhou }
 
-## [江苏](Jiangsu.md)
+| | 名称 | |
+| --- | --- | --- |
+| | [Blues Guangzhou](blues-guang-zhou.md) |  |
+| | [Swing Canton](swing-canton.md) | 粤摇摆 |
+| | [TheBreak Swing Dance](the-break-swing-dance.md) |  |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Guangzhou)
 
-### 南京
+### <a id=shantou></a>汕头 { #shantou }
 
-- [Laisi Swing Studio • 爵对莱斯工作室](laisi-swing-studio.md)
-- [Swing Nanjing • 金陵摇摆](swing-nan-jing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Jiangsu&city=Nanjing)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Teoswa](swing-teoswa.md) | 摇摆潮汕 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shantou)
 
----
+### <a id=shenzhen></a>深圳 { #shenzhen }
 
-## [江西](Jiangxi.md)
+| | 名称 | |
+| --- | --- | --- |
+| | [Groove Blues Swing](groove-blues-swing.md) |  |
+| | [SO Dancing](so-dancing.md) |  |
+| | [Swing Shenzhen](swing-shen-zhen.md) | 摇摆深圳 |
+| | [Swing Time](swing-time.md) | 摇摆时代 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen)
 
-### 南昌
+### <a id=zhuhai></a>珠海 { #zhuhai }
 
-- [M.R. Swing • 慢热摇摆](m-r-swing.md)
-- [Swing Nan Chang • 摇摆南昌](swing-nan-chang.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Jiangxi&city=Nanchang)
-
----
-
-## [辽宁](Liaoning.md)
-
-### 沈阳
-
-- [Swing Shenyang • 摇摆沈阳](swing-shen-yang.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Liaoning&city=Shenyang)
-
----
-
-## [内蒙古](Neimenggu.md)
-
-### 呼和浩特
-
-- [Swing Hohhot • 摇摆青城](swing-hohhot.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Neimenggu&city=Hohhot)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Zhuhai](yue-c-swing.md) | 粤C • Swing |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guangdong&city=Zhuhai)
 
 ---
 
-## [陕西](Shaanxi.md)
+## <a id=guizhou></a>[贵州](#guizhou) { #guizhou }
 
-### 西安
+### <a id=guiyang></a>贵阳 { #guiyang }
 
-- [Swing Adventure • 西安摇摆](swing-adventure.md)
-- [Swing Xi An • 摇摆西安](swing-xi-an.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shaanxi&city=Xian)
-
----
-
-## [山东](Shandong.md)
-
-### 济南
-
-- [Doo The Swing • 摇摆泉城](doo-the-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shandong&city=Jinan)
-
-### 青岛
-
-- [Tsingtao Swing • 青岛摇摆](tsing-tao-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shandong&city=Qingdao)
+| | 名称 | |
+| --- | --- | --- |
+| | [Rhythm Park](rhythm-park.md) | 瑞瑟酒吧 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Guizhou&city=Guiyang)
 
 ---
 
-## [上海](Shanghai.md)
+## <a id=hebei></a>[河北](#hebei) { #hebei }
 
-- [Downtown Swing • Downtown Swing 上海摇摆](downtown-swing.md)
-- [Swing Topia](swing-topia.md)
-- [Tabby The Cat • Tabby The Cat 摇摆舞工作室](tabby-the-cat.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shanghai&city=Shanghai)
+### <a id=shijiazhuang></a>石家庄 { #shijiazhuang }
 
----
-
-## [山西](Shanxi.md)
-
-### 太原
-
-- [Jin Swing • 晋摇摆](jin-swing.md)
-- [Swing Bing Zhou • 摇摆并州](swing-bing-zhou.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shanxi&city=Taiyuan)
+| | 名称 | |
+| --- | --- | --- |
+| | [Shi Men Swing](shi-men-swing.md) | 石门摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Hebei&city=Shijiazhuang)
 
 ---
 
-## [四川](Sichuan.md)
+## <a id=heilongjiang></a>[黑龙江](#heilongjiang) { #heilongjiang }
 
-### 成都
+### <a id=harbin></a>哈尔滨 { #harbin }
 
-- [Happy Swing • 快乐摇摆](happy-swing.md)
-- [Hi Swing • 摇摆成都](hi-swing.md)
-- [Mala Swing • 麻辣摇摆](mala-swing.md)
-- [Nan Men Swing • 南门 Swing](nan-men-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Sichuan&city=Chengdu)
-
----
-
-## [天津](Tianjin.md)
-
-- [Go Swing Tientsin • 够摇](go-swing-tientsin.md)
-- [Swing Stars Studio](swing-stars-studio.md)
-- [Swing Tianjin • 天津摇摆](swing-tian-jin.md)
-- [Zou Jin Yao Bai Wu • 走进摇摆舞](zou-jin-yao-bai-wu.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Tianjin&city=Tianjin)
+| | 名称 | |
+| --- | --- | --- |
+| | [Ice City Swing](ice-city-swing.md) | 摇摆哈尔滨 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Heilongjiang&city=Harbin)
 
 ---
 
-## [云南](Yunnan.md)
+## <a id=henan></a>[河南](#henan) { #henan }
 
-### 大理
+### <a id=zhengzhou></a>郑州 { #zhengzhou }
 
-- [Yun Swing • 云上摇摆](yun-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Yunnan&city=Dali)
-
-### 昆明
-
-- [Flying Home • 昆明摇摆](flying-home.md)
-- [Smalls Swing • 斯莫斯昆明摇摆](smalls-swing.md)
-- [Swing Kunming • 摇摆之滇](swing-kun-ming.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Yunnan&city=Kunming)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Zheng Zhou](swing-zheng-zhou.md) | 摇摆郑州 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Henan&city=Zhengzhou)
 
 ---
 
-## [浙江](Zhejiang.md)
+## <a id=hubei></a>[湖北](#hubei) { #hubei }
 
-### 杭州
+### <a id=wuhan></a>武汉 { #wuhan }
 
-- [Camel Walk Swing • 骆驼摇摆](camel-walk-swing.md)
-- [Seriously! Swing Studio • SSS认真摇摆工作室](seriously-swing-studio.md)
-- [Swing Hangzhou • 摇摆杭州](swing-hang-zhou.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Hangzhou)
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Wuhan](swing-wu-han.md) | 摇摆武汉 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Hubei&city=Wuhan)
 
-### 嘉兴
+---
 
-- [He Cheng Swing • 禾城摇摆](he-cheng-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Jiaxing)
+## <a id=hunan></a>[湖南](#hunan) { #hunan }
 
-### 宁波
+### <a id=changsha></a>长沙 { #changsha }
 
-- [NB Swing • 摇摆宁波](nb-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Ningbo)
+| | 名称 | |
+| --- | --- | --- |
+| | [Lizi Swing Dance Studio](lizi-swing-dance-studio.md) | 栗子摇摆舞室 |
+| | [Swing Changsha](swing-chang-sha.md) | 长沙摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Hunan&city=Changsha)
 
-### 台州
+---
 
-- [Double Swing • 二倍摇摆](double-swing.md)
-- [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Taizhou)
+## <a id=jiangsu></a>[江苏](#jiangsu) { #jiangsu }
+
+### <a id=nanjing></a>南京 { #nanjing }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Laisi Swing Studio](laisi-swing-studio.md) | 爵对莱斯工作室 |
+| | [Swing Nanjing](swing-nan-jing.md) | 金陵摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Jiangsu&city=Nanjing)
+
+---
+
+## <a id=jiangxi></a>[江西](#jiangxi) { #jiangxi }
+
+### <a id=nanchang></a>南昌 { #nanchang }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [M.R. Swing](m-r-swing.md) | 慢热摇摆 |
+| | [Swing Nan Chang](swing-nan-chang.md) | 摇摆南昌 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Jiangxi&city=Nanchang)
+
+---
+
+## <a id=liaoning></a>[辽宁](#liaoning) { #liaoning }
+
+### <a id=shenyang></a>沈阳 { #shenyang }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Shenyang](swing-shen-yang.md) | 摇摆沈阳 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Liaoning&city=Shenyang)
+
+---
+
+## <a id=neimenggu></a>[内蒙古](#neimenggu) { #neimenggu }
+
+### <a id=hohhot></a>呼和浩特 { #hohhot }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Hohhot](swing-hohhot.md) | 摇摆青城 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Neimenggu&city=Hohhot)
+
+---
+
+## <a id=shaanxi></a>[陕西](#shaanxi) { #shaanxi }
+
+### <a id=xian></a>西安 { #xian }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Adventure](swing-adventure.md) | 西安摇摆 |
+| | [Swing Xi An](swing-xi-an.md) | 摇摆西安 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shaanxi&city=Xian)
+
+---
+
+## <a id=shandong></a>[山东](#shandong) { #shandong }
+
+### <a id=jinan></a>济南 { #jinan }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Doo The Swing](doo-the-swing.md) | 摇摆泉城 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shandong&city=Jinan)
+
+### <a id=qingdao></a>青岛 { #qingdao }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Tsingtao Swing](tsing-tao-swing.md) | 青岛摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shandong&city=Qingdao)
+
+---
+
+## <a id=shanghai></a>[上海](#shanghai) { #shanghai }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Downtown Swing](downtown-swing.md) | Downtown Swing 上海摇摆 |
+| | [Swing Topia](swing-topia.md) |  |
+| | [Tabby The Cat](tabby-the-cat.md) | Tabby The Cat 摇摆舞工作室 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shanghai&city=Shanghai)
+
+---
+
+## <a id=shanxi></a>[山西](#shanxi) { #shanxi }
+
+### <a id=taiyuan></a>太原 { #taiyuan }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Jin Swing](jin-swing.md) | 晋摇摆 |
+| | [Swing Bing Zhou](swing-bing-zhou.md) | 摇摆并州 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shanxi&city=Taiyuan)
+
+---
+
+## <a id=sichuan></a>[四川](#sichuan) { #sichuan }
+
+### <a id=chengdu></a>成都 { #chengdu }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Happy Swing](happy-swing.md) | 快乐摇摆 |
+| | [Hi Swing](hi-swing.md) | 摇摆成都 |
+| | [Mala Swing](mala-swing.md) | 麻辣摇摆 |
+| | [Nan Men Swing](nan-men-swing.md) | 南门 Swing |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Sichuan&city=Chengdu)
+
+---
+
+## <a id=tianjin></a>[天津](#tianjin) { #tianjin }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Go Swing Tientsin](go-swing-tientsin.md) | 够摇 |
+| | [Swing Stars Studio](swing-stars-studio.md) |  |
+| | [Swing Tianjin](swing-tian-jin.md) | 天津摇摆 |
+| | [Zou Jin Yao Bai Wu](zou-jin-yao-bai-wu.md) | 走进摇摆舞 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Tianjin&city=Tianjin)
+
+---
+
+## <a id=yunnan></a>[云南](#yunnan) { #yunnan }
+
+### <a id=dali></a>大理 { #dali }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Yun Swing](yun-swing.md) | 云上摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Yunnan&city=Dali)
+
+### <a id=kunming></a>昆明 { #kunming }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Flying Home](flying-home.md) | 昆明摇摆 |
+| | [Smalls Swing](smalls-swing.md) | 斯莫斯昆明摇摆 |
+| | [Swing Kunming](swing-kun-ming.md) | 摇摆之滇 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Yunnan&city=Kunming)
+
+---
+
+## <a id=zhejiang></a>[浙江](#zhejiang) { #zhejiang }
+
+### <a id=hangzhou></a>杭州 { #hangzhou }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Camel Walk Swing](camel-walk-swing.md) | 骆驼摇摆 |
+| | [Seriously! Swing Studio](seriously-swing-studio.md) | SSS认真摇摆工作室 |
+| | [Swing Hangzhou](swing-hang-zhou.md) | 摇摆杭州 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Hangzhou)
+
+### <a id=jiaxing></a>嘉兴 { #jiaxing }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [He Cheng Swing](he-cheng-swing.md) | 禾城摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Jiaxing)
+
+### <a id=ningbo></a>宁波 { #ningbo }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [NB Swing](nb-swing.md) | 摇摆宁波 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Ningbo)
+
+### <a id=taizhou></a>台州 { #taizhou }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Double Swing](double-swing.md) | 二倍摇摆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Taizhou)
 
 ---
 
