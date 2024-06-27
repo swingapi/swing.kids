@@ -13,7 +13,10 @@ subtitle: 스윙243 댄스홀
 
 :fontawesome-solid-envelope: <doggob1@naver.com>  
 :fontawesome-solid-globe: <https://swing243.wordpress.com/>  
-:fontawesome-brands-facebook-f: [swing243](https://www.facebook.com/swing243)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swing243)
 
 ---
 

@@ -14,8 +14,10 @@ title: Swing Fomosa
 ## Contact
 
 :fontawesome-solid-envelope: <swingformosa@gmail.com>  
-:fontawesome-brands-facebook-f: [swingformosa2020](https://www.facebook.com/swingformosa2020)  
-:fontawesome-brands-instagram: [swingformosa](http://instagram.com/swingformosa)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swingformosa2020) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingformosa)
 
 ---
 

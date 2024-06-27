@@ -11,9 +11,10 @@ title: Switch Taipei
 
 :fontawesome-solid-envelope: <swtichtaipei@gmail.com;abcd60615@gmail.com>  
 :fontawesome-solid-globe: <https://www.switchtaipei.com>  
-:fontawesome-brands-facebook-f: [switchtaipei](https://www.facebook.com/switchtaipei)  
-:fontawesome-brands-instagram: [switchtaipei_pridevoice](http://instagram.com/switchtaipei_pridevoice)  
-:fontawesome-brands-youtube: [switchtaipei19](https://youtube.com/switchtaipei19)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/switchtaipei) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/switchtaipei_pridevoice) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/switchtaipei19)
 
 ---
 

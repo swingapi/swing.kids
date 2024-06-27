@@ -16,7 +16,10 @@ title: Tokyo Swing Dance Society
 
 :fontawesome-solid-envelope: <hiro@impetus.ne.jp>  
 :fontawesome-solid-globe: <https://www.impetus.ne.jp/tsdsweb/>  
-:fontawesome-brands-facebook-f: [TokyoSwingDance](https://www.facebook.com/TokyoSwingDance)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/TokyoSwingDance)
 
 ---
 

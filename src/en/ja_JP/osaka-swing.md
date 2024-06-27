@@ -17,8 +17,10 @@ subtitle: 大阪スイング
 
 :fontawesome-solid-envelope: <mechakucha.swing@gmail.com>  
 :fontawesome-solid-globe: <https://osakaswing.com>  
-:fontawesome-brands-facebook-f: [osakaswing](https://www.facebook.com/osakaswing)  
-:fontawesome-brands-instagram: [osakaswing](http://instagram.com/osakaswing)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/osakaswing) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/osakaswing)
 
 ---
 

@@ -13,9 +13,10 @@ Naughty Swing 搖擺舞團
 
 :fontawesome-solid-envelope: <naughtyswingtw@gmail.com>  
 :fontawesome-solid-globe: <https://naughtyswing.com.tw>  
-:fontawesome-brands-facebook-f: [nsintaiwan](https://www.facebook.com/nsintaiwan)  
-:fontawesome-brands-instagram: [naughtyswing](http://instagram.com/naughtyswing)  
-:fontawesome-brands-youtube: [naughtyswing](https://youtube.com/naughtyswing)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/nsintaiwan) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/naughtyswing) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/naughtyswing)
 
 ---
 

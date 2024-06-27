@@ -12,7 +12,10 @@ subtitle: 해피홀
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [HappyDanceHall](https://www.facebook.com/HappyDanceHall)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/HappyDanceHall)
 
 ---
 

@@ -12,8 +12,10 @@ subtitle: 사보이
 ## Contact
 
 :fontawesome-solid-globe: <https://savoyballroom.modoo.at/>  
-:fontawesome-brands-facebook-f: [SAVOYBALLROOMSwingBar](https://www.facebook.com/SAVOYBALLROOMSwingBar)  
-:fontawesome-brands-instagram: [_savoy_ballroom](http://instagram.com/_savoy_ballroom)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/SAVOYBALLROOMSwingBar) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/_savoy_ballroom)
 
 ---
 

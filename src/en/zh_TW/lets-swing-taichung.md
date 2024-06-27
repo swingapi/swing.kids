@@ -16,9 +16,10 @@ Let’s Swing Taichung 台中搖擺舞教室
 ## Contact
 
 :fontawesome-solid-envelope: <letsswingtaichung@gmail.com>  
-:fontawesome-brands-facebook-f: [Letsswingtaichung](https://www.facebook.com/Letsswingtaichung)  
-:fontawesome-brands-instagram: [lets_swing_taichung](http://instagram.com/lets_swing_taichung)  
-:fontawesome-brands-youtube: [letsswingtaichung4993](https://youtube.com/letsswingtaichung4993)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/Letsswingtaichung) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/lets_swing_taichung) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/letsswingtaichung4993)
 
 ---
 

@@ -13,7 +13,10 @@ subtitle: 라라홀
 
 :fontawesome-solid-envelope: <dancehall@naver.com>  
 :fontawesome-solid-globe: <http://www.krsd.co.kr>  
-:fontawesome-brands-facebook-f: [lalahallswing](https://www.facebook.com/lalahallswing)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/lalahallswing)
 
 ---
 

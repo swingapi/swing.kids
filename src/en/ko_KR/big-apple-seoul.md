@@ -12,8 +12,10 @@ subtitle: 빅애플
 ## Contact
 
 :fontawesome-solid-envelope: <wookiminam@gmail.com>  
-:fontawesome-brands-facebook-f: [bbbigapple](https://www.facebook.com/bbbigapple)  
-:fontawesome-brands-instagram: [bigappleswing](http://instagram.com/bigappleswing)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/bbbigapple) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/bigappleswing)
 
 ---
 

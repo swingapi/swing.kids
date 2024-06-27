@@ -13,8 +13,10 @@ subtitle: 스윙타임
 
 :fontawesome-solid-envelope: <hl1mwe@gmail.com>  
 :fontawesome-solid-globe: <https://swingtime.modoo.at/>  
-:fontawesome-brands-facebook-f: [swingtimebar](https://www.facebook.com/swingtimebar)  
-:fontawesome-brands-instagram: [swingtimebar](http://instagram.com/swingtimebar)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swingtimebar) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingtimebar)
 
 ---
 

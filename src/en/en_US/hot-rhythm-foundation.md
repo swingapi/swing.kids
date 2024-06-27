@@ -11,9 +11,10 @@ title: Hot Rhythm Foundation
 
 :fontawesome-solid-envelope: <info@hotrhythmholiday.com>  
 :fontawesome-solid-globe: <https://www.hotrhythmholiday.com>  
-:fontawesome-brands-facebook-f: [hotrhythmholiday](https://www.facebook.com/hotrhythmholiday)  
-:fontawesome-brands-instagram: [hotrhythmholiday](http://instagram.com/hotrhythmholiday)  
-:fontawesome-brands-youtube: [HotRhythmFoundation](https://youtube.com/HotRhythmFoundation)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/hotrhythmholiday) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/hotrhythmholiday) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/HotRhythmFoundation)
 
 ---
 

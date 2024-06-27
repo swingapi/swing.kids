@@ -13,7 +13,10 @@ subtitle: 더 케이 댄스 스튜디오
 
 :fontawesome-solid-envelope: <thekdance@naver.com>  
 :fontawesome-solid-globe: <https://blog.naver.com/thekdance>  
-:fontawesome-brands-facebook-f: [thekdance](https://www.facebook.com/thekdance)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/thekdance)
 
 ---
 

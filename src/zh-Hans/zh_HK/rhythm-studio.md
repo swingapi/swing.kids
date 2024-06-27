@@ -11,8 +11,10 @@ title: Rhythm Studio
 
 :fontawesome-solid-envelope: <info@rhythmstudiohk.com>  
 :fontawesome-solid-globe: <https://rhythmstudiohk.com/>  
-:fontawesome-brands-facebook-f: [RhythmStudioHK](https://www.facebook.com/RhythmStudioHK)  
-:fontawesome-brands-instagram: [rhythmstudiohk](http://instagram.com/rhythmstudiohk)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/RhythmStudioHK) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/rhythmstudiohk)
 
 ---
 

@@ -11,7 +11,10 @@ title: Dancing Bus
 
 :fontawesome-solid-envelope: <info@dancingbus.com>  
 :fontawesome-solid-globe: <https://www.dancingbus.com>  
-:fontawesome-brands-facebook-f: [dancingbus](https://www.facebook.com/dancingbus)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/dancingbus)
 
 ---
 

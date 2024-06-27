@@ -19,7 +19,10 @@ subtitle: 猫角工作室
 ## 联系
 
 :fontawesome-brands-weixin: 猫角工作室  
-:fontawesome-brands-bilibili: 猫角工作室  
+
+---
+
+ [:fontawesome-brands-bilibili:{ .ky_social_links_icon }](https://space.bilibili.com/猫角工作室)
 
 ---
 

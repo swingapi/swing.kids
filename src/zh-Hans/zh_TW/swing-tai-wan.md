@@ -13,9 +13,10 @@ Swing Taiwan 社交舞與搖擺舞學校
 
 :fontawesome-solid-envelope: <hi@swingtaiwan.com>  
 :fontawesome-solid-globe: <https://www.swingtaiwan.com>  
-:fontawesome-brands-facebook-f: [SwingTaiwan3](https://www.facebook.com/SwingTaiwan3)  
-:fontawesome-brands-instagram: [swingtaiwan](http://instagram.com/swingtaiwan)  
-:fontawesome-brands-youtube: [swingtaiwan197](https://youtube.com/swingtaiwan197)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/SwingTaiwan3) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingtaiwan) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/swingtaiwan197)
 
 ---
 

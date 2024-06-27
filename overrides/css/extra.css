@@ -106,3 +106,10 @@
   -webkit-mask-image: var(--md-admonition-icon--notes);
           mask-image: var(--md-admonition-icon--notes);
 }
+
+/* Social Links Icon */
+
+.ky_social_links_icon {
+  font-size: 40px;
+  padding: 8px;
+}

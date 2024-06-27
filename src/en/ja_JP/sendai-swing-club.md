@@ -9,7 +9,10 @@ title: Sendai Swing Club
 
 ## Contact
 
-:fontawesome-brands-facebook-f: [groups/160791833988109](https://www.facebook.com/groups/160791833988109)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/160791833988109)
 
 ---
 

@@ -18,9 +18,10 @@ Since 2016
 
 :fontawesome-solid-envelope: <taplifecafe@gmail.com>  
 :fontawesome-solid-globe: <https://taplifecafe.blogspot.com>  
-:fontawesome-brands-facebook-f: [taplifecafe](https://www.facebook.com/taplifecafe)  
-:fontawesome-brands-instagram: [taplifecafe](http://instagram.com/taplifecafe)  
-:fontawesome-brands-youtube: [TapLifeStudio](https://youtube.com/TapLifeStudio)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/taplifecafe) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/taplifecafe) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/TapLifeStudio)
 
 ---
 

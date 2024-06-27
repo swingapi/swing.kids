@@ -18,9 +18,10 @@ Since 2015
 
 :fontawesome-solid-envelope: <appleswingstudio@gmail.com>  
 :fontawesome-solid-globe: <https://www.baswing.com>  
-:fontawesome-brands-facebook-f: [BigAppleSwing](https://www.facebook.com/BigAppleSwing)  
-:fontawesome-brands-instagram: [ba.swing](http://instagram.com/ba.swing)  
-:fontawesome-brands-youtube: [SwingStudioBigApple](https://youtube.com/SwingStudioBigApple)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/BigAppleSwing) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/ba.swing) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/SwingStudioBigApple)
 
 ---
 

@@ -11,8 +11,10 @@ subtitle: 인더무드 신림
 
 ## Contact
 
-:fontawesome-brands-facebook-f: [inthemoodsillim](https://www.facebook.com/inthemoodsillim)  
-:fontawesome-brands-instagram: [inthemoodsillim](http://instagram.com/inthemoodsillim)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/inthemoodsillim) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/inthemoodsillim)
 
 ---
 

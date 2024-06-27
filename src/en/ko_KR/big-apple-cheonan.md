@@ -13,8 +13,10 @@ subtitle: 빅애플
 
 :fontawesome-solid-envelope: <wookiminam@naver.com>  
 :fontawesome-solid-globe: <https://cafe.naver.com/bigappleswing>  
-:fontawesome-brands-facebook-f: [cabigapple](https://www.facebook.com/cabigapple)  
-:fontawesome-brands-instagram: [bigappleswing](http://instagram.com/bigappleswing)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/cabigapple) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/bigappleswing)
 
 ---
 

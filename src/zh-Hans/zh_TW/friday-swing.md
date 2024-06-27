@@ -15,9 +15,10 @@ Friday Swing 社交舞與搖擺舞
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [FridayNightSwingDanceSocial](https://www.facebook.com/FridayNightSwingDanceSocial)  
-:fontawesome-brands-instagram: [friday_swing_social_tgif](http://instagram.com/friday_swing_social_tgif)  
-:fontawesome-brands-youtube: [socialfridaynight9159](https://youtube.com/socialfridaynight9159)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/FridayNightSwingDanceSocial) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/friday_swing_social_tgif) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/socialfridaynight9159)
 
 ---
 

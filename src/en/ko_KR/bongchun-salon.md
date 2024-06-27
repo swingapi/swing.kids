@@ -12,8 +12,10 @@ subtitle: 봉천살롱
 ## Contact
 
 :fontawesome-solid-globe: <https://cafe.naver.com/bongcheonsalon>  
-:fontawesome-brands-facebook-f: [봉천살롱 - Bongcheon Salon Dance Hall](https://www.facebook.com/봉천살롱 - Bongcheon Salon Dance Hall)  
-:fontawesome-brands-instagram: [bongcheonsalon](http://instagram.com/bongcheonsalon)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/봉천살롱 - Bongcheon Salon Dance Hall) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/bongcheonsalon)
 
 ---
 

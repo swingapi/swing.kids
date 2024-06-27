@@ -12,8 +12,10 @@ subtitle: 더 쏘셜클럽
 ## 联系
 
 :fontawesome-solid-globe: <https://socialclubseoul.co.kr>  
-:fontawesome-brands-facebook-f: [socialclubseoul](https://www.facebook.com/socialclubseoul)  
-:fontawesome-brands-instagram: [thesocialcluba](http://instagram.com/thesocialcluba)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/socialclubseoul) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/thesocialcluba)
 
 ---
 

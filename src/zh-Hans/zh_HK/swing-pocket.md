@@ -13,8 +13,10 @@ subtitle: 一代搖擺
 ## 联系
 
 :fontawesome-solid-globe: <https://www.swingpocket.com>  
-:fontawesome-brands-facebook-f: [swingpockethk](https://www.facebook.com/swingpockethk)  
-:fontawesome-brands-instagram: [swingpockethk](http://instagram.com/swingpockethk)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swingpockethk) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingpockethk)
 
 ---
 

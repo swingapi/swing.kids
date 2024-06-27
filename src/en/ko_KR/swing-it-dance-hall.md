@@ -12,7 +12,10 @@ subtitle: 스윙잇 댄스홀
 ## Contact
 
 :fontawesome-solid-globe: <http://www.swingkorea.com/>  
-:fontawesome-brands-facebook-f: [swingitdancehalldaejeon](https://www.facebook.com/swingitdancehalldaejeon)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swingitdancehalldaejeon)
 
 ---
 

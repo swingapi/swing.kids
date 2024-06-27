@@ -10,9 +10,10 @@ title: The Hop Bangkok
 ## Contact
 
 :fontawesome-solid-globe: <https://www.thehopbkk.com>  
-:fontawesome-brands-facebook-f: [thehopbangkok](https://www.facebook.com/thehopbangkok)  
-:fontawesome-brands-instagram: [thehopbangkok](http://instagram.com/thehopbangkok)  
-:fontawesome-brands-youtube: [TheHopBangkok](https://youtube.com/TheHopBangkok)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/thehopbangkok) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/thehopbangkok) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/TheHopBangkok)
 
 ---
 

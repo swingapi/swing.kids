@@ -9,7 +9,10 @@ title: Sapporo Swing Dance
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [groups/526952834137670](https://www.facebook.com/groups/526952834137670)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/526952834137670)
 
 ---
 

@@ -12,8 +12,10 @@ JFSwing 搖擺舞教室
 ## 联系
 
 :fontawesome-solid-envelope: <jfswing.tw@gmail.com>  
-:fontawesome-brands-facebook-f: [jfswing.tw](https://www.facebook.com/jfswing.tw)  
-:fontawesome-brands-instagram: [swing_jf](http://instagram.com/swing_jf)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/jfswing.tw) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swing_jf)
 
 ---
 

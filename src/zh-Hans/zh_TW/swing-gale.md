@@ -12,9 +12,10 @@ Swing Gale 大風搖擺
 ## 联系
 
 :fontawesome-solid-envelope: <swinggale@gmail.com>  
-:fontawesome-brands-facebook-f: [swinggale](https://www.facebook.com/swinggale)  
-:fontawesome-brands-instagram: [swinggale](http://instagram.com/swinggale)  
-:fontawesome-brands-youtube: [galeswing](https://youtube.com/galeswing)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swinggale) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swinggale) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/galeswing)
 
 ---
 

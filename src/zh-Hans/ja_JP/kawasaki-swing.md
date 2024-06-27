@@ -11,8 +11,10 @@ tags:
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [id=100090849214277](https://www.facebook.com/profile.php?id=100090849214277)  
-:fontawesome-brands-instagram: [kawasaki_balboa](http://instagram.com/kawasaki_balboa)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=100090849214277) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/kawasaki_balboa)
 
 ---
 

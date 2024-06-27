@@ -11,8 +11,10 @@ title: Swing Gigolo
 
 :fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
 :fontawesome-solid-globe: <http://swing-jack.com>  
-:fontawesome-brands-facebook-f: [swinggigolo](https://www.facebook.com/swinggigolo)  
-:fontawesome-brands-instagram: [amorehirosuke](http://instagram.com/amorehirosuke)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/swinggigolo) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/amorehirosuke)
 
 ---
 

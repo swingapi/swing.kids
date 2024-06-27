@@ -11,9 +11,10 @@ title: iLindy
 
 :fontawesome-solid-envelope: <info@ilindy.com>  
 :fontawesome-solid-globe: <https://ilindy.com>  
-:fontawesome-brands-facebook-f: [iLindyhop](https://www.facebook.com/iLindyhop)  
-:fontawesome-brands-instagram: [ilindy_hop](http://instagram.com/ilindy_hop)  
-:fontawesome-brands-youtube: [ilindy](https://youtube.com/ilindy)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/iLindyhop) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/ilindy_hop) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/ilindy)
 
 ---
 

@@ -11,9 +11,10 @@ subtitle: 경성홀
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [kyungsunghall](https://www.facebook.com/kyungsunghall)  
-:fontawesome-brands-instagram: [kyungsunghall](http://instagram.com/kyungsunghall)  
-:fontawesome-brands-youtube: [KyungsungHall](https://youtube.com/KyungsungHall)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/kyungsunghall) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/kyungsunghall) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/KyungsungHall)
 
 ---
 

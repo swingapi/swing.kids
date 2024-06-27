@@ -12,9 +12,10 @@ Since 2006
 
 :fontawesome-solid-envelope: <hkswings@gmail.com>  
 :fontawesome-solid-globe: <https://hongkongswings.com>  
-:fontawesome-brands-facebook-f: [HongKongSwings](https://www.facebook.com/HongKongSwings)  
-:fontawesome-brands-instagram: [hongkongswings](http://instagram.com/hongkongswings)  
-:fontawesome-brands-youtube: [hkswings](https://youtube.com/hkswings)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/HongKongSwings) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/hongkongswings) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/hkswings)
 
 ---
 

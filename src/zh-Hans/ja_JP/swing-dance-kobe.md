@@ -9,7 +9,10 @@ title: Swing Dance Kobe
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [groups/SwingDanceKobe](https://www.facebook.com/groups/SwingDanceKobe)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/SwingDanceKobe)
 
 ---
 

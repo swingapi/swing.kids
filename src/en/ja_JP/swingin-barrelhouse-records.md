@@ -11,7 +11,10 @@ Since 2019
 ## Contact
 
 :fontawesome-solid-globe: <https://www.swingin-barrelhouse-records.com>  
-:fontawesome-brands-instagram: [swingin_barrelhouse_records](http://instagram.com/swingin_barrelhouse_records)  
+
+---
+
+ [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/swingin_barrelhouse_records)
 
 ---
 

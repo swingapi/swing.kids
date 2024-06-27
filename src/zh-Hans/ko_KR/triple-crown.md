@@ -13,9 +13,10 @@ subtitle: 트리플크라운 스윙댄스학원
 
 :fontawesome-solid-envelope: <triplecrown231@gmail.com>  
 :fontawesome-solid-globe: <http://www.triplecrownsd.com>  
-:fontawesome-brands-facebook-f: [TripleCrownSDA](https://www.facebook.com/TripleCrownSDA)  
-:fontawesome-brands-instagram: [triplecrown_swingdance](http://instagram.com/triplecrown_swingdance)  
-:fontawesome-brands-youtube: [TripleCrownSwingDanceAcademy](https://youtube.com/TripleCrownSwingDanceAcademy)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/TripleCrownSDA) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/triplecrown_swingdance) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/TripleCrownSwingDanceAcademy)
 
 ---
 

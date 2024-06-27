@@ -13,8 +13,10 @@ Hong Kong Balboa
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [groups/356823061817248](https://www.facebook.com/groups/356823061817248)  
-:fontawesome-brands-instagram: [hongkongbalboa](http://instagram.com/hongkongbalboa)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/356823061817248) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/hongkongbalboa)
 
 ---
 

@@ -9,7 +9,10 @@ title: Swingin’ Niigata
 
 ## 联系
 
-:fontawesome-brands-facebook-f: [groups/589243062715844](https://www.facebook.com/groups/589243062715844)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/groups/589243062715844)
 
 ---
 

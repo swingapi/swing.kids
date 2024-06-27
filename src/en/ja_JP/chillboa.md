@@ -10,8 +10,10 @@ title: Chillboa
 ## Contact
 
 :fontawesome-solid-envelope: <chillboa.shibuya@gmail.com>  
-:fontawesome-brands-facebook-f: [chillboa](https://www.facebook.com/chillboa)  
-:fontawesome-brands-instagram: [chillboa_shibuya](http://instagram.com/chillboa_shibuya)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/chillboa) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/chillboa_shibuya)
 
 ---
 

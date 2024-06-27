@@ -12,8 +12,10 @@ subtitle: 하퍼스홀
 ## Contact
 
 :fontawesome-solid-globe: <https://litt.ly/hopperhall>  
-:fontawesome-brands-facebook-f: [하퍼스홀](https://www.facebook.com/하퍼스홀)  
-:fontawesome-brands-instagram: [hoppershall](http://instagram.com/hoppershall)  
+
+---
+
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/하퍼스홀) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/hoppershall)
 
 ---
 
