@@ -12,7 +12,10 @@ Since 2017
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingWuHan 摇摆武汉  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingWuHan 摇摆武汉")
 
 ---
 

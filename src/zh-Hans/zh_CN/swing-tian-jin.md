@@ -12,7 +12,10 @@ subtitle: 天津摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingTianjin 天津摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingTianjin 天津摇摆")
 
 ---
 

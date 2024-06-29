@@ -12,7 +12,10 @@ subtitle: 金陵摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingNanjing摇摆南京  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingNanjing摇摆南京")
 
 ---
 

@@ -10,7 +10,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: TheBreak Swing Dance  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "TheBreak Swing Dance")
 
 ---
 

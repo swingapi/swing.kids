@@ -10,7 +10,10 @@ Since 2018
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingFriends  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingFriends")
 
 ---
 

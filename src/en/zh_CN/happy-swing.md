@@ -12,7 +12,10 @@ Since 2023
 
 ## Contact
 
-:fontawesome-brands-weixin: 快乐摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "快乐摇摆")
 
 ---
 

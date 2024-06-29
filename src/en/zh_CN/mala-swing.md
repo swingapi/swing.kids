@@ -12,7 +12,10 @@ Since 2018
 
 ## Contact
 
-:fontawesome-brands-weixin: 麻辣摇摆社区  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "麻辣摇摆社区")
 
 ---
 

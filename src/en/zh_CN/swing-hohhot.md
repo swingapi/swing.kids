@@ -12,7 +12,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: 摇摆青城 Swing Hohhot  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆青城 Swing Hohhot")
 
 ---
 

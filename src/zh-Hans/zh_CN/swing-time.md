@@ -12,7 +12,10 @@ subtitle: 摇摆时代
 
 ## 联系
 
-:fontawesome-brands-weixin: 摇摆时代SwingTime  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆时代SwingTime")
 
 ---
 

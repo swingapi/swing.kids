@@ -12,7 +12,10 @@ subtitle: 摇摆沈阳
 
 ## 联系
 
-:fontawesome-brands-weixin: Swing Shenyang  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Swing Shenyang")
 
 ---
 

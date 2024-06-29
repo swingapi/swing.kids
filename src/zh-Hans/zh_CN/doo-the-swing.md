@@ -12,7 +12,10 @@ subtitle: 摇摆泉城
 
 ## 联系
 
-:fontawesome-brands-weixin: DooTheSwing摇摆泉城  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "DooTheSwing摇摆泉城")
 
 ---
 

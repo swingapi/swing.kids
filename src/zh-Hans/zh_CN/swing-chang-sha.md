@@ -12,7 +12,10 @@ subtitle: 长沙摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: 长沙摇摆Swing Changsha  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "长沙摇摆Swing Changsha")
 
 ---
 

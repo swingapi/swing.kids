@@ -10,7 +10,10 @@ title: Soul Swing
 
 ## 联系
 
-:fontawesome-brands-weixin: SOUL SWING  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SOUL SWING")
 
 ---
 

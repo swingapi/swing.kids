@@ -10,7 +10,10 @@ title: Swing Stars Studio
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingStarsStudio  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingStarsStudio")
 
 ---
 

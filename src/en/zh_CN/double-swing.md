@@ -12,7 +12,10 @@ Since 2022
 
 ## Contact
 
-:fontawesome-brands-weixin: Doubleswing二倍摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Doubleswing二倍摇摆")
 
 ---
 

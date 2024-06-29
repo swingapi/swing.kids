@@ -12,7 +12,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: DooTheSwing摇摆泉城  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "DooTheSwing摇摆泉城")
 
 ---
 

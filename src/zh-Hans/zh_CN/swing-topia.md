@@ -10,7 +10,10 @@ title: Swing Topia
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingTopia  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingTopia")
 
 ---
 

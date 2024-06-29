@@ -12,7 +12,10 @@ subtitle: 西安摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: Swing Adventure 西安摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Swing Adventure 西安摇摆")
 
 ---
 

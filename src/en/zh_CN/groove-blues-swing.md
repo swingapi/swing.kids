@@ -12,7 +12,10 @@ Since 2022
 
 ## Contact
 
-:fontawesome-brands-weixin: Groove BluesSwing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Groove BluesSwing")
 
 ---
 

@@ -12,7 +12,10 @@ Since 2018
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingXian  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingXian")
 
 ---
 

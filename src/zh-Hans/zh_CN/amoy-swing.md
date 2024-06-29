@@ -22,7 +22,10 @@ tags:
 
 ## 联系
 
-:fontawesome-brands-weixin: Amoy Swing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Amoy Swing")
 
 ---
 

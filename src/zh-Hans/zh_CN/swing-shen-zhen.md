@@ -12,7 +12,10 @@ subtitle: 摇摆深圳
 
 ## 联系
 
-:fontawesome-brands-weixin: 摇摆深圳SwingShenzhen  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆深圳SwingShenzhen")
 
 ---
 

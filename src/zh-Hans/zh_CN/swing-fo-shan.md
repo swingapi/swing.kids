@@ -12,7 +12,10 @@ subtitle: 佛山摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: 佛山摇摆 OomDila  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "佛山摇摆 OomDila")
 
 ---
 

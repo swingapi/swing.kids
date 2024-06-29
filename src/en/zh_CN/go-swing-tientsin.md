@@ -12,7 +12,10 @@ Since 2022
 
 ## Contact
 
-:fontawesome-brands-weixin: 够摇GoSwingTientsin  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "够摇GoSwingTientsin")
 
 ---
 

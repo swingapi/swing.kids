@@ -11,7 +11,10 @@ subtitle: 摇摆北京
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingBeijing 北京摇闻  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingBeijing 北京摇闻")
 
 ---
 

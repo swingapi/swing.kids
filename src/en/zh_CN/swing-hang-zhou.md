@@ -12,7 +12,10 @@ Since 2014
 
 ## Contact
 
-:fontawesome-brands-weixin: 摇摆杭州SwingDance  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆杭州SwingDance")
 
 ---
 

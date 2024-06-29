@@ -12,7 +12,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingBeasts摇摆野兽  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingBeasts摇摆野兽")
 
 ---
 

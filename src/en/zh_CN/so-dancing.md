@@ -10,7 +10,10 @@ Since 2020
 
 ## Contact
 
-:fontawesome-brands-weixin: SOdancing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SOdancing")
 
 ---
 

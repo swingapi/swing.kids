@@ -12,7 +12,10 @@ tags:
 
 ## 联系
 
-:fontawesome-brands-weixin: Blues Guangzhou  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Blues Guangzhou")
 
 ---
 

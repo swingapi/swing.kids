@@ -12,7 +12,10 @@ Since 2021
 
 ## Contact
 
-:fontawesome-brands-weixin: CamelwalkSwing骆驼摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "CamelwalkSwing骆驼摇摆")
 
 ---
 

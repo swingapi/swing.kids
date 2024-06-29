@@ -12,7 +12,10 @@ SSS认真摇摆工作室
 
 ## 联系
 
-:fontawesome-brands-weixin: SSS认真摇摆工作室  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SSS认真摇摆工作室")
 
 ---
 

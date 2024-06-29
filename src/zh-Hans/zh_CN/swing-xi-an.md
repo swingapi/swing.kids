@@ -12,7 +12,10 @@ subtitle: 摇摆西安
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingXian  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingXian")
 
 ---
 

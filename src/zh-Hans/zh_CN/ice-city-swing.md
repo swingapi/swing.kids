@@ -12,7 +12,10 @@ subtitle: 摇摆哈尔滨
 
 ## 联系
 
-:fontawesome-brands-weixin: IceCitySwing摇摆哈尔滨  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "IceCitySwing摇摆哈尔滨")
 
 ---
 

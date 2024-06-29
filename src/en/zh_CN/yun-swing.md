@@ -12,7 +12,10 @@ Since 2022
 
 ## Contact
 
-:fontawesome-brands-weixin: 云上摇摆 Yun Swing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "云上摇摆 Yun Swing")
 
 ---
 

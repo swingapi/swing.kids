@@ -12,7 +12,10 @@ subtitle: 摇摆之滇
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingKunming摇摆之滇  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingKunming摇摆之滇")
 
 ---
 

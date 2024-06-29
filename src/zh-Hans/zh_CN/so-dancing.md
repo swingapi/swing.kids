@@ -10,7 +10,10 @@ title: SO Dancing
 
 ## 联系
 
-:fontawesome-brands-weixin: SOdancing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SOdancing")
 
 ---
 

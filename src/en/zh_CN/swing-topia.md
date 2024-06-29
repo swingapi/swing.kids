@@ -10,7 +10,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingTopia  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingTopia")
 
 ---
 

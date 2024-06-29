@@ -10,7 +10,10 @@ Since 2021
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingStarsStudio  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingStarsStudio")
 
 ---
 

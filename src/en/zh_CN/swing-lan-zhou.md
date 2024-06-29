@@ -12,7 +12,10 @@ Since 2023
 
 ## Contact
 
-:fontawesome-brands-weixin: swinglanzhou摇摆金城  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "swinglanzhou摇摆金城")
 
 ---
 

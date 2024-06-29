@@ -12,7 +12,10 @@ Since 2017
 
 ## Contact
 
-:fontawesome-brands-weixin: 粤摇摆SwingCanton  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "粤摇摆SwingCanton")
 
 ---
 

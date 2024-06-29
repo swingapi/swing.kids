@@ -12,7 +12,10 @@ subtitle: 骆驼摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: CamelwalkSwing骆驼摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "CamelwalkSwing骆驼摇摆")
 
 ---
 

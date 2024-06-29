@@ -12,7 +12,10 @@ Since 2023
 
 ## Contact
 
-:fontawesome-brands-weixin: 慢热摇摆 MRSwing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "慢热摇摆 MRSwing")
 
 ---
 

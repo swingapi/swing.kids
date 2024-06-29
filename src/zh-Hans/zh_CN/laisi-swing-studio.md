@@ -17,7 +17,10 @@ subtitle: 爵对莱斯工作室
 
 ## 联系
 
-:fontawesome-brands-weixin: 爵对莱斯南京摇摆舞  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "爵对莱斯南京摇摆舞")
 
 ---
 

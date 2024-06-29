@@ -16,7 +16,10 @@ Since 2018
 
 ## Contact
 
-:fontawesome-brands-weixin: 榕城摇摆 SwingFuzhou  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "榕城摇摆 SwingFuzhou")
 
 ---
 

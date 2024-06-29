@@ -10,7 +10,10 @@ title: Swing Friends
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingFriends  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingFriends")
 
 ---
 

@@ -12,7 +12,10 @@ subtitle: 粤摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: 粤摇摆SwingCanton  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "粤摇摆SwingCanton")
 
 ---
 

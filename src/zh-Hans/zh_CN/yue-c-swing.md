@@ -12,7 +12,10 @@ subtitle: 粤C • Swing
 
 ## 联系
 
-:fontawesome-brands-weixin: 粤 C Swing 摇摆 ZH  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "粤 C Swing 摇摆 ZH")
 
 ---
 

@@ -11,7 +11,10 @@ subtitle: 瑞瑟酒吧
 
 ## 联系
 
-:fontawesome-brands-weixin: RHYTHM 瑞瑟酒吧  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "RHYTHM 瑞瑟酒吧")
 
 ---
 

@@ -12,7 +12,10 @@ subtitle: 南门 Swing
 
 ## 联系
 
-:fontawesome-brands-weixin: 南门Swing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "南门Swing")
 
 ---
 

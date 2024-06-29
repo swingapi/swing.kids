@@ -12,7 +12,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingNanjing摇摆南京  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingNanjing摇摆南京")
 
 ---
 

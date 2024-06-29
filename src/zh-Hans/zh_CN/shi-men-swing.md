@@ -12,7 +12,10 @@ subtitle: 石门摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: 石门摇摆Swing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "石门摇摆Swing")
 
 ---
 

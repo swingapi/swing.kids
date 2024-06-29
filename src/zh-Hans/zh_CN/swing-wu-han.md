@@ -12,7 +12,10 @@ subtitle: 摇摆武汉
 
 ## 联系
 
-:fontawesome-brands-weixin: SwingWuHan 摇摆武汉  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingWuHan 摇摆武汉")
 
 ---
 

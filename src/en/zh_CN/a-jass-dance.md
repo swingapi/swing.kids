@@ -11,7 +11,10 @@ subtitle: 爵士时代跳舞公司
 
 ## Contact
 
-:fontawesome-brands-weixin: AJassDance  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "AJassDance")
 
 ---
 

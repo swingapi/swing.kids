@@ -12,7 +12,10 @@ Since 2019
 
 ## Contact
 
-:fontawesome-brands-weixin: HiSwing摇摆成都  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "HiSwing摇摆成都")
 
 ---
 

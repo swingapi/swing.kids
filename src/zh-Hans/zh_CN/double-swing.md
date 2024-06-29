@@ -12,7 +12,10 @@ subtitle: 二倍摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: Doubleswing二倍摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Doubleswing二倍摇摆")
 
 ---
 

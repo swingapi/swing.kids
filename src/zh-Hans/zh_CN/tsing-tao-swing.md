@@ -12,7 +12,10 @@ subtitle: 青岛摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: TsingtaoSwing青岛摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "TsingtaoSwing青岛摇摆")
 
 ---
 

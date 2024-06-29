@@ -16,7 +16,10 @@ subtitle: 斯莫斯昆明摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: SmallsSwing斯莫斯昆明摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SmallsSwing斯莫斯昆明摇摆")
 
 ---
 

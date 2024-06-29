@@ -12,7 +12,10 @@ Since 2021
 
 ## Contact
 
-:fontawesome-brands-weixin: 晋摇摆JinSwing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "晋摇摆JinSwing")
 
 ---
 

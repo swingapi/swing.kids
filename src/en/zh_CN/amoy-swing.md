@@ -22,7 +22,10 @@ Since 2020
 
 ## Contact
 
-:fontawesome-brands-weixin: Amoy Swing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Amoy Swing")
 
 ---
 

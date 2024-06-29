@@ -12,7 +12,10 @@ subtitle: 晋摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: 晋摇摆JinSwing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "晋摇摆JinSwing")
 
 ---
 

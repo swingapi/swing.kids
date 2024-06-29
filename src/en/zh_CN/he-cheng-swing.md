@@ -12,7 +12,10 @@ Since 2023
 
 ## Contact
 
-:fontawesome-brands-weixin: 禾城摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "禾城摇摆")
 
 ---
 

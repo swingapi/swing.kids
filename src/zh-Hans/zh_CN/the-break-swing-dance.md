@@ -10,7 +10,10 @@ title: TheBreak Swing Dance
 
 ## 联系
 
-:fontawesome-brands-weixin: TheBreak Swing Dance  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "TheBreak Swing Dance")
 
 ---
 

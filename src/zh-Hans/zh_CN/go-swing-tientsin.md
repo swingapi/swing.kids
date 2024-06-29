@@ -12,7 +12,10 @@ subtitle: 够摇
 
 ## 联系
 
-:fontawesome-brands-weixin: 够摇GoSwingTientsin  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "够摇GoSwingTientsin")
 
 ---
 

@@ -12,7 +12,10 @@ subtitle: 摇摆青城
 
 ## 联系
 
-:fontawesome-brands-weixin: 摇摆青城 Swing Hohhot  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆青城 Swing Hohhot")
 
 ---
 

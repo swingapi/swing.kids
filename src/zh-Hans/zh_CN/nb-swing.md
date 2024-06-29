@@ -12,7 +12,10 @@ subtitle: 摇摆宁波
 
 ## 联系
 
-:fontawesome-brands-weixin: NB Swing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "NB Swing")
 
 ---
 

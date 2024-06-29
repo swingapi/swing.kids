@@ -12,7 +12,10 @@ Since 2020
 
 ## Contact
 
-:fontawesome-brands-weixin: SwingZhengZhou摇摆郑州  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingZhengZhou摇摆郑州")
 
 ---
 

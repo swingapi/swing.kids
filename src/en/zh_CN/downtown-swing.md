@@ -18,7 +18,10 @@ Since 2017
 
 ## Contact
 
-:fontawesome-brands-weixin: DowntownSwing上海摇摆  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "DowntownSwing上海摇摆")
 
 ---
 

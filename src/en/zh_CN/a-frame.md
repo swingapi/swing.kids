@@ -12,7 +12,10 @@ Since 2020
 
 ## Contact
 
-:fontawesome-brands-weixin: A Frame舞蹈工作室  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "A Frame舞蹈工作室")
 
 ---
 

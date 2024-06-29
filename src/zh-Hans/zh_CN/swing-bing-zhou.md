@@ -12,7 +12,10 @@ subtitle: 摇摆并州
 
 ## 联系
 
-:fontawesome-brands-weixin: 摇摆并州  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆并州")
 
 ---
 

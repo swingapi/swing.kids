@@ -12,7 +12,10 @@ Since 2020
 
 ## Contact
 
-:fontawesome-brands-weixin: 走进摇摆舞  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "走进摇摆舞")
 
 ---
 

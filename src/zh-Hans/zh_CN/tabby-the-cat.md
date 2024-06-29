@@ -16,7 +16,10 @@ Tabby The Cat 摇摆舞工作室
 
 ## 联系
 
-:fontawesome-brands-weixin: Tabby the Cat摇摆舞工作室  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Tabby the Cat摇摆舞工作室")
 
 ---
 

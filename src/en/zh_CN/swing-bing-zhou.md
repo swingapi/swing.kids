@@ -12,7 +12,10 @@ Since 2018
 
 ## Contact
 
-:fontawesome-brands-weixin: 摇摆并州  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "摇摆并州")
 
 ---
 

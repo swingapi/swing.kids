@@ -12,7 +12,10 @@ subtitle: 摇摆成都
 
 ## 联系
 
-:fontawesome-brands-weixin: HiSwing摇摆成都  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "HiSwing摇摆成都")
 
 ---
 

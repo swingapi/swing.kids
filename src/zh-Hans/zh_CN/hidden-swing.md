@@ -16,7 +16,10 @@ subtitle: 匿流摇摆舞工作室
 
 ## 联系
 
-:fontawesome-brands-weixin: 匿流摇摆舞工作室  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "匿流摇摆舞工作室")
 
 ---
 

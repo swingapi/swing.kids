@@ -12,7 +12,10 @@ Since 2020
 
 ## Contact
 
-:fontawesome-brands-weixin: Swing Shenyang  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "Swing Shenyang")
 
 ---
 

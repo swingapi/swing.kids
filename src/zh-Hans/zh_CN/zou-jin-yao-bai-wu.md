@@ -12,7 +12,10 @@ subtitle: 走进摇摆舞
 
 ## 联系
 
-:fontawesome-brands-weixin: 走进摇摆舞  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "走进摇摆舞")
 
 ---
 

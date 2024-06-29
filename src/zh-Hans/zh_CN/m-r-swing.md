@@ -12,7 +12,10 @@ subtitle: 慢热摇摆
 
 ## 联系
 
-:fontawesome-brands-weixin: 慢热摇摆 MRSwing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "慢热摇摆 MRSwing")
 
 ---
 

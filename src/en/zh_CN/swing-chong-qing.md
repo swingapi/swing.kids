@@ -12,7 +12,10 @@ Since 2017
 
 ## Contact
 
-:fontawesome-brands-weixin: 山城摇摆SwingChongqing  
+
+---
+
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "山城摇摆SwingChongqing")
 
 ---
 
