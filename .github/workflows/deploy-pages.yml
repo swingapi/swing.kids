@@ -29,6 +29,7 @@ jobs:
         id: deployment
         uses: Kjuly/mkdocs-page-publisher@main
         with:
+          requirements_file: requirements.txt
           config_files: |-
             config/en/mkdocs.yml
             config/zh-Hans/mkdocs.yml
