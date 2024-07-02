@@ -1,6 +1,7 @@
 ---
 title: Swing Zhuhai
 subtitle: 粤C • Swing
+description: "Info about the swing dance org: Swing Zhuhai."
 ---
 
 # Swing Zhuhai

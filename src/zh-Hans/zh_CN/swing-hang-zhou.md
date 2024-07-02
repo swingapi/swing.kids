@@ -1,6 +1,7 @@
 ---
 title: Swing Hangzhou
 subtitle: 摇摆杭州
+description: "关于摇摆舞组织“Swing Hangzhou”的一些信息。"
 ---
 
 # Swing Hangzhou

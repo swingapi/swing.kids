@@ -1,6 +1,7 @@
 ---
 title: Be Bop Bar
 subtitle: 비밥빠
+description: "Info about the swing dance org: Be Bop Bar."
 ---
 
 # Be Bop Bar

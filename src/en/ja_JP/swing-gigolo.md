@@ -1,5 +1,6 @@
 ---
 title: Swing Gigolo
+description: "Info about the swing dance org: Swing Gigolo."
 ---
 
 # Swing Gigolo

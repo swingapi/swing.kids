@@ -1,6 +1,7 @@
 ---
 title: Swing Fuzhou
 subtitle: 榕城摇摆
+description: "关于摇摆舞组织“Swing Fuzhou”的一些信息。"
 ---
 
 # Swing Fuzhou

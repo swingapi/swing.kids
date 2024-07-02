@@ -1,6 +1,7 @@
 ---
 title: Swing Adventure
 subtitle: 西安摇摆
+description: "Info about the swing dance org: Swing Adventure."
 ---
 
 # Swing Adventure

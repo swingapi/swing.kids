@@ -1,6 +1,7 @@
 ---
 title: Seriously! Swing Studio
 subtitle: SSS认真摇摆工作室
+description: "Info about the swing dance org: Seriously! Swing Studio."
 ---
 
 # Seriously! Swing Studio

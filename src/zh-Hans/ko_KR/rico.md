@@ -1,6 +1,7 @@
 ---
 title: Rico
 subtitle: 리코
+description: "关于摇摆舞组织“Rico”的一些信息。"
 ---
 
 # Rico

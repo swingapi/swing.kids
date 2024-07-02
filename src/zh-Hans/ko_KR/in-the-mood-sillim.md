@@ -1,6 +1,7 @@
 ---
 title: In The Mood Sillim
 subtitle: 인더무드 신림
+description: "关于摇摆舞组织“In The Mood Sillim”的一些信息。"
 ---
 
 # In The Mood Sillim

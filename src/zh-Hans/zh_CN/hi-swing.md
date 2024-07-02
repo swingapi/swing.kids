@@ -1,6 +1,7 @@
 ---
 title: Hi Swing
 subtitle: 摇摆成都
+description: "关于摇摆舞组织“Hi Swing”的一些信息。"
 ---
 
 # Hi Swing

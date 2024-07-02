@@ -1,6 +1,7 @@
 ---
 title: Laisi Swing Studio
 subtitle: 爵对莱斯工作室
+description: "关于摇摆舞组织“Laisi Swing Studio”的一些信息。"
 ---
 
 # Laisi Swing Studio

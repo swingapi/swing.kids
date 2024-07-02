@@ -1,6 +1,7 @@
 ---
 title: Hi Swing
 subtitle: 摇摆成都
+description: "Info about the swing dance org: Hi Swing."
 ---
 
 # Hi Swing

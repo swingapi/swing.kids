@@ -1,6 +1,7 @@
 ---
 title: Camel Walk Swing
 subtitle: 骆驼摇摆
+description: "关于摇摆舞组织“Camel Walk Swing”的一些信息。"
 ---
 
 # Camel Walk Swing

@@ -1,6 +1,7 @@
 ---
 title: Swing 243 Dance Hall
 subtitle: 스윙243 댄스홀
+description: "关于摇摆舞组织“Swing 243 Dance Hall”的一些信息。"
 ---
 
 # Swing 243 Dance Hall

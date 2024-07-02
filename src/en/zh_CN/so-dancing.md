@@ -1,5 +1,6 @@
 ---
 title: SO Dancing
+description: "Info about the swing dance org: SO Dancing."
 ---
 
 # SO Dancing

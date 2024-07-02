@@ -1,5 +1,6 @@
 ---
 title: Soul City
+description: "关于摇摆舞组织“Soul City”的一些信息。"
 tags:
   - Blues
 ---

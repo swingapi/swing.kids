@@ -1,5 +1,6 @@
 ---
 title: Swingin’ Niigata
+description: "Info about the swing dance org: Swingin’ Niigata."
 ---
 
 # Swingin’ Niigata

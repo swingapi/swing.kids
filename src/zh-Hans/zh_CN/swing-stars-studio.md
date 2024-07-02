@@ -1,5 +1,6 @@
 ---
 title: Swing Stars Studio
+description: "关于摇摆舞组织“Swing Stars Studio”的一些信息。"
 ---
 
 # Swing Stars Studio

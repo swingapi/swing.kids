@@ -1,6 +1,7 @@
 ---
 title: A Frame
 subtitle: A Frame 舞蹈工作室
+description: "Info about the swing dance org: A Frame."
 ---
 
 # A Frame

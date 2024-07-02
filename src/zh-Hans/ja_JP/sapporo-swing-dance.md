@@ -1,5 +1,6 @@
 ---
 title: Sapporo Swing Dance
+description: "关于摇摆舞组织“Sapporo Swing Dance”的一些信息。"
 ---
 
 # Sapporo Swing Dance

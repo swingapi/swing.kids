@@ -1,6 +1,7 @@
 ---
 title: 1st Bar
 subtitle: 일빠
+description: "Info about the swing dance org: 1st Bar."
 ---
 
 # 1st Bar

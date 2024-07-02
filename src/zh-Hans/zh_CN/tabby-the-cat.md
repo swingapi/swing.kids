@@ -1,6 +1,7 @@
 ---
 title: Tabby The Cat
 subtitle: Tabby The Cat 摇摆舞工作室
+description: "关于摇摆舞组织“Tabby The Cat”的一些信息。"
 ---
 
 # Tabby The Cat

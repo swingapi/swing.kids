@@ -1,5 +1,6 @@
 ---
 title: Chillboa
+description: "Info about the swing dance org: Chillboa."
 ---
 
 # Chillboa

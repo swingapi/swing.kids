@@ -1,6 +1,7 @@
 ---
 title: Nan Men Swing
 subtitle: 南门 Swing
+description: "关于摇摆舞组织“Nan Men Swing”的一些信息。"
 ---
 
 # Nan Men Swing

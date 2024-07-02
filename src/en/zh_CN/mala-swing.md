@@ -1,6 +1,7 @@
 ---
 title: Mala Swing
 subtitle: 麻辣摇摆
+description: "Info about the swing dance org: Mala Swing."
 ---
 
 # Mala Swing

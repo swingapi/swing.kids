@@ -1,6 +1,7 @@
 ---
 title: Swing Hohhot
 subtitle: 摇摆青城
+description: "Info about the swing dance org: Swing Hohhot."
 ---
 
 # Swing Hohhot

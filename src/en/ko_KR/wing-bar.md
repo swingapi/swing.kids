@@ -1,6 +1,7 @@
 ---
 title: Wing Bar
 subtitle: 서면윙빠
+description: "Info about the swing dance org: Wing Bar."
 ---
 
 # Wing Bar

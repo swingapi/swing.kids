@@ -1,5 +1,6 @@
 ---
 title: Hong Kong Swing
+description: "关于摇摆舞组织“Hong Kong Swing”的一些信息。"
 ---
 
 # Hong Kong Swing

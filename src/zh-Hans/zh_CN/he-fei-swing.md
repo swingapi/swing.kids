@@ -1,6 +1,7 @@
 ---
 title: Hefei Swing
 subtitle: 合肥摇摆
+description: "关于摇摆舞组织“Hefei Swing”的一些信息。"
 ---
 
 # Hefei Swing

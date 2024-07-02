@@ -1,6 +1,7 @@
 ---
 title: Swing Nan Chang
 subtitle: 摇摆南昌
+description: "关于摇摆舞组织“Swing Nan Chang”的一些信息。"
 ---
 
 # Swing Nan Chang

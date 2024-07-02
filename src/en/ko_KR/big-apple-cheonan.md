@@ -1,6 +1,7 @@
 ---
 title: Big Apple (Cheonan)
 subtitle: 빅애플
+description: "Info about the swing dance org: Big Apple (Cheonan)."
 ---
 
 # Big Apple (Cheonan)

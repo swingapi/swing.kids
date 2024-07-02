@@ -1,6 +1,7 @@
 ---
 title: Kyungsung hall
 subtitle: 경성홀
+description: "关于摇摆舞组织“Kyungsung hall”的一些信息。"
 ---
 
 # Kyungsung hall

@@ -1,6 +1,7 @@
 ---
 title: The Social Club
 subtitle: 더 쏘셜클럽
+description: "Info about the swing dance org: The Social Club."
 ---
 
 # The Social Club

@@ -1,6 +1,7 @@
 ---
 title: Babaru
 subtitle: 바바루
+description: "关于摇摆舞组织“Babaru”的一些信息。"
 ---
 
 # Babaru

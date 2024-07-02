@@ -1,5 +1,6 @@
 ---
 title: Swing Stars Studio
+description: "Info about the swing dance org: Swing Stars Studio."
 ---
 
 # Swing Stars Studio

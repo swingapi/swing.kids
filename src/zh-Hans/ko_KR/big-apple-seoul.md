@@ -1,6 +1,7 @@
 ---
 title: Big Apple (Seoul)
 subtitle: 빅애플
+description: "关于摇摆舞组织“Big Apple (Seoul)”的一些信息。"
 ---
 
 # Big Apple (Seoul)

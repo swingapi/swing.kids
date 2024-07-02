@@ -1,5 +1,6 @@
 ---
 title: Tokyo Swing Dance Society
+description: "关于摇摆舞组织“Tokyo Swing Dance Society”的一些信息。"
 ---
 
 # Tokyo Swing Dance Society

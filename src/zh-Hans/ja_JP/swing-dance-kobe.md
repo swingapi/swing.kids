@@ -1,5 +1,6 @@
 ---
 title: Swing Dance Kobe
+description: "关于摇摆舞组织“Swing Dance Kobe”的一些信息。"
 ---
 
 # Swing Dance Kobe

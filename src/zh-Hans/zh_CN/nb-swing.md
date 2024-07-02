@@ -1,6 +1,7 @@
 ---
 title: NB Swing
 subtitle: 摇摆宁波
+description: "关于摇摆舞组织“NB Swing”的一些信息。"
 ---
 
 # NB Swing

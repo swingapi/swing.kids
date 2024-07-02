@@ -1,5 +1,6 @@
 ---
 title: Hot Rhythm Foundation
+description: "Info about the swing dance org: Hot Rhythm Foundation."
 ---
 
 # Hot Rhythm Foundation

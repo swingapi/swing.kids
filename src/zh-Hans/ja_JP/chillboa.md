@@ -1,5 +1,6 @@
 ---
 title: Chillboa
+description: "关于摇摆舞组织“Chillboa”的一些信息。"
 ---
 
 # Chillboa

@@ -1,5 +1,6 @@
 ---
 title: Dancing Bus
+description: "关于摇摆舞组织“Dancing Bus”的一些信息。"
 ---
 
 # Dancing Bus

@@ -1,6 +1,7 @@
 ---
 title: Swing Latte
 subtitle: 스윙라떼
+description: "关于摇摆舞组织“Swing Latte”的一些信息。"
 ---
 
 # Swing Latte

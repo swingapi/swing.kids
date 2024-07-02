@@ -1,5 +1,6 @@
 ---
 title: TheBreak Swing Dance
+description: "Info about the swing dance org: TheBreak Swing Dance."
 ---
 
 # TheBreak Swing Dance

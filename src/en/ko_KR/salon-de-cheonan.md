@@ -1,6 +1,7 @@
 ---
 title: Salon de Cheonan
 subtitle: 취향회관
+description: "Info about the swing dance org: Salon de Cheonan."
 ---
 
 # Salon de Cheonan

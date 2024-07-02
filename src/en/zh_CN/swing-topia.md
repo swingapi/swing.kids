@@ -1,5 +1,6 @@
 ---
 title: Swing Topia
+description: "Info about the swing dance org: Swing Topia."
 ---
 
 # Swing Topia

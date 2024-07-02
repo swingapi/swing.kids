@@ -1,6 +1,7 @@
 ---
 title: Cloud 9 Dance Hall
 subtitle: 클라우드9
+description: "Info about the swing dance org: Cloud 9 Dance Hall."
 ---
 
 # Cloud 9 Dance Hall

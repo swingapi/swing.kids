@@ -1,6 +1,7 @@
 ---
 title: Swing Chongqing
 subtitle: 山城摇摆
+description: "Info about the swing dance org: Swing Chongqing."
 ---
 
 # Swing Chongqing

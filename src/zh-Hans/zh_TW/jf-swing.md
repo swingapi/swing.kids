@@ -1,6 +1,7 @@
 ---
 title: JF Swing
 subtitle: JFSwing 搖擺舞教室
+description: "关于摇摆舞组织“JF Swing”的一些信息。"
 ---
 
 # JF Swing

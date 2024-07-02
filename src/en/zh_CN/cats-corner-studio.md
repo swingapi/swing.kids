@@ -1,6 +1,7 @@
 ---
 title: Cat's Corner Studio
 subtitle: 猫角工作室
+description: "Info about the swing dance org: Cat's Corner Studio."
 ---
 
 # Cat's Corner Studio

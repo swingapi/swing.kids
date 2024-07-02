@@ -1,6 +1,7 @@
 ---
 title: Happy Swing
 subtitle: 快乐摇摆
+description: "关于摇摆舞组织“Happy Swing”的一些信息。"
 ---
 
 # Happy Swing

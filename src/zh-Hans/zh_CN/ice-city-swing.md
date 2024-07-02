@@ -1,6 +1,7 @@
 ---
 title: Ice City Swing
 subtitle: 摇摆哈尔滨
+description: "关于摇摆舞组织“Ice City Swing”的一些信息。"
 ---
 
 # Ice City Swing

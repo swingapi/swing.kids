@@ -1,5 +1,6 @@
 ---
 title: Kawasaki Swing
+description: "关于摇摆舞组织“Kawasaki Swing”的一些信息。"
 tags:
   - Balboa
 ---

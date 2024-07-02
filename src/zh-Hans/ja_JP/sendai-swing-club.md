@@ -1,5 +1,6 @@
 ---
 title: Sendai Swing Club
+description: "关于摇摆舞组织“Sendai Swing Club”的一些信息。"
 ---
 
 # Sendai Swing Club

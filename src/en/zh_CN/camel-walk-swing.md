@@ -1,6 +1,7 @@
 ---
 title: Camel Walk Swing
 subtitle: 骆驼摇摆
+description: "Info about the swing dance org: Camel Walk Swing."
 ---
 
 # Camel Walk Swing

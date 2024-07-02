@@ -1,6 +1,7 @@
 ---
 title: Downtown Swing
 subtitle: Downtown Swing 上海摇摆
+description: "Info about the swing dance org: Downtown Swing."
 ---
 
 # Downtown Swing

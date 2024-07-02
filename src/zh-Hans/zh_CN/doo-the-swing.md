@@ -1,6 +1,7 @@
 ---
 title: Doo The Swing
 subtitle: 摇摆泉城
+description: "关于摇摆舞组织“Doo The Swing”的一些信息。"
 ---
 
 # Doo The Swing

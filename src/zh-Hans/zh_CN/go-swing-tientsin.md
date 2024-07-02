@@ -1,6 +1,7 @@
 ---
 title: Go Swing Tientsin
 subtitle: 够摇
+description: "关于摇摆舞组织“Go Swing Tientsin”的一些信息。"
 ---
 
 # Go Swing Tientsin

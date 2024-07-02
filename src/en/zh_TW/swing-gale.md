@@ -1,6 +1,7 @@
 ---
 title: Swing Gale
 subtitle: Swing Gale 大風搖擺
+description: "Info about the swing dance org: Swing Gale."
 ---
 
 # Swing Gale

@@ -1,5 +1,6 @@
 ---
 title: Sendai Swing Club
+description: "Info about the swing dance org: Sendai Swing Club."
 ---
 
 # Sendai Swing Club

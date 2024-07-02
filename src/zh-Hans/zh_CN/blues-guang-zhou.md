@@ -1,5 +1,6 @@
 ---
 title: Blues Guangzhou
+description: "关于摇摆舞组织“Blues Guangzhou”的一些信息。"
 tags:
   - Blues
 ---

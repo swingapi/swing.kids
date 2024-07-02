@@ -1,6 +1,7 @@
 ---
 title: A Frame
 subtitle: A Frame 舞蹈工作室
+description: "关于摇摆舞组织“A Frame”的一些信息。"
 ---
 
 # A Frame

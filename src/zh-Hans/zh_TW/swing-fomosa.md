@@ -1,5 +1,6 @@
 ---
 title: Swing Fomosa
+description: "关于摇摆舞组织“Swing Fomosa”的一些信息。"
 ---
 
 # Swing Fomosa

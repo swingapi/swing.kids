@@ -1,6 +1,7 @@
 ---
 title: Hidden Swing
 subtitle: 匿流摇摆舞工作室
+description: "关于摇摆舞组织“Hidden Swing”的一些信息。"
 ---
 
 # Hidden Swing

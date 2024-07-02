@@ -1,5 +1,6 @@
 ---
 title: iLindy
+description: "关于摇摆舞组织“iLindy”的一些信息。"
 ---
 
 # iLindy

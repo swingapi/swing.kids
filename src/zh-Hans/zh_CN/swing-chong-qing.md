@@ -1,6 +1,7 @@
 ---
 title: Swing Chongqing
 subtitle: 山城摇摆
+description: "关于摇摆舞组织“Swing Chongqing”的一些信息。"
 ---
 
 # Swing Chongqing

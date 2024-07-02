@@ -1,5 +1,6 @@
 ---
 title: Swing Friends
+description: "关于摇摆舞组织“Swing Friends”的一些信息。"
 ---
 
 # Swing Friends

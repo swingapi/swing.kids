@@ -1,6 +1,7 @@
 ---
 title: Swing 243 Dance Hall
 subtitle: 스윙243 댄스홀
+description: "Info about the swing dance org: Swing 243 Dance Hall."
 ---
 
 # Swing 243 Dance Hall

@@ -1,6 +1,7 @@
 ---
 title: Swing Bing Zhou
 subtitle: 摇摆并州
+description: "关于摇摆舞组织“Swing Bing Zhou”的一些信息。"
 ---
 
 # Swing Bing Zhou

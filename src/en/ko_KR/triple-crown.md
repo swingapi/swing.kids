@@ -1,6 +1,7 @@
 ---
 title: Triple Crown Swing Dance Academy
 subtitle: 트리플크라운 스윙댄스학원
+description: "Info about the swing dance org: Triple Crown Swing Dance Academy."
 ---
 
 # Triple Crown Swing Dance Academy

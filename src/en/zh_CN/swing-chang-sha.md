@@ -1,6 +1,7 @@
 ---
 title: Swing Changsha
 subtitle: 长沙摇摆
+description: "Info about the swing dance org: Swing Changsha."
 ---
 
 # Swing Changsha

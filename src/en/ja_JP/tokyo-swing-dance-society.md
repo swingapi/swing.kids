@@ -1,5 +1,6 @@
 ---
 title: Tokyo Swing Dance Society
+description: "Info about the swing dance org: Tokyo Swing Dance Society."
 ---
 
 # Tokyo Swing Dance Society

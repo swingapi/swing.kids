@@ -1,6 +1,7 @@
 ---
 title: Swing Teoswa
 subtitle: 摇摆潮汕
+description: "关于摇摆舞组织“Swing Teoswa”的一些信息。"
 ---
 
 # Swing Teoswa

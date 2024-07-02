@@ -1,6 +1,7 @@
 ---
 title: Swing Time Bar
 subtitle: 스윙타임
+description: "Info about the swing dance org: Swing Time Bar."
 ---
 
 # Swing Time Bar

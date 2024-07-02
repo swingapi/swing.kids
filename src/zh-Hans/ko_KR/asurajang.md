@@ -1,6 +1,7 @@
 ---
 title: Asurajang
 subtitle: 아수라장
+description: "关于摇摆舞组织“Asurajang”的一些信息。"
 ---
 
 # Asurajang

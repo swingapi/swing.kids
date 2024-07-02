@@ -1,6 +1,7 @@
 ---
 title: Laisi Swing Studio
 subtitle: 爵对莱斯工作室
+description: "Info about the swing dance org: Laisi Swing Studio."
 ---
 
 # Laisi Swing Studio

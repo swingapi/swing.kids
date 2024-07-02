@@ -1,5 +1,6 @@
 ---
 title: Rhythm Studio
+description: "Info about the swing dance org: Rhythm Studio."
 ---
 
 # Rhythm Studio

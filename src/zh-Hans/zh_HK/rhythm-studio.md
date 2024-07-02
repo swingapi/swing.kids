@@ -1,5 +1,6 @@
 ---
 title: Rhythm Studio
+description: "关于摇摆舞组织“Rhythm Studio”的一些信息。"
 ---
 
 # Rhythm Studio

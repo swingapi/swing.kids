@@ -1,6 +1,7 @@
 ---
 title: Swing Lan Zhou
 subtitle: 摇摆金城
+description: "关于摇摆舞组织“Swing Lan Zhou”的一些信息。"
 ---
 
 # Swing Lan Zhou

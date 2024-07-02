@@ -1,6 +1,7 @@
 ---
 title: Lizi Swing Dance Studio
 subtitle: 栗子摇摆舞室
+description: "关于摇摆舞组织“Lizi Swing Dance Studio”的一些信息。"
 ---
 
 # Lizi Swing Dance Studio

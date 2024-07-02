@@ -1,5 +1,6 @@
 ---
 title: Blues Guangzhou
+description: "Info about the swing dance org: Blues Guangzhou."
 tags:
   - Blues
 ---

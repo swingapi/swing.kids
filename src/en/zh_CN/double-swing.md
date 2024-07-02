@@ -1,6 +1,7 @@
 ---
 title: Double Swing
 subtitle: 二倍摇摆
+description: "Info about the swing dance org: Double Swing."
 ---
 
 # Double Swing

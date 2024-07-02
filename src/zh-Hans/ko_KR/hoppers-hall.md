@@ -1,6 +1,7 @@
 ---
 title: Hoppers Hall
 subtitle: 하퍼스홀
+description: "关于摇摆舞组织“Hoppers Hall”的一些信息。"
 ---
 
 # Hoppers Hall

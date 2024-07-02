@@ -1,6 +1,7 @@
 ---
 title: Swing Bar
 subtitle: 스윙빠
+description: "Info about the swing dance org: Swing Bar."
 ---
 
 # Swing Bar

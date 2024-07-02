@@ -1,5 +1,6 @@
 ---
 title: Switch Taipei
+description: "Info about the swing dance org: Switch Taipei."
 ---
 
 # Switch Taipei

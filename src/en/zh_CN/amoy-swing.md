@@ -1,5 +1,6 @@
 ---
 title: Amoy Swing
+description: "Info about the swing dance org: Amoy Swing."
 tags:
   - Lindy
   - Balboa

@@ -1,5 +1,6 @@
 ---
 title: The Hop Bangkok
+description: "关于摇摆舞组织“The Hop Bangkok”的一些信息。"
 ---
 
 # The Hop Bangkok

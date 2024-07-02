@@ -1,5 +1,6 @@
 ---
 title: Swing Dance Kobe
+description: "Info about the swing dance org: Swing Dance Kobe."
 ---
 
 # Swing Dance Kobe

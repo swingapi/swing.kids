@@ -1,6 +1,7 @@
 ---
 title: Big Apple (Cheonan)
 subtitle: 빅애플
+description: "关于摇摆舞组织“Big Apple (Cheonan)”的一些信息。"
 ---
 
 # Big Apple (Cheonan)

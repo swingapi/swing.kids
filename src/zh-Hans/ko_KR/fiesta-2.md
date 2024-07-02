@@ -1,6 +1,7 @@
 ---
 title: Fiesta 2
 subtitle: 피에스타2
+description: "关于摇摆舞组织“Fiesta 2”的一些信息。"
 ---
 
 # Fiesta 2

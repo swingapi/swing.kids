@@ -1,6 +1,7 @@
 ---
 title: Swing Time Bar
 subtitle: 스윙타임
+description: "关于摇摆舞组织“Swing Time Bar”的一些信息。"
 ---
 
 # Swing Time Bar

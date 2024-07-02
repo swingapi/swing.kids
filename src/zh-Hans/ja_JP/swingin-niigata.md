@@ -1,5 +1,6 @@
 ---
 title: Swingin’ Niigata
+description: "关于摇摆舞组织“Swingin’ Niigata”的一些信息。"
 ---
 
 # Swingin’ Niigata

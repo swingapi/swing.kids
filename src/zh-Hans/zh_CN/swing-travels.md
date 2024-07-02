@@ -1,6 +1,7 @@
 ---
 title: Swing Travels
 subtitle: 摇摆之旅
+description: "关于摇摆舞组织“Swing Travels”的一些信息。"
 ---
 
 # Swing Travels

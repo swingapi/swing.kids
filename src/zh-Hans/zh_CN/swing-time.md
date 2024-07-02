@@ -1,6 +1,7 @@
 ---
 title: Swing Time
 subtitle: 摇摆时代
+description: "关于摇摆舞组织“Swing Time”的一些信息。"
 ---
 
 # Swing Time

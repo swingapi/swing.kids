@@ -1,6 +1,7 @@
 ---
 title: Let’s Swing Taichung
 subtitle: Let’s Swing Taichung 台中搖擺舞教室
+description: "Info about the swing dance org: Let’s Swing Taichung."
 ---
 
 # Let’s Swing Taichung

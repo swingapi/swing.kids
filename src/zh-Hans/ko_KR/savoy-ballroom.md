@@ -1,6 +1,7 @@
 ---
 title: SAVOY Ballroom 
 subtitle: 사보이
+description: "关于摇摆舞组织“SAVOY Ballroom ”的一些信息。"
 ---
 
 # SAVOY Ballroom 

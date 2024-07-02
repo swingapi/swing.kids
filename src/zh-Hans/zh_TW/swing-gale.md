@@ -1,6 +1,7 @@
 ---
 title: Swing Gale
 subtitle: Swing Gale 大風搖擺
+description: "关于摇摆舞组织“Swing Gale”的一些信息。"
 ---
 
 # Swing Gale

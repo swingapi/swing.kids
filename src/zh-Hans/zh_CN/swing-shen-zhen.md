@@ -1,6 +1,7 @@
 ---
 title: Swing Shenzhen
 subtitle: 摇摆深圳
+description: "关于摇摆舞组织“Swing Shenzhen”的一些信息。"
 ---
 
 # Swing Shenzhen

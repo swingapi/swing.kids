@@ -1,5 +1,6 @@
 ---
 title: Hong Kong Swing
+description: "Info about the swing dance org: Hong Kong Swing."
 ---
 
 # Hong Kong Swing

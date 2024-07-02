@@ -1,6 +1,7 @@
 ---
 title: Fiesta 2
 subtitle: 피에스타2
+description: "Info about the swing dance org: Fiesta 2."
 ---
 
 # Fiesta 2

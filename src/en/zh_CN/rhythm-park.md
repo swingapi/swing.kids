@@ -1,6 +1,7 @@
 ---
 title: Rhythm Park
 subtitle: 瑞瑟酒吧
+description: "Info about the swing dance org: Rhythm Park."
 ---
 
 # Rhythm Park

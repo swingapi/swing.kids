@@ -1,6 +1,7 @@
 ---
 title: Nan Men Swing
 subtitle: 南门 Swing
+description: "Info about the swing dance org: Nan Men Swing."
 ---
 
 # Nan Men Swing

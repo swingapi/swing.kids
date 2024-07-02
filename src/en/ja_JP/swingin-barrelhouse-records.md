@@ -1,5 +1,6 @@
 ---
 title: Swingin Barrelhouse Records
+description: "Info about the swing dance org: Swingin Barrelhouse Records."
 ---
 
 # Swingin Barrelhouse Records

@@ -1,6 +1,7 @@
 ---
 title: Swing Bar
 subtitle: 스윙빠
+description: "关于摇摆舞组织“Swing Bar”的一些信息。"
 ---
 
 # Swing Bar

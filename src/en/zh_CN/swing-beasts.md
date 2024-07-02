@@ -1,6 +1,7 @@
 ---
 title: Swing Beasts
 subtitle: 摇摆野兽
+description: "Info about the swing dance org: Swing Beasts."
 ---
 
 # Swing Beasts

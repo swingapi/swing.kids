@@ -1,6 +1,7 @@
 ---
 title: Swing Time
 subtitle: 摇摆时代
+description: "Info about the swing dance org: Swing Time."
 ---
 
 # Swing Time

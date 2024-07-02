@@ -1,6 +1,7 @@
 ---
 title: Happy Hall 
 subtitle: 해피홀
+description: "关于摇摆舞组织“Happy Hall ”的一些信息。"
 ---
 
 # Happy Hall 

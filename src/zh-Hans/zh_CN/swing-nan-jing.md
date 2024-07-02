@@ -1,6 +1,7 @@
 ---
 title: Swing Nanjing
 subtitle: 金陵摇摆
+description: "关于摇摆舞组织“Swing Nanjing”的一些信息。"
 ---
 
 # Swing Nanjing

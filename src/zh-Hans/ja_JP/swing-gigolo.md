@@ -1,5 +1,6 @@
 ---
 title: Swing Gigolo
+description: "关于摇摆舞组织“Swing Gigolo”的一些信息。"
 ---
 
 # Swing Gigolo

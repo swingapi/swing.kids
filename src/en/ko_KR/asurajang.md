@@ -1,6 +1,7 @@
 ---
 title: Asurajang
 subtitle: 아수라장
+description: "Info about the swing dance org: Asurajang."
 ---
 
 # Asurajang

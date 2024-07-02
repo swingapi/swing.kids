@@ -1,5 +1,6 @@
 ---
 title: Amoy Swing
+description: "关于摇摆舞组织“Amoy Swing”的一些信息。"
 tags:
   - Lindy
   - Balboa

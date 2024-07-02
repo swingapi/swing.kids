@@ -1,6 +1,7 @@
 ---
 title: Tabby The Cat
 subtitle: Tabby The Cat 摇摆舞工作室
+description: "Info about the swing dance org: Tabby The Cat."
 ---
 
 # Tabby The Cat

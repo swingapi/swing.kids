@@ -1,5 +1,6 @@
 ---
 title: Swing Topia
+description: "关于摇摆舞组织“Swing Topia”的一些信息。"
 ---
 
 # Swing Topia

@@ -1,6 +1,7 @@
 ---
 title: Club ANN
 subtitle: 클럽엔
+description: "关于摇摆舞组织“Club ANN”的一些信息。"
 ---
 
 # Club ANN

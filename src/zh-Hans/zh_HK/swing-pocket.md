@@ -1,6 +1,7 @@
 ---
 title: Swing Pocket
 subtitle: 一代搖擺
+description: "关于摇摆舞组织“Swing Pocket”的一些信息。"
 ---
 
 # Swing Pocket

@@ -1,6 +1,7 @@
 ---
 title: Mayan
 subtitle: 마얀
+description: "Info about the swing dance org: Mayan."
 ---
 
 # Mayan

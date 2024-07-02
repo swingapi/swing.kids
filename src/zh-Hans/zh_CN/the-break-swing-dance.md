@@ -1,5 +1,6 @@
 ---
 title: TheBreak Swing Dance
+description: "关于摇摆舞组织“TheBreak Swing Dance”的一些信息。"
 ---
 
 # TheBreak Swing Dance

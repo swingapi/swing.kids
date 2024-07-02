@@ -1,6 +1,7 @@
 ---
 title: Hong Kong Balboa
 subtitle: Hong Kong Balboa
+description: "Info about the swing dance org: Hong Kong Balboa."
 tags:
   - Balboa
 ---

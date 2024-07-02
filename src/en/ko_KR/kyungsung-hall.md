@@ -1,6 +1,7 @@
 ---
 title: Kyungsung hall
 subtitle: 경성홀
+description: "Info about the swing dance org: Kyungsung hall."
 ---
 
 # Kyungsung hall

@@ -1,6 +1,7 @@
 ---
 title: Hidden Swing
 subtitle: 匿流摇摆舞工作室
+description: "Info about the swing dance org: Hidden Swing."
 ---
 
 # Hidden Swing

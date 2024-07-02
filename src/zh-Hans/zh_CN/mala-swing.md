@@ -1,6 +1,7 @@
 ---
 title: Mala Swing
 subtitle: 麻辣摇摆
+description: "关于摇摆舞组织“Mala Swing”的一些信息。"
 ---
 
 # Mala Swing

@@ -1,6 +1,7 @@
 ---
 title: Happy Swing
 subtitle: 快乐摇摆
+description: "Info about the swing dance org: Happy Swing."
 ---
 
 # Happy Swing

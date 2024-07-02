@@ -1,6 +1,7 @@
 ---
 title: Cat's Corner Studio
 subtitle: 猫角工作室
+description: "关于摇摆舞组织“Cat's Corner Studio”的一些信息。"
 ---
 
 # Cat's Corner Studio

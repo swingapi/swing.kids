@@ -1,6 +1,7 @@
 ---
 title: Jin Swing
 subtitle: 晋摇摆
+description: "关于摇摆舞组织“Jin Swing”的一些信息。"
 ---
 
 # Jin Swing

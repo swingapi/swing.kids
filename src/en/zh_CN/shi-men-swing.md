@@ -1,6 +1,7 @@
 ---
 title: Shi Men Swing
 subtitle: 石门摇摆
+description: "Info about the swing dance org: Shi Men Swing."
 ---
 
 # Shi Men Swing

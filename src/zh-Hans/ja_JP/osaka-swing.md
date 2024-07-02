@@ -1,6 +1,7 @@
 ---
 title: Osaka Swing
 subtitle: 大阪スイング
+description: "关于摇摆舞组织“Osaka Swing”的一些信息。"
 ---
 
 # Osaka Swing

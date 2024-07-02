@@ -1,6 +1,7 @@
 ---
 title: Cloud 9 Dance Hall
 subtitle: 클라우드9
+description: "关于摇摆舞组织“Cloud 9 Dance Hall”的一些信息。"
 ---
 
 # Cloud 9 Dance Hall

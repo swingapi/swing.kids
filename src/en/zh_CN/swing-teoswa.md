@@ -1,6 +1,7 @@
 ---
 title: Swing Teoswa
 subtitle: 摇摆潮汕
+description: "Info about the swing dance org: Swing Teoswa."
 ---
 
 # Swing Teoswa

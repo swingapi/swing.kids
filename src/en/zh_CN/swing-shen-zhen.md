@@ -1,6 +1,7 @@
 ---
 title: Swing Shenzhen
 subtitle: 摇摆深圳
+description: "Info about the swing dance org: Swing Shenzhen."
 ---
 
 # Swing Shenzhen

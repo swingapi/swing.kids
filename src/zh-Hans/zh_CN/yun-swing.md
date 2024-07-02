@@ -1,6 +1,7 @@
 ---
 title: Yun Swing
 subtitle: 云上摇摆
+description: "关于摇摆舞组织“Yun Swing”的一些信息。"
 ---
 
 # Yun Swing

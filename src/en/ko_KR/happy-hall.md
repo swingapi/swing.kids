@@ -1,6 +1,7 @@
 ---
 title: Happy Hall 
 subtitle: 해피홀
+description: "Info about the swing dance org: Happy Hall ."
 ---
 
 # Happy Hall 

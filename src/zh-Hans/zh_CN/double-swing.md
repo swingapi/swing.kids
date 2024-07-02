@@ -1,6 +1,7 @@
 ---
 title: Double Swing
 subtitle: 二倍摇摆
+description: "关于摇摆舞组织“Double Swing”的一些信息。"
 ---
 
 # Double Swing

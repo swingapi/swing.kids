@@ -1,6 +1,7 @@
 ---
 title: Swing Zheng Zhou
 subtitle: 摇摆郑州
+description: "Info about the swing dance org: Swing Zheng Zhou."
 ---
 
 # Swing Zheng Zhou

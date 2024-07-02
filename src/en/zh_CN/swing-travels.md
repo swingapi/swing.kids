@@ -1,6 +1,7 @@
 ---
 title: Swing Travels
 subtitle: 摇摆之旅
+description: "Info about the swing dance org: Swing Travels."
 ---
 
 # Swing Travels

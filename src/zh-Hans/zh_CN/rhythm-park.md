@@ -1,6 +1,7 @@
 ---
 title: Rhythm Park
 subtitle: 瑞瑟酒吧
+description: "关于摇摆舞组织“Rhythm Park”的一些信息。"
 ---
 
 # Rhythm Park

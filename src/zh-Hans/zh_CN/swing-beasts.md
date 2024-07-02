@@ -1,6 +1,7 @@
 ---
 title: Swing Beasts
 subtitle: 摇摆野兽
+description: "关于摇摆舞组织“Swing Beasts”的一些信息。"
 ---
 
 # Swing Beasts

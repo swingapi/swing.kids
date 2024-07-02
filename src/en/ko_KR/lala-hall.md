@@ -1,6 +1,7 @@
 ---
 title: Lala Hall
 subtitle: 라라홀
+description: "Info about the swing dance org: Lala Hall."
 ---
 
 # Lala Hall

@@ -1,6 +1,7 @@
 ---
 title: Tsingtao Swing
 subtitle: 青岛摇摆
+description: "Info about the swing dance org: Tsingtao Swing."
 ---
 
 # Tsingtao Swing

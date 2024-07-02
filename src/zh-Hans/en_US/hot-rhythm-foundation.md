@@ -1,5 +1,6 @@
 ---
 title: Hot Rhythm Foundation
+description: "关于摇摆舞组织“Hot Rhythm Foundation”的一些信息。"
 ---
 
 # Hot Rhythm Foundation

@@ -1,5 +1,6 @@
 ---
 title: Soul Swing
+description: "关于摇摆舞组织“Soul Swing”的一些信息。"
 ---
 
 # Soul Swing

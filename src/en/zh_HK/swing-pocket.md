@@ -1,6 +1,7 @@
 ---
 title: Swing Pocket
 subtitle: 一代搖擺
+description: "Info about the swing dance org: Swing Pocket."
 ---
 
 # Swing Pocket

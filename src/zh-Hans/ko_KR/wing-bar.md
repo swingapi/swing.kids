@@ -1,6 +1,7 @@
 ---
 title: Wing Bar
 subtitle: 서면윙빠
+description: "关于摇摆舞组织“Wing Bar”的一些信息。"
 ---
 
 # Wing Bar

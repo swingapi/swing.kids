@@ -1,6 +1,7 @@
 ---
 title: Go Swing Tientsin
 subtitle: 够摇
+description: "Info about the swing dance org: Go Swing Tientsin."
 ---
 
 # Go Swing Tientsin

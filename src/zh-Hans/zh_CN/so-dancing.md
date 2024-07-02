@@ -1,5 +1,6 @@
 ---
 title: SO Dancing
+description: "关于摇摆舞组织“SO Dancing”的一些信息。"
 ---
 
 # SO Dancing

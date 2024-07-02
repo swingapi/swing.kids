@@ -1,6 +1,7 @@
 ---
 title: Salon de Cheonan
 subtitle: 취향회관
+description: "关于摇摆舞组织“Salon de Cheonan”的一些信息。"
 ---
 
 # Salon de Cheonan

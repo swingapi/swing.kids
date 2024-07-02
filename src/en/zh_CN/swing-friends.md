@@ -1,5 +1,6 @@
 ---
 title: Swing Friends
+description: "Info about the swing dance org: Swing Friends."
 ---
 
 # Swing Friends

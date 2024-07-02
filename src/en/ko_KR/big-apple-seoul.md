@@ -1,6 +1,7 @@
 ---
 title: Big Apple (Seoul)
 subtitle: 빅애플
+description: "Info about the swing dance org: Big Apple (Seoul)."
 ---
 
 # Big Apple (Seoul)

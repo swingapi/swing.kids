@@ -1,6 +1,7 @@
 ---
 title: Swing Hangzhou
 subtitle: 摇摆杭州
+description: "Info about the swing dance org: Swing Hangzhou."
 ---
 
 # Swing Hangzhou

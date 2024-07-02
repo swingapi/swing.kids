@@ -1,6 +1,7 @@
 ---
 title: Big Apple Swing Studio
 subtitle: Big Apple Swing Studio 搖擺舞教室
+description: "Info about the swing dance org: Big Apple Swing Studio."
 ---
 
 # Big Apple Swing Studio

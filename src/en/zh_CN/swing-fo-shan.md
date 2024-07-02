@@ -1,6 +1,7 @@
 ---
 title: Swing Foshan
 subtitle: 佛山摇摆
+description: "Info about the swing dance org: Swing Foshan."
 ---
 
 # Swing Foshan

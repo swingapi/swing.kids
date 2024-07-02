@@ -1,6 +1,7 @@
 ---
 title: Swing Shenyang
 subtitle: 摇摆沈阳
+description: "关于摇摆舞组织“Swing Shenyang”的一些信息。"
 ---
 
 # Swing Shenyang

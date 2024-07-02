@@ -1,6 +1,7 @@
 ---
 title: Bongchun Salon
 subtitle: 봉천살롱
+description: "关于摇摆舞组织“Bongchun Salon”的一些信息。"
 ---
 
 # Bongchun Salon

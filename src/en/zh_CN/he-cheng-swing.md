@@ -1,6 +1,7 @@
 ---
 title: He Cheng Swing
 subtitle: 禾城摇摆
+description: "Info about the swing dance org: He Cheng Swing."
 ---
 
 # He Cheng Swing

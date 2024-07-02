@@ -1,6 +1,7 @@
 ---
 title: Swing Latte
 subtitle: 스윙라떼
+description: "Info about the swing dance org: Swing Latte."
 ---
 
 # Swing Latte

@@ -1,6 +1,7 @@
 ---
 title: Zou Jin Yao Bai Wu
 subtitle: 走进摇摆舞
+description: "Info about the swing dance org: Zou Jin Yao Bai Wu."
 ---
 
 # Zou Jin Yao Bai Wu

@@ -1,6 +1,7 @@
 ---
 title: Rico
 subtitle: 리코
+description: "Info about the swing dance org: Rico."
 ---
 
 # Rico

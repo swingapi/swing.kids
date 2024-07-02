@@ -1,6 +1,7 @@
 ---
 title: Osaka Swing
 subtitle: 大阪スイング
+description: "Info about the swing dance org: Osaka Swing."
 ---
 
 # Osaka Swing

@@ -1,6 +1,7 @@
 ---
 title: A Jass Dance
 subtitle: 爵士时代跳舞公司
+description: "Info about the swing dance org: A Jass Dance."
 ---
 
 # A Jass Dance

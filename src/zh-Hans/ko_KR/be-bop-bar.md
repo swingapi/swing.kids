@@ -1,6 +1,7 @@
 ---
 title: Be Bop Bar
 subtitle: 비밥빠
+description: "关于摇摆舞组织“Be Bop Bar”的一些信息。"
 ---
 
 # Be Bop Bar

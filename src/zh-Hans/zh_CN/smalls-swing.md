@@ -1,6 +1,7 @@
 ---
 title: Smalls Swing
 subtitle: 斯莫斯昆明摇摆
+description: "关于摇摆舞组织“Smalls Swing”的一些信息。"
 ---
 
 # Smalls Swing

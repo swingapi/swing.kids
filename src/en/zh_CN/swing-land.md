@@ -1,6 +1,7 @@
 ---
 title: Swing Land
 subtitle: 摇摆乐园
+description: "Info about the swing dance org: Swing Land."
 ---
 
 # Swing Land

@@ -1,6 +1,7 @@
 ---
 title: M.R. Swing
 subtitle: 慢热摇摆
+description: "Info about the swing dance org: M.R. Swing."
 ---
 
 # M.R. Swing

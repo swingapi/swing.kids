@@ -1,6 +1,7 @@
 ---
 title: Swing Canton
 subtitle: 粤摇摆
+description: "Info about the swing dance org: Swing Canton."
 ---
 
 # Swing Canton

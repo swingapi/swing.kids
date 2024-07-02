@@ -1,6 +1,7 @@
 ---
 title: Clave
 subtitle: 클라베
+description: "Info about the swing dance org: Clave."
 ---
 
 # Clave

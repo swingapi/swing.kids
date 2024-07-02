@@ -1,5 +1,6 @@
 ---
 title: Dancing Bus
+description: "Info about the swing dance org: Dancing Bus."
 ---
 
 # Dancing Bus

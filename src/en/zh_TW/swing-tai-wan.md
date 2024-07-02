@@ -1,6 +1,7 @@
 ---
 title: Swing Taiwan
 subtitle: Swing Taiwan 社交舞與搖擺舞學校
+description: "Info about the swing dance org: Swing Taiwan."
 ---
 
 # Swing Taiwan

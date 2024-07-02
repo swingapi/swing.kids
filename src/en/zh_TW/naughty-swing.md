@@ -1,6 +1,7 @@
 ---
 title: Naughty Swing
 subtitle: Naughty Swing 搖擺舞團
+description: "Info about the swing dance org: Naughty Swing."
 ---
 
 # Naughty Swing

@@ -1,6 +1,7 @@
 ---
 title: Flying Home
 subtitle: 昆明摇摆
+description: "关于摇摆舞组织“Flying Home”的一些信息。"
 ---
 
 # Flying Home

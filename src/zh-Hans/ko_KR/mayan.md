@@ -1,6 +1,7 @@
 ---
 title: Mayan
 subtitle: 마얀
+description: "关于摇摆舞组织“Mayan”的一些信息。"
 ---
 
 # Mayan

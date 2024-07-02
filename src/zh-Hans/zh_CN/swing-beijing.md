@@ -1,6 +1,7 @@
 ---
 title: Swing Beijing
 subtitle: 摇摆北京
+description: "关于摇摆舞组织“Swing Beijing”的一些信息。"
 ---
 
 # Swing Beijing

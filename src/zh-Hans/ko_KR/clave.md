@@ -1,6 +1,7 @@
 ---
 title: Clave
 subtitle: 클라베
+description: "关于摇摆舞组织“Clave”的一些信息。"
 ---
 
 # Clave

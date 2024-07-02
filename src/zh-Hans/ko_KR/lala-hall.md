@@ -1,6 +1,7 @@
 ---
 title: Lala Hall
 subtitle: 라라홀
+description: "关于摇摆舞组织“Lala Hall”的一些信息。"
 ---
 
 # Lala Hall

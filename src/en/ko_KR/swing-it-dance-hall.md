@@ -1,6 +1,7 @@
 ---
 title: Swing It Dance Hall
 subtitle: 스윙잇 댄스홀
+description: "Info about the swing dance org: Swing It Dance Hall."
 ---
 
 # Swing It Dance Hall

@@ -1,5 +1,6 @@
 ---
 title: Swing Fomosa
+description: "Info about the swing dance org: Swing Fomosa."
 ---
 
 # Swing Fomosa

@@ -1,6 +1,7 @@
 ---
 title: Bongchun Salon
 subtitle: 봉천살롱
+description: "Info about the swing dance org: Bongchun Salon."
 ---
 
 # Bongchun Salon

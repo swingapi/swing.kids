@@ -1,5 +1,6 @@
 ---
 title: Swingin Barrelhouse Records
+description: "关于摇摆舞组织“Swingin Barrelhouse Records”的一些信息。"
 ---
 
 # Swingin Barrelhouse Records

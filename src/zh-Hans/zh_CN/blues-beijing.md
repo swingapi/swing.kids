@@ -1,5 +1,6 @@
 ---
 title: Blues Beijing
+description: "关于摇摆舞组织“Blues Beijing”的一些信息。"
 ---
 
 # Blues Beijing

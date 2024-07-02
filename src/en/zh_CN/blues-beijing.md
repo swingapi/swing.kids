@@ -1,5 +1,6 @@
 ---
 title: Blues Beijing
+description: "Info about the swing dance org: Blues Beijing."
 ---
 
 # Blues Beijing

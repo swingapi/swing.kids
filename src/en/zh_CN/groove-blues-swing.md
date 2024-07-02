@@ -1,5 +1,6 @@
 ---
 title: Groove Blues Swing
+description: "Info about the swing dance org: Groove Blues Swing."
 tags:
   - Blues
 ---

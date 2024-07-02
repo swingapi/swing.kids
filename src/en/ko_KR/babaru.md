@@ -1,6 +1,7 @@
 ---
 title: Babaru
 subtitle: 바바루
+description: "Info about the swing dance org: Babaru."
 ---
 
 # Babaru

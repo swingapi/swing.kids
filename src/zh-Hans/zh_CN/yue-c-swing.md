@@ -1,6 +1,7 @@
 ---
 title: Swing Zhuhai
 subtitle: 粤C • Swing
+description: "关于摇摆舞组织“Swing Zhuhai”的一些信息。"
 ---
 
 # Swing Zhuhai

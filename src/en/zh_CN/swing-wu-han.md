@@ -1,6 +1,7 @@
 ---
 title: Swing Wuhan
 subtitle: 摇摆武汉
+description: "Info about the swing dance org: Swing Wuhan."
 ---
 
 # Swing Wuhan

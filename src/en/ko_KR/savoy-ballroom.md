@@ -1,6 +1,7 @@
 ---
 title: SAVOY Ballroom 
 subtitle: 사보이
+description: "Info about the swing dance org: SAVOY Ballroom ."
 ---
 
 # SAVOY Ballroom 

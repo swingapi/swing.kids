@@ -1,5 +1,6 @@
 ---
 title: The Hop Bangkok
+description: "Info about the swing dance org: The Hop Bangkok."
 ---
 
 # The Hop Bangkok

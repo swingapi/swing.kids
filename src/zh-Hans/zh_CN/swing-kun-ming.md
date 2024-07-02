@@ -1,6 +1,7 @@
 ---
 title: Swing Kunming
 subtitle: 摇摆之滇
+description: "关于摇摆舞组织“Swing Kunming”的一些信息。"
 ---
 
 # Swing Kunming

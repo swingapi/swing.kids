@@ -1,6 +1,7 @@
 ---
 title: Club ANN
 subtitle: 클럽엔
+description: "Info about the swing dance org: Club ANN."
 ---
 
 # Club ANN

@@ -1,5 +1,6 @@
 ---
 title: iLindy
+description: "Info about the swing dance org: iLindy."
 ---
 
 # iLindy

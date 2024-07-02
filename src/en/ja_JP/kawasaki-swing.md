@@ -1,5 +1,6 @@
 ---
 title: Kawasaki Swing
+description: "Info about the swing dance org: Kawasaki Swing."
 tags:
   - Balboa
 ---

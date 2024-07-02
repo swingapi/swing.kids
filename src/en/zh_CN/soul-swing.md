@@ -1,5 +1,6 @@
 ---
 title: Soul Swing
+description: "Info about the swing dance org: Soul Swing."
 ---
 
 # Soul Swing

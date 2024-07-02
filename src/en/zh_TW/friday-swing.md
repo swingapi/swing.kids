@@ -1,6 +1,7 @@
 ---
 title: Friday Swing
 subtitle: Friday Swing 社交舞與搖擺舞
+description: "Info about the swing dance org: Friday Swing."
 ---
 
 # Friday Swing

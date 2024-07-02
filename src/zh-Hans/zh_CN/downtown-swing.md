@@ -1,6 +1,7 @@
 ---
 title: Downtown Swing
 subtitle: Downtown Swing 上海摇摆
+description: "关于摇摆舞组织“Downtown Swing”的一些信息。"
 ---
 
 # Downtown Swing

@@ -1,6 +1,7 @@
 ---
 title: Zou Jin Yao Bai Wu
 subtitle: 走进摇摆舞
+description: "关于摇摆舞组织“Zou Jin Yao Bai Wu”的一些信息。"
 ---
 
 # Zou Jin Yao Bai Wu

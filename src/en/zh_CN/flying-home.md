@@ -1,6 +1,7 @@
 ---
 title: Flying Home
 subtitle: 昆明摇摆
+description: "Info about the swing dance org: Flying Home."
 ---
 
 # Flying Home

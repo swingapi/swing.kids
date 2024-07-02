@@ -1,6 +1,7 @@
 ---
 title: Hoppers Hall
 subtitle: 하퍼스홀
+description: "Info about the swing dance org: Hoppers Hall."
 ---
 
 # Hoppers Hall

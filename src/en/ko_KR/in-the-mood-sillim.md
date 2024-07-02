@@ -1,6 +1,7 @@
 ---
 title: In The Mood Sillim
 subtitle: 인더무드 신림
+description: "Info about the swing dance org: In The Mood Sillim."
 ---
 
 # In The Mood Sillim

@@ -1,5 +1,6 @@
 ---
 title: Sapporo Swing Dance
+description: "Info about the swing dance org: Sapporo Swing Dance."
 ---
 
 # Sapporo Swing Dance

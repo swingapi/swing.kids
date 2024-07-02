@@ -1,6 +1,7 @@
 ---
 title: He Cheng Swing
 subtitle: 禾城摇摆
+description: "关于摇摆舞组织“He Cheng Swing”的一些信息。"
 ---
 
 # He Cheng Swing

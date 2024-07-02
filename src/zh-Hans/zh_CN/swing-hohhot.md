@@ -1,6 +1,7 @@
 ---
 title: Swing Hohhot
 subtitle: 摇摆青城
+description: "关于摇摆舞组织“Swing Hohhot”的一些信息。"
 ---
 
 # Swing Hohhot

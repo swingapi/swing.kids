@@ -1,6 +1,7 @@
 ---
 title: Swing Xi An
 subtitle: 摇摆西安
+description: "关于摇摆舞组织“Swing Xi An”的一些信息。"
 ---
 
 # Swing Xi An

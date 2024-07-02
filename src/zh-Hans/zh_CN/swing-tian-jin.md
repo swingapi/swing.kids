@@ -1,6 +1,7 @@
 ---
 title: Swing Tianjin
 subtitle: 天津摇摆
+description: "关于摇摆舞组织“Swing Tianjin”的一些信息。"
 ---
 
 # Swing Tianjin

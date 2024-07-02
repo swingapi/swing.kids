@@ -1,6 +1,7 @@
 ---
 title: The K Dance Studio
 subtitle: 더 케이 댄스 스튜디오
+description: "关于摇摆舞组织“The K Dance Studio”的一些信息。"
 ---
 
 # The K Dance Studio

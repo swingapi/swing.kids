@@ -1,6 +1,7 @@
 ---
 title: A Jass Dance
 subtitle: 爵士时代跳舞公司
+description: "关于摇摆舞组织“A Jass Dance”的一些信息。"
 ---
 
 # A Jass Dance

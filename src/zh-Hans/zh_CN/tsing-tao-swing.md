@@ -1,6 +1,7 @@
 ---
 title: Tsingtao Swing
 subtitle: 青岛摇摆
+description: "关于摇摆舞组织“Tsingtao Swing”的一些信息。"
 ---
 
 # Tsingtao Swing

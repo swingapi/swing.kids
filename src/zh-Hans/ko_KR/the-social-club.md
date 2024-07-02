@@ -1,6 +1,7 @@
 ---
 title: The Social Club
 subtitle: 더 쏘셜클럽
+description: "关于摇摆舞组织“The Social Club”的一些信息。"
 ---
 
 # The Social Club

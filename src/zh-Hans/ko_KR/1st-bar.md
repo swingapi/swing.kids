@@ -1,6 +1,7 @@
 ---
 title: 1st Bar
 subtitle: 일빠
+description: "关于摇摆舞组织“1st Bar”的一些信息。"
 ---
 
 # 1st Bar

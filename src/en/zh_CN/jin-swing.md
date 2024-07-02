@@ -1,6 +1,7 @@
 ---
 title: Jin Swing
 subtitle: 晋摇摆
+description: "Info about the swing dance org: Jin Swing."
 ---
 
 # Jin Swing

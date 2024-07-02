@@ -1,6 +1,7 @@
 ---
 title: Tap Life
 subtitle: 踢踏舞咖啡廳{KY_VALUE_subtitle}搖擺舞工作室-TapLife
+description: "Info about the swing dance org: Tap Life."
 ---
 
 # Tap Life

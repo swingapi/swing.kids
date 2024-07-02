@@ -1,5 +1,6 @@
 ---
 title: Soul City
+description: "Info about the swing dance org: Soul City."
 tags:
   - Blues
 ---

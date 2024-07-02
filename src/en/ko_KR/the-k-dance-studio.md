@@ -1,6 +1,7 @@
 ---
 title: The K Dance Studio
 subtitle: 더 케이 댄스 스튜디오
+description: "Info about the swing dance org: The K Dance Studio."
 ---
 
 # The K Dance Studio

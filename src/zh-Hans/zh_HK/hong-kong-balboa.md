@@ -1,6 +1,7 @@
 ---
 title: Hong Kong Balboa
 subtitle: Hong Kong Balboa
+description: "关于摇摆舞组织“Hong Kong Balboa”的一些信息。"
 tags:
   - Balboa
 ---
