@@ -7,6 +7,11 @@ theme:
   name: material
   language: en
 
+plugins:
+  - social:
+      cards_layout_options:
+        background_color: "#14151A"
+
 site_description: 'A collection of swing dance orgs from around the world.'
 nav:
   - Home:

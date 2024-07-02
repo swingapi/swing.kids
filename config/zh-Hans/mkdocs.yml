@@ -7,7 +7,13 @@ theme:
   name: material
   language: zh
 
-site_description: 'A collection of swing dance orgs from around the world.'
+plugins:
+  - social:
+      cards_layout_options:
+        background_color: "#14151A"
+        font_family: Noto Sans SC
+
+site_description: '一些世界各地的摇摆舞组织相关信息收录。'
 nav:
   - 首页:
     - 地区: index.md

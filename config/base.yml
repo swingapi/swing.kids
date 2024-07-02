@@ -65,6 +65,7 @@ theme:
 
 plugins:
   - search
+  - social
   - tags:
       tags_file: tags.md
   # - optimize
