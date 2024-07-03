@@ -1,3 +1,7 @@
+---
+description: "中国一些有摇摆舞组织的城市概览。"
+---
+
 | 省份 | 城市 | | |
 | --- | --- | --- | --- |
 | [安徽](index.md#anhui) | | [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Anhui&city=) | [+ 活动](https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Anhui&city=&org_id=) |

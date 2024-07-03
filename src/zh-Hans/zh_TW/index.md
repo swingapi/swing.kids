@@ -1,5 +1,6 @@
 ---
 status: city
+description: "台湾已收录的摇摆舞组织总览。"
 ---
 
 ---

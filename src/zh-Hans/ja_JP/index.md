@@ -1,5 +1,6 @@
 ---
 status: city
+description: "日本已收录的摇摆舞组织总览。"
 ---
 
 ---

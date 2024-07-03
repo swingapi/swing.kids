@@ -1,5 +1,6 @@
 ---
 status: city
+description: "Overview of collected Swing Dance orgs in Thailand."
 ---
 
 ---
