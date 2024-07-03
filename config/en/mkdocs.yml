@@ -8,6 +8,9 @@ theme:
   language: en
 
 plugins:
+  - search
+  - tags:
+      tags_file: tags.md
   - social:
       cards_layout_options:
         background_color: "#14151A"
