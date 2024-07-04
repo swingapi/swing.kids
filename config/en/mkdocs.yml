@@ -21,14 +21,14 @@ nav:
     - Regions: index.md
     - Tags: tags.md
     - America:
-      - en_US • America:
+      - America:
         - Overview: en_US/index.md
         - Cities: en_US/cities.md
         - Orgs:
           - en_US/hot-rhythm-foundation.md
           - en_US/ilindy.md
     - Asia:
-      - ja_JP • Japan:
+      - Japan:
         - Overview: ja_JP/index.md
         - Cities: ja_JP/cities.md
         - Orgs:
@@ -43,7 +43,7 @@ nav:
           - ja_JP/swingin-barrelhouse-records.md
           - ja_JP/swingin-niigata.md
           - ja_JP/tokyo-swing-dance-society.md
-      - ko_KR • South Korea:
+      - South Korea:
         - Overview: ko_KR/index.md
         - Cities: ko_KR/cities.md
         - Orgs:
@@ -76,12 +76,12 @@ nav:
           - ko_KR/the-social-club.md
           - ko_KR/triple-crown.md
           - ko_KR/wing-bar.md
-      - th_TH • Thailand:
+      - Thailand:
         - Overview: th_TH/index.md
         - Cities: th_TH/cities.md
         - Orgs:
           - th_TH/the-hop-bangkok.md
-      - zh_CN • China:
+      - China:
         - Overview: zh_CN/index.md
         - Cities: zh_CN/cities.md
         - Orgs:
@@ -152,7 +152,7 @@ nav:
           - zh_CN/yue-c-swing.md
           - zh_CN/yun-swing.md
           - zh_CN/zou-jin-yao-bai-wu.md
-      - zh_HK • Hong Kong:
+      - Hong Kong:
         - Overview: zh_HK/index.md
         - Cities: zh_HK/cities.md
         - Orgs:
@@ -160,7 +160,7 @@ nav:
           - zh_HK/hong-kong-swing.md
           - zh_HK/rhythm-studio.md
           - zh_HK/swing-pocket.md
-      - zh_TW • Taiwan:
+      - Taiwan:
         - Overview: zh_TW/index.md
         - Cities: zh_TW/cities.md
         - Orgs:
