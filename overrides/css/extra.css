@@ -113,3 +113,63 @@
   font-size: 40px;
   padding: 8px;
 }
+
+/* Page Footer */
+
+.ky_page_footer {
+  height: 44px;
+}
+.ky_page_footer a, .ky_page_footer span {
+  color: var(--md-default-fg-color--light); 
+}
+
+/* Page Footer - Leading */
+
+.ky_page_footer_leading {
+  height: 100%;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+.ky_page_footer_leading a {
+  color: var(--md-default-fg-color--light);
+}
+
+.ky_page_footer_history_button {
+  height: 100%;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+.ky_page_footer_history_button span {
+  font-size: 16px;
+  margin: 5px;
+}
+.ky_page_footer_history_button:hover, .ky_page_footer_history_button:hover span {
+  color: var(--md-accent-fg-color);
+}
+
+/* Page Footer - Trailing */
+
+.ky_page_footer_trailing {
+  height: 100%;
+  float: right;
+  display: flex;
+}
+.ky_page_footer_trailing a {
+  height: 100%;
+  width: 44px;
+  display: flex;
+  align-items: center;
+  margin-left: 4px;
+}
+.ky_page_footer_trailing a span {
+  height: 100%;
+  width: 100%;
+}
+.ky_page_footer_trailing a span svg {
+  margin: auto;
+}
+.ky_page_footer_trailing a:hover span {
+  color: var(--md-accent-fg-color);
+}
