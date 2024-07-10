@@ -32,8 +32,8 @@ description: "Info about the swing dance org: Triple Crown Swing Dance Academy."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=triple-crown "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=triple-crown "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/triple-crown.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Triple%20Crown%20Swing%20Dance%20Academy&region=ko_KR&id=triple-crown&name=Triple%20Crown%20Swing%20Dance%20Academy "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20Triple%20Crown%20Swing%20Dance%20Academy&region=ko_KR&id=triple-crown&name=Triple%20Crown%20Swing%20Dance%20Academy "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/triple-crown.json "View Edit History"

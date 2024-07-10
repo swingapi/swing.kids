@@ -23,8 +23,8 @@ description: "Info about the swing dance org: Wing Bar."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Busan&city=Busan&org_id=wing-bar "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Busan&city=Busan&org_id=wing-bar "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/wing-bar.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Wing%20Bar&region=ko_KR&id=wing-bar&name=Wing%20Bar "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20Wing%20Bar&region=ko_KR&id=wing-bar&name=Wing%20Bar "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/wing-bar.json "View Edit History"

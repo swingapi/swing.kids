@@ -23,8 +23,8 @@ description: "Info about the swing dance org: Club ANN."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu&org_id=club-ann "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu&org_id=club-ann "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/club-ann.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Club%20ANN&region=ko_KR&id=club-ann&name=Club%20ANN "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20Club%20ANN&region=ko_KR&id=club-ann&name=Club%20ANN "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/club-ann.json "View Edit History"

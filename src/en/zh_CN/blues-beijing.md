@@ -21,8 +21,8 @@ description: "Info about the swing dance org: Blues Beijing."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=blues-beijing "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=blues-beijing "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/blues-beijing.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Blues%20Beijing&region=zh_CN&id=blues-beijing&name=Blues%20Beijing "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20Blues%20Beijing&region=zh_CN&id=blues-beijing&name=Blues%20Beijing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/blues-beijing.json "View Edit History"

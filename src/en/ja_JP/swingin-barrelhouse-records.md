@@ -30,8 +30,8 @@ Since 2019
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20ja_JP%20%E2%80%A2%20%3CName%3E&region=ja_JP&province=Yokohama&city=Yokohama&org_id=swingin-barrelhouse-records "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=Yokohama&city=Yokohama&org_id=swingin-barrelhouse-records "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ja_JP/swingin-barrelhouse-records.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ja_JP%20%E2%80%A2%20Swingin%20Barrelhouse%20Records&region=ja_JP&id=swingin-barrelhouse-records&name=Swingin%20Barrelhouse%20Records "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Update%20Org%3A%20Swingin%20Barrelhouse%20Records&region=ja_JP&id=swingin-barrelhouse-records&name=Swingin%20Barrelhouse%20Records "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ja_JP/swingin-barrelhouse-records.json "View Edit History"

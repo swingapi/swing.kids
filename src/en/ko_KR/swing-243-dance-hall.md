@@ -32,8 +32,8 @@ description: "Info about the swing dance org: Swing 243 Dance Hall."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Busan&city=Busan&org_id=swing-243-dance-hall "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Busan&city=Busan&org_id=swing-243-dance-hall "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/swing-243-dance-hall.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20ko_KR%20%E2%80%A2%20Swing%20243%20Dance%20Hall&region=ko_KR&id=swing-243-dance-hall&name=Swing%20243%20Dance%20Hall "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20Swing%20243%20Dance%20Hall&region=ko_KR&id=swing-243-dance-hall&name=Swing%20243%20Dance%20Hall "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/swing-243-dance-hall.json "View Edit History"

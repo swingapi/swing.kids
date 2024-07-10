@@ -31,8 +31,8 @@ Since 2021
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=Add%20Event%3A%20zh_CN%20%E2%80%A2%20%3CName%3E&region=zh_CN&province=Shanxi&city=Taiyuan&org_id=jin-swing "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Shanxi&city=Taiyuan&org_id=jin-swing "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/jin-swing.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=Update%20Org%3A%20zh_CN%20%E2%80%A2%20Jin%20Swing&region=zh_CN&id=jin-swing&name=Jin%20Swing "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20Jin%20Swing&region=zh_CN&id=jin-swing&name=Jin%20Swing "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/jin-swing.json "View Edit History"

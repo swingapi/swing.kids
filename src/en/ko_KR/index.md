@@ -12,7 +12,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | [1st Bar](1st-bar.md) | 일빠 |
 | | [Swing 243 Dance Hall](swing-243-dance-hall.md) | 스윙243 댄스홀 |
 | | [Wing Bar](wing-bar.md) | 서면윙빠 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Busan&city=Busan)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Busan&city=Busan)
 
 ---
 
@@ -21,7 +21,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | Name | |
 | --- | --- | --- |
 | | [Swing Latte](swing-latte.md) | 스윙라떼 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Changwon&city=Changwon)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Changwon&city=Changwon)
 
 ---
 
@@ -32,7 +32,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | [Big Apple (Cheonan)](big-apple-cheonan.md) | 빅애플 |
 | | [Salon de Cheonan](salon-de-cheonan.md) | 취향회관 |
 | | [The K Dance Studio](the-k-dance-studio.md) | 더 케이 댄스 스튜디오 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Cheonan&city=Cheonan)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Cheonan&city=Cheonan)
 
 ---
 
@@ -42,7 +42,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | --- | --- | --- |
 | | [Hoppers Hall](hoppers-hall.md) | 하퍼스홀 |
 | | [Rico](rico.md) | 리코 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Cheongju&city=Cheongju)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Cheongju&city=Cheongju)
 
 ---
 
@@ -51,7 +51,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | Name | |
 | --- | --- | --- |
 | | [Swing It Dance Hall](swing-it-dance-hall.md) | 스윙잇 댄스홀 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Daejeon&city=Daejeon)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Daejeon&city=Daejeon)
 
 ---
 
@@ -62,7 +62,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | [Asurajang](asurajang.md) | 아수라장 |
 | | [Babaru](babaru.md) | 바바루 |
 | | [Club ANN](club-ann.md) | 클럽엔 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu)
 
 ---
 
@@ -71,7 +71,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | Name | |
 | --- | --- | --- |
 | | [Mayan](mayan.md) | 마얀 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Gwangju&city=Gwangju)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Gwangju&city=Gwangju)
 
 ---
 
@@ -80,7 +80,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | Name | |
 | --- | --- | --- |
 | | [Be Bop Bar](be-bop-bar.md) | 비밥빠 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Incheon&city=Incheon)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Incheon&city=Incheon)
 
 ---
 
@@ -89,7 +89,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | Name | |
 | --- | --- | --- |
 | | [Swing Bar](swing-bar.md) | 스윙빠 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Jeju&city=Jeju)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Jeju&city=Jeju)
 
 ---
 
@@ -109,7 +109,7 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | [Swing Time Bar](swing-time-bar.md) | 스윙타임 |
 | | [The Social Club](the-social-club.md) | 더 쏘셜클럽 |
 | | [Triple Crown Swing Dance Academy](triple-crown.md) | 트리플크라운 스윙댄스학원 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul)
 
 ---
 
@@ -118,8 +118,8 @@ description: "Overview of collected Swing Dance orgs in South Korea."
 | | Name | |
 | --- | --- | --- |
 | | [Clave](clave.md) | 클라베 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=Suwon&city=Suwon)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=Suwon&city=Suwon)
 
 ---
 
-[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=Add%20Org%3A%20ko_KR%20%E2%80%A2%20%3CName%3E&region=ko_KR&province=&city=){ .md-button }
+[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Org%3A%20%3CName%3E&region=ko_KR&province=&city=){ .md-button }
