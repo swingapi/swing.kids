@@ -106,6 +106,7 @@ description: "Overview of collected Swing Dance orgs in China."
 | | [SO Dancing](so-dancing.md) |  |
 | | [Swing Shenzhen](swing-shen-zhen.md) | 摇摆深圳 |
 | | [Swing Time](swing-time.md) | 摇摆时代 |
+| | [Walking the Blues](walking-the-blues.md) |  |
 | [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Org%3A%20%3CName%3E&region=zh_CN&province=Guangdong&city=Shenzhen)
 
 ### <a id=zhuhai></a>Zhuhai { #zhuhai }
