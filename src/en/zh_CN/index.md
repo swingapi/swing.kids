@@ -102,6 +102,7 @@ description: "Overview of collected Swing Dance orgs in China."
 
 | | Name | |
 | --- | --- | --- |
+| | [Balboa Shenzhen](balboa-shenzhen.md) |  |
 | | [Groove Blues Swing](groove-blues-swing.md) |  |
 | | [SO Dancing](so-dancing.md) |  |
 | | [Swing Shenzhen](swing-shen-zhen.md) | 摇摆深圳 |

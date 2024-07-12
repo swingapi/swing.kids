@@ -102,6 +102,7 @@ description: "中国已收录的摇摆舞组织总览。"
 
 | | 名称 | |
 | --- | --- | --- |
+| | [Balboa Shenzhen](balboa-shenzhen.md) |  |
 | | [Groove Blues Swing](groove-blues-swing.md) |  |
 | | [SO Dancing](so-dancing.md) |  |
 | | [Swing Shenzhen](swing-shen-zhen.md) | 摇摆深圳 |
