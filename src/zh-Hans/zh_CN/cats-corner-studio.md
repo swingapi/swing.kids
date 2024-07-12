@@ -22,18 +22,18 @@ description: "关于摇摆舞组织“Cat's Corner Studio”的一些信息。"
 
 ---
 
- [:fontawesome-brands-bilibili:{ .ky_social_links_icon }](https://space.bilibili.com/59075953) [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/jf8V5fLggbVY45FRw_hZAg)
+ [:fontawesome-brands-bilibili:{ .ky_social_links_icon }](https://space.bilibili.com/59075953){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/jf8V5fLggbVY45FRw_hZAg){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-newspaper-plus:][add-event-link]
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-newspaper-plus:][add-event-link]{ target='_blank' }
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

@@ -13,22 +13,22 @@ Naughty Swing 搖擺舞團
 ## Contact
 
 :fontawesome-solid-envelope: <naughtyswingtw@gmail.com>  
-:fontawesome-solid-globe: <https://naughtyswing.com.tw>  
+:fontawesome-solid-globe: <https://naughtyswing.com.tw>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/nsintaiwan) [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/naughtyswing) [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/naughtyswing)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/nsintaiwan){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/naughtyswing){ target='_blank' } [:fontawesome-brands-youtube:{ .ky_social_links_icon }](https://youtube.com/naughtyswing){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-newspaper-plus:][add-event-link]
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-newspaper-plus:][add-event-link]{ target='_blank' }
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

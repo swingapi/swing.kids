@@ -11,22 +11,22 @@ description: "关于摇摆舞组织“Dancing Bus”的一些信息。"
 ## 联系
 
 :fontawesome-solid-envelope: <info@dancingbus.com>  
-:fontawesome-solid-globe: <https://www.dancingbus.com>  
+:fontawesome-solid-globe: <https://www.dancingbus.com>{ target='_blank' }  
 
 ---
 
- [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/dancingbus)
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/dancingbus){ target='_blank' }
 
 ---
 
 <div class="ky_page_footer" markdown>
 <div class="ky_page_footer_trailing" markdown="span">
-[:material-newspaper-plus:][add-event-link]
-[:material-file-eye-outline:][view-raw-source-file]
-[:material-file-edit-outline:][edit-info]
+[:material-newspaper-plus:][add-event-link]{ target='_blank' }
+[:material-file-eye-outline:][view-raw-source-file]{ target='_blank' }
+[:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button }
+[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
