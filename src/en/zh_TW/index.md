@@ -10,7 +10,7 @@ description: "Overview of collected Swing Dance orgs in Taiwan."
 | | Name | |
 | --- | --- | --- |
 | | [Swing Gale](swing-gale.md) | Swing Gale 大風搖擺 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Hsinchu&city=Hsinchu)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Hsinchu&city=Hsinchu){ target='_blank' }
 
 ---
 
@@ -19,7 +19,7 @@ description: "Overview of collected Swing Dance orgs in Taiwan."
 | | Name | |
 | --- | --- | --- |
 | | [Swing Fomosa](swing-fomosa.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Kaohsiung&city=Kaohsiung)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Kaohsiung&city=Kaohsiung){ target='_blank' }
 
 ---
 
@@ -28,7 +28,7 @@ description: "Overview of collected Swing Dance orgs in Taiwan."
 | | Name | |
 | --- | --- | --- |
 | | [Let’s Swing Taichung](lets-swing-taichung.md) | Let’s Swing Taichung 台中搖擺舞教室 |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Taichung&city=Taichung)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Taichung&city=Taichung){ target='_blank' }
 
 ---
 
@@ -43,8 +43,8 @@ description: "Overview of collected Swing Dance orgs in Taiwan."
 | | [Swing Taiwan](swing-tai-wan.md) | Swing Taiwan 社交舞與搖擺舞學校 |
 | | [Switch Taipei](switch-taipei.md) |  |
 | | [Tap Life](tap-life.md) | 踢踏舞咖啡廳&搖擺舞工作室-TapLife |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei){ target='_blank' }
 
 ---
 
-[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=&city=){ .md-button }
+[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=&city=){ .md-button target='_blank' }
