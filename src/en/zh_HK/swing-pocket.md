@@ -32,8 +32,8 @@ Since 2021
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_HK%5D%20Add%20Event%3A%20%3CName%3E&region=zh_HK&province=HK&city=HK&org_id=swing-pocket "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_HK%5D%20%3CName%3E&region=zh_HK&province=HK&city=HK&org_id=swing-pocket "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_HK/swing-pocket.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_HK%5D%20Update%20Org%3A%20Swing%20Pocket&region=zh_HK&id=swing-pocket&name=Swing%20Pocket "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_HK%5D%20Swing%20Pocket&region=zh_HK&id=swing-pocket&name=Swing%20Pocket "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_HK/swing-pocket.json "View Edit History"

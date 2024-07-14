@@ -23,8 +23,8 @@ description: "Info about the swing dance org: Lizi Swing Dance Studio."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Hunan&city=Changsha&org_id=lizi-swing-dance-studio "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=Hunan&city=Changsha&org_id=lizi-swing-dance-studio "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/lizi-swing-dance-studio.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20Lizi%20Swing%20Dance%20Studio&region=zh_CN&id=lizi-swing-dance-studio&name=Lizi%20Swing%20Dance%20Studio "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Lizi%20Swing%20Dance%20Studio&region=zh_CN&id=lizi-swing-dance-studio&name=Lizi%20Swing%20Dance%20Studio "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/lizi-swing-dance-studio.json "View Edit History"

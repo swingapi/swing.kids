@@ -37,8 +37,8 @@ Since 2014
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=cats-corner-studio "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=Beijing&city=Beijing&org_id=cats-corner-studio "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/cats-corner-studio.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20Cat%27s%20Corner%20Studio&region=zh_CN&id=cats-corner-studio&name=Cat%27s%20Corner%20Studio "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Cat%27s%20Corner%20Studio&region=zh_CN&id=cats-corner-studio&name=Cat%27s%20Corner%20Studio "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/cats-corner-studio.json "View Edit History"

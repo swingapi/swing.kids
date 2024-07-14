@@ -32,8 +32,8 @@ Swing Taiwan 社交舞與搖擺舞學校
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20Add%20Event%3A%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei&org_id=swing-tai-wan "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei&org_id=swing-tai-wan "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_TW/swing-tai-wan.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_TW%5D%20Update%20Org%3A%20Swing%20Taiwan&region=zh_TW&id=swing-tai-wan&name=Swing%20Taiwan "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_TW%5D%20Swing%20Taiwan&region=zh_TW&id=swing-tai-wan&name=Swing%20Taiwan "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_TW/swing-tai-wan.json "View Edit History"

@@ -23,8 +23,8 @@ description: "Info about the swing dance org: Babaru."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu&org_id=babaru "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20%3CName%3E&region=ko_KR&province=Deagu&city=Deagu&org_id=babaru "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/babaru.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20Babaru&region=ko_KR&id=babaru&name=Babaru "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Babaru&region=ko_KR&id=babaru&name=Babaru "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/babaru.json "View Edit History"

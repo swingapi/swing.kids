@@ -30,8 +30,8 @@ description: "Info about the swing dance org: Dancing Bus."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=Tokyo&city=Tokyo&org_id=dancing-bus "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Tokyo&city=Tokyo&org_id=dancing-bus "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ja_JP/dancing-bus.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Update%20Org%3A%20Dancing%20Bus&region=ja_JP&id=dancing-bus&name=Dancing%20Bus "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Dancing%20Bus&region=ja_JP&id=dancing-bus&name=Dancing%20Bus "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ja_JP/dancing-bus.json "View Edit History"

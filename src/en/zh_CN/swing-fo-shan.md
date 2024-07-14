@@ -31,8 +31,8 @@ Since 2018
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Guangdong&city=Foshan&org_id=swing-fo-shan "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=Guangdong&city=Foshan&org_id=swing-fo-shan "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/swing-fo-shan.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20Swing%20Foshan&region=zh_CN&id=swing-fo-shan&name=Swing%20Foshan "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Swing%20Foshan&region=zh_CN&id=swing-fo-shan&name=Swing%20Foshan "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/swing-fo-shan.json "View Edit History"

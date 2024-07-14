@@ -29,8 +29,8 @@ description: "Info about the swing dance org: The Hop Bangkok."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bth_TH%5D%20Add%20Event%3A%20%3CName%3E&region=th_TH&province=Bangkok&city=Bangkok&org_id=the-hop-bangkok "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bth_TH%5D%20%3CName%3E&region=th_TH&province=Bangkok&city=Bangkok&org_id=the-hop-bangkok "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/th_TH/the-hop-bangkok.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bth_TH%5D%20Update%20Org%3A%20The%20Hop%20Bangkok&region=th_TH&id=the-hop-bangkok&name=The%20Hop%20Bangkok "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bth_TH%5D%20The%20Hop%20Bangkok&region=th_TH&id=the-hop-bangkok&name=The%20Hop%20Bangkok "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/th_TH/the-hop-bangkok.json "View Edit History"

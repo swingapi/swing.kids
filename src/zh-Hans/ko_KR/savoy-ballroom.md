@@ -31,8 +31,8 @@ description: "关于摇摆舞组织“SAVOY Ballroom ”的一些信息。"
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=savoy-ballroom "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=savoy-ballroom "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/savoy-ballroom.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20SAVOY%20Ballroom%C2%A0&region=ko_KR&id=savoy-ballroom&name=SAVOY%20Ballroom%C2%A0 "编辑信息"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20SAVOY%20Ballroom%C2%A0&region=ko_KR&id=savoy-ballroom&name=SAVOY%20Ballroom%C2%A0 "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/savoy-ballroom.json "查看编辑历史"

@@ -28,8 +28,8 @@ description: "关于摇摆舞组织“Sapporo Swing Dance”的一些信息。"
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=Sapporo&city=Sapporo&org_id=sapporo-swing-dance "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Sapporo&city=Sapporo&org_id=sapporo-swing-dance "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ja_JP/sapporo-swing-dance.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Update%20Org%3A%20Sapporo%20Swing%20Dance&region=ja_JP&id=sapporo-swing-dance&name=Sapporo%20Swing%20Dance "编辑信息"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Sapporo%20Swing%20Dance&region=ja_JP&id=sapporo-swing-dance&name=Sapporo%20Swing%20Dance "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ja_JP/sapporo-swing-dance.json "查看编辑历史"

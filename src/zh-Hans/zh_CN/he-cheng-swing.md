@@ -31,8 +31,8 @@ description: "关于摇摆舞组织“He Cheng Swing”的一些信息。"
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Jiaxing&org_id=he-cheng-swing "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=Zhejiang&city=Jiaxing&org_id=he-cheng-swing "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/he-cheng-swing.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20He%20Cheng%20Swing&region=zh_CN&id=he-cheng-swing&name=He%20Cheng%20Swing "编辑信息"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20He%20Cheng%20Swing&region=zh_CN&id=he-cheng-swing&name=He%20Cheng%20Swing "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/he-cheng-swing.json "查看编辑历史"

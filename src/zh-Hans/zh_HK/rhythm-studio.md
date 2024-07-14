@@ -30,8 +30,8 @@ description: "关于摇摆舞组织“Rhythm Studio”的一些信息。"
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_HK%5D%20Add%20Event%3A%20%3CName%3E&region=zh_HK&province=HK&city=HK&org_id=rhythm-studio "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_HK%5D%20%3CName%3E&region=zh_HK&province=HK&city=HK&org_id=rhythm-studio "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_HK/rhythm-studio.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_HK%5D%20Update%20Org%3A%20Rhythm%20Studio&region=zh_HK&id=rhythm-studio&name=Rhythm%20Studio "编辑信息"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_HK%5D%20Rhythm%20Studio&region=zh_HK&id=rhythm-studio&name=Rhythm%20Studio "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_HK/rhythm-studio.json "查看编辑历史"

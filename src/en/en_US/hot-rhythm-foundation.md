@@ -30,8 +30,8 @@ description: "Info about the swing dance org: Hot Rhythm Foundation."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Ben_US%5D%20Add%20Event%3A%20%3CName%3E&region=en_US&province=Texas&city=Austin&org_id=hot-rhythm-foundation "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Ben_US%5D%20%3CName%3E&region=en_US&province=Texas&city=Austin&org_id=hot-rhythm-foundation "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/en_US/hot-rhythm-foundation.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Ben_US%5D%20Update%20Org%3A%20Hot%20Rhythm%20Foundation&region=en_US&id=hot-rhythm-foundation&name=Hot%20Rhythm%20Foundation "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Ben_US%5D%20Hot%20Rhythm%20Foundation&region=en_US&id=hot-rhythm-foundation&name=Hot%20Rhythm%20Foundation "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/en_US/hot-rhythm-foundation.json "View Edit History"

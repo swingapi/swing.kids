@@ -31,8 +31,8 @@ Since 2018
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20Add%20Event%3A%20%3CName%3E&region=zh_CN&province=Guangdong&city=Guangzhou&org_id=blues-guang-zhou "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_CN%5D%20%3CName%3E&region=zh_CN&province=Guangdong&city=Guangzhou&org_id=blues-guang-zhou "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_CN/blues-guang-zhou.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Update%20Org%3A%20Blues%20Guangzhou&region=zh_CN&id=blues-guang-zhou&name=Blues%20Guangzhou "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_CN%5D%20Blues%20Guangzhou&region=zh_CN&id=blues-guang-zhou&name=Blues%20Guangzhou "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_CN/blues-guang-zhou.json "View Edit History"

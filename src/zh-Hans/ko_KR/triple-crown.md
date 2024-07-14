@@ -32,8 +32,8 @@ description: "关于摇摆舞组织“Triple Crown Swing Dance Academy”的一�
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20Add%20Event%3A%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=triple-crown "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bko_KR%5D%20%3CName%3E&region=ko_KR&province=Seoul&city=Seoul&org_id=triple-crown "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ko_KR/triple-crown.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Update%20Org%3A%20Triple%20Crown%20Swing%20Dance%20Academy&region=ko_KR&id=triple-crown&name=Triple%20Crown%20Swing%20Dance%20Academy "编辑信息"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bko_KR%5D%20Triple%20Crown%20Swing%20Dance%20Academy&region=ko_KR&id=triple-crown&name=Triple%20Crown%20Swing%20Dance%20Academy "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ko_KR/triple-crown.json "查看编辑历史"

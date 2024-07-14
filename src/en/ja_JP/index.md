@@ -10,7 +10,7 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | Name | |
 | --- | --- | --- |
 | | [Kawasaki Swing](kawasaki-swing.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Kanagawa&city=Kanagawa)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Kanagawa&city=Kanagawa)
 
 ---
 
@@ -19,7 +19,7 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | Name | |
 | --- | --- | --- |
 | | [Swingin’ Niigata](swingin-niigata.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Niigata&city=Niigata)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Niigata&city=Niigata)
 
 ---
 
@@ -28,7 +28,7 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | Name | |
 | --- | --- | --- |
 | | [Osaka Swing](osaka-swing.md) | 大阪スイング |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Osaka&city=Osaka)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Osaka&city=Osaka)
 
 ---
 
@@ -37,7 +37,7 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | Name | |
 | --- | --- | --- |
 | | [Sapporo Swing Dance](sapporo-swing-dance.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Sapporo&city=Sapporo)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Sapporo&city=Sapporo)
 
 ---
 
@@ -46,7 +46,7 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | Name | |
 | --- | --- | --- |
 | | [Sendai Swing Club](sendai-swing-club.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Sendai&city=Sendai)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Sendai&city=Sendai)
 
 ---
 
@@ -59,7 +59,7 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | [Swing Dance Kobe](swing-dance-kobe.md) |  |
 | | [Swing Gigolo](swing-gigolo.md) |  |
 | | [Tokyo Swing Dance Society](tokyo-swing-dance-society.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Tokyo&city=Tokyo)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Tokyo&city=Tokyo)
 
 ---
 
@@ -68,8 +68,8 @@ description: "Overview of collected Swing Dance orgs in Japan."
 | | Name | |
 | --- | --- | --- |
 | | [Swingin Barrelhouse Records](swingin-barrelhouse-records.md) |  |
-| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=Yokohama&city=Yokohama)
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Yokohama&city=Yokohama)
 
 ---
 
-[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Org%3A%20%3CName%3E&region=ja_JP&province=&city=){ .md-button }
+[Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=&city=){ .md-button }

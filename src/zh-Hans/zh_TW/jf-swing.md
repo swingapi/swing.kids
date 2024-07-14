@@ -31,8 +31,8 @@ JFSwing 搖擺舞教室
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20Add%20Event%3A%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei&org_id=jf-swing "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bzh_TW%5D%20%3CName%3E&region=zh_TW&province=Taipei&city=Taipei&org_id=jf-swing "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/zh_TW/jf-swing.json "查看原始源文件"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_TW%5D%20Update%20Org%3A%20JF%20Swing&region=zh_TW&id=jf-swing&name=JF%20Swing "编辑信息"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bzh_TW%5D%20JF%20Swing&region=zh_TW&id=jf-swing&name=JF%20Swing "编辑信息"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/zh_TW/jf-swing.json "查看编辑历史"

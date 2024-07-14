@@ -28,8 +28,8 @@ description: "Info about the swing dance org: Sapporo Swing Dance."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20Add%20Event%3A%20%3CName%3E&region=ja_JP&province=Sapporo&city=Sapporo&org_id=sapporo-swing-dance "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bja_JP%5D%20%3CName%3E&region=ja_JP&province=Sapporo&city=Sapporo&org_id=sapporo-swing-dance "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/ja_JP/sapporo-swing-dance.json "View Raw Source File"
-[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Update%20Org%3A%20Sapporo%20Swing%20Dance&region=ja_JP&id=sapporo-swing-dance&name=Sapporo%20Swing%20Dance "Edit Info"
+[edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bja_JP%5D%20Sapporo%20Swing%20Dance&region=ja_JP&id=sapporo-swing-dance&name=Sapporo%20Swing%20Dance "Edit Info"
 
 [view-edit-history]: https://github.com/swingdance/orgs/commits/main/ja_JP/sapporo-swing-dance.json "View Edit History"
