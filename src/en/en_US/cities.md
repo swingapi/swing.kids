@@ -1,5 +1,5 @@
 ---
-description: "Overview of cities in America with Swing Dance orgs."
+description: "Overview of cities in United States with Swing Dance orgs."
 ---
 
 | Province | City | | |

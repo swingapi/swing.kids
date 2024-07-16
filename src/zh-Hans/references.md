@@ -13,5 +13,6 @@ status: references
 | ko_KR • 韩国 | [주간 소셜 스케줄](https://docs.google.com/spreadsheets/d/1f2y-doDtxlxZwswSB-yWs5n7A01xBccFQLDnFCLnTns) | Triplecrown Swing Dance |
 | zh_CN • 中国 | [国内摇摆舞组织不完全汇总](https://mp.weixin.qq.com/s/UdH0yMKJv0TVOQbIcA2h1A) | Cat's Corner Studio |
 | zh_HK • 香港 | [Calendar](https://rhythmstudiohk.com/calendar/) | Rhythm Studio |
+|  •  | [Swing Europe - Events](https://swingingeurope.eu/events) | Swing Europe |
 |  •  | [Swing Plan-it](https://www.swingplanit.com) |  |
 | [+ 添加](https://github.com/swingdance/references/issues/new)

@@ -4,7 +4,7 @@
 
 | Region Code | Region Name |
 | --- | --- |
-| en_US | [America](en_US/index.md) | 
+| en_US | [United States](en_US/index.md) | 
 
 ## Asia
 
