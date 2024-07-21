@@ -4,15 +4,15 @@
 
 | Region Code | Region Name |
 | --- | --- |
-| en_US | [United States](en_US/index.md) | 
+| us | [United States](us/index.md) | 
 
 ## Asia
 
 | Region Code | Region Name |
 | --- | --- |
-| ja_JP | [Japan](ja_JP/index.md) | 
-| ko_KR | [South Korea](ko_KR/index.md) | 
-| th_TH | [Thailand](th_TH/index.md) | 
-| zh_CN | [China](zh_CN/index.md) | 
-| zh_HK | [Hong Kong](zh_HK/index.md) | 
-| zh_TW | [Taiwan](zh_TW/index.md) | 
+| cn | [China](cn/index.md) | 
+| hk | [Hong Kong](hk/index.md) | 
+| jp | [Japan](jp/index.md) | 
+| kr | [South Korea](kr/index.md) | 
+| th | [Thailand](th/index.md) | 
+| tw | [Taiwan](tw/index.md) | 

@@ -23,160 +23,160 @@ nav:
     - 标签: tags.md
     - 美洲:
       - 美国:
-        - 总览: en_US/index.md
-        - 城市: en_US/cities.md
+        - 总览: us/index.md
+        - 城市: us/cities.md
         - 组织:
-          - en_US/hot-rhythm-foundation.md
-          - en_US/ilindy.md
+          - us/hot-rhythm-foundation.md
+          - us/ilindy.md
     - 亚洲:
-      - 日本:
-        - 总览: ja_JP/index.md
-        - 城市: ja_JP/cities.md
-        - 组织:
-          - ja_JP/chillboa.md
-          - ja_JP/dancing-bus.md
-          - ja_JP/kawasaki-swing.md
-          - ja_JP/osaka-swing.md
-          - ja_JP/sapporo-swing-dance.md
-          - ja_JP/sendai-swing-club.md
-          - ja_JP/swing-dance-kobe.md
-          - ja_JP/swing-gigolo.md
-          - ja_JP/swingin-barrelhouse-records.md
-          - ja_JP/swingin-niigata.md
-          - ja_JP/tokyo-swing-dance-society.md
-      - 韩国:
-        - 总览: ko_KR/index.md
-        - 城市: ko_KR/cities.md
-        - 组织:
-          - ko_KR/1st-bar.md
-          - ko_KR/asurajang.md
-          - ko_KR/babaru.md
-          - ko_KR/be-bop-bar.md
-          - ko_KR/big-apple-cheonan.md
-          - ko_KR/big-apple-seoul.md
-          - ko_KR/bongchun-salon.md
-          - ko_KR/clave.md
-          - ko_KR/cloud-9-dance-hall.md
-          - ko_KR/club-ann.md
-          - ko_KR/fiesta-2.md
-          - ko_KR/happy-hall.md
-          - ko_KR/hoppers-hall.md
-          - ko_KR/in-the-mood-sillim.md
-          - ko_KR/kyungsung-hall.md
-          - ko_KR/lala-hall.md
-          - ko_KR/mayan.md
-          - ko_KR/rico.md
-          - ko_KR/salon-de-cheonan.md
-          - ko_KR/savoy-ballroom.md
-          - ko_KR/swing-243-dance-hall.md
-          - ko_KR/swing-bar.md
-          - ko_KR/swing-it-dance-hall.md
-          - ko_KR/swing-latte.md
-          - ko_KR/swing-time-bar.md
-          - ko_KR/the-k-dance-studio.md
-          - ko_KR/the-social-club.md
-          - ko_KR/triple-crown.md
-          - ko_KR/wing-bar.md
-      - 泰国:
-        - 总览: th_TH/index.md
-        - 城市: th_TH/cities.md
-        - 组织:
-          - th_TH/the-hop-bangkok.md
       - 中国:
-        - 总览: zh_CN/index.md
-        - 城市: zh_CN/cities.md
+        - 总览: cn/index.md
+        - 城市: cn/cities.md
         - 组织:
-          - zh_CN/a-frame.md
-          - zh_CN/a-jass-dance.md
-          - zh_CN/amoy-swing.md
-          - zh_CN/balboa-shenzhen.md
-          - zh_CN/blues-beijing.md
-          - zh_CN/blues-guang-zhou.md
-          - zh_CN/camel-walk-swing.md
-          - zh_CN/cats-corner-studio.md
-          - zh_CN/doo-the-swing.md
-          - zh_CN/double-swing.md
-          - zh_CN/downtown-swing.md
-          - zh_CN/flying-home.md
-          - zh_CN/go-swing-tientsin.md
-          - zh_CN/groove-blues-swing.md
-          - zh_CN/happy-swing.md
-          - zh_CN/he-cheng-swing.md
-          - zh_CN/he-fei-swing.md
-          - zh_CN/hi-swing.md
-          - zh_CN/hidden-swing.md
-          - zh_CN/ice-city-swing.md
-          - zh_CN/jin-swing.md
-          - zh_CN/laisi-swing-studio.md
-          - zh_CN/lizi-swing-dance-studio.md
-          - zh_CN/m-r-swing.md
-          - zh_CN/mala-swing.md
-          - zh_CN/nan-men-swing.md
-          - zh_CN/nb-swing.md
-          - zh_CN/rhythm-park.md
-          - zh_CN/seriously-swing-studio.md
-          - zh_CN/shi-men-swing.md
-          - zh_CN/smalls-swing.md
-          - zh_CN/so-dancing.md
-          - zh_CN/soul-city.md
-          - zh_CN/soul-swing.md
-          - zh_CN/swing-adventure.md
-          - zh_CN/swing-beasts.md
-          - zh_CN/swing-beijing.md
-          - zh_CN/swing-bing-zhou.md
-          - zh_CN/swing-canton.md
-          - zh_CN/swing-chang-sha.md
-          - zh_CN/swing-chong-qing.md
-          - zh_CN/swing-fo-shan.md
-          - zh_CN/swing-friends.md
-          - zh_CN/swing-fu-zhou.md
-          - zh_CN/swing-hang-zhou.md
-          - zh_CN/swing-hohhot.md
-          - zh_CN/swing-kun-ming.md
-          - zh_CN/swing-lan-zhou.md
-          - zh_CN/swing-land.md
-          - zh_CN/swing-nan-chang.md
-          - zh_CN/swing-nan-jing.md
-          - zh_CN/swing-shen-yang.md
-          - zh_CN/swing-shen-zhen.md
-          - zh_CN/swing-stars-studio.md
-          - zh_CN/swing-teoswa.md
-          - zh_CN/swing-tian-jin.md
-          - zh_CN/swing-time.md
-          - zh_CN/swing-topia.md
-          - zh_CN/swing-travels.md
-          - zh_CN/swing-wu-han.md
-          - zh_CN/swing-xi-an.md
-          - zh_CN/swing-zheng-zhou.md
-          - zh_CN/tabby-the-cat.md
-          - zh_CN/the-break-swing-dance.md
-          - zh_CN/tsing-tao-swing.md
-          - zh_CN/walking-the-blues.md
-          - zh_CN/yue-c-swing.md
-          - zh_CN/yun-swing.md
-          - zh_CN/zou-jin-yao-bai-wu.md
+          - cn/a-frame.md
+          - cn/a-jass-dance.md
+          - cn/amoy-swing.md
+          - cn/balboa-shenzhen.md
+          - cn/blues-beijing.md
+          - cn/blues-guang-zhou.md
+          - cn/camel-walk-swing.md
+          - cn/cats-corner-studio.md
+          - cn/doo-the-swing.md
+          - cn/double-swing.md
+          - cn/downtown-swing.md
+          - cn/flying-home.md
+          - cn/go-swing-tientsin.md
+          - cn/groove-blues-swing.md
+          - cn/happy-swing.md
+          - cn/he-cheng-swing.md
+          - cn/he-fei-swing.md
+          - cn/hi-swing.md
+          - cn/hidden-swing.md
+          - cn/ice-city-swing.md
+          - cn/jin-swing.md
+          - cn/laisi-swing-studio.md
+          - cn/lizi-swing-dance-studio.md
+          - cn/m-r-swing.md
+          - cn/mala-swing.md
+          - cn/nan-men-swing.md
+          - cn/nb-swing.md
+          - cn/rhythm-park.md
+          - cn/seriously-swing-studio.md
+          - cn/shi-men-swing.md
+          - cn/smalls-swing.md
+          - cn/so-dancing.md
+          - cn/soul-city.md
+          - cn/soul-swing.md
+          - cn/swing-adventure.md
+          - cn/swing-beasts.md
+          - cn/swing-beijing.md
+          - cn/swing-bing-zhou.md
+          - cn/swing-canton.md
+          - cn/swing-chang-sha.md
+          - cn/swing-chong-qing.md
+          - cn/swing-fo-shan.md
+          - cn/swing-friends.md
+          - cn/swing-fu-zhou.md
+          - cn/swing-hang-zhou.md
+          - cn/swing-hohhot.md
+          - cn/swing-kun-ming.md
+          - cn/swing-lan-zhou.md
+          - cn/swing-land.md
+          - cn/swing-nan-chang.md
+          - cn/swing-nan-jing.md
+          - cn/swing-shen-yang.md
+          - cn/swing-shen-zhen.md
+          - cn/swing-stars-studio.md
+          - cn/swing-teoswa.md
+          - cn/swing-tian-jin.md
+          - cn/swing-time.md
+          - cn/swing-topia.md
+          - cn/swing-travels.md
+          - cn/swing-wu-han.md
+          - cn/swing-xi-an.md
+          - cn/swing-zheng-zhou.md
+          - cn/tabby-the-cat.md
+          - cn/the-break-swing-dance.md
+          - cn/tsing-tao-swing.md
+          - cn/walking-the-blues.md
+          - cn/yue-c-swing.md
+          - cn/yun-swing.md
+          - cn/zou-jin-yao-bai-wu.md
       - 香港:
-        - 总览: zh_HK/index.md
-        - 城市: zh_HK/cities.md
+        - 总览: hk/index.md
+        - 城市: hk/cities.md
         - 组织:
-          - zh_HK/hong-kong-balboa.md
-          - zh_HK/hong-kong-swing.md
-          - zh_HK/rhythm-studio.md
-          - zh_HK/swing-pocket.md
+          - hk/hong-kong-balboa.md
+          - hk/hong-kong-swing.md
+          - hk/rhythm-studio.md
+          - hk/swing-pocket.md
+      - 日本:
+        - 总览: jp/index.md
+        - 城市: jp/cities.md
+        - 组织:
+          - jp/chillboa.md
+          - jp/dancing-bus.md
+          - jp/kawasaki-swing.md
+          - jp/osaka-swing.md
+          - jp/sapporo-swing-dance.md
+          - jp/sendai-swing-club.md
+          - jp/swing-dance-kobe.md
+          - jp/swing-gigolo.md
+          - jp/swingin-barrelhouse-records.md
+          - jp/swingin-niigata.md
+          - jp/tokyo-swing-dance-society.md
+      - 韩国:
+        - 总览: kr/index.md
+        - 城市: kr/cities.md
+        - 组织:
+          - kr/1st-bar.md
+          - kr/asurajang.md
+          - kr/babaru.md
+          - kr/be-bop-bar.md
+          - kr/big-apple-cheonan.md
+          - kr/big-apple-seoul.md
+          - kr/bongchun-salon.md
+          - kr/clave.md
+          - kr/cloud-9-dance-hall.md
+          - kr/club-ann.md
+          - kr/fiesta-2.md
+          - kr/happy-hall.md
+          - kr/hoppers-hall.md
+          - kr/in-the-mood-sillim.md
+          - kr/kyungsung-hall.md
+          - kr/lala-hall.md
+          - kr/mayan.md
+          - kr/rico.md
+          - kr/salon-de-cheonan.md
+          - kr/savoy-ballroom.md
+          - kr/swing-243-dance-hall.md
+          - kr/swing-bar.md
+          - kr/swing-it-dance-hall.md
+          - kr/swing-latte.md
+          - kr/swing-time-bar.md
+          - kr/the-k-dance-studio.md
+          - kr/the-social-club.md
+          - kr/triple-crown.md
+          - kr/wing-bar.md
+      - 泰国:
+        - 总览: th/index.md
+        - 城市: th/cities.md
+        - 组织:
+          - th/the-hop-bangkok.md
       - 台湾:
-        - 总览: zh_TW/index.md
-        - 城市: zh_TW/cities.md
+        - 总览: tw/index.md
+        - 城市: tw/cities.md
         - 组织:
-          - zh_TW/big-apple-swing-studio.md
-          - zh_TW/friday-swing.md
-          - zh_TW/jf-swing.md
-          - zh_TW/lets-swing-taichung.md
-          - zh_TW/naughty-swing.md
-          - zh_TW/swing-fomosa.md
-          - zh_TW/swing-gale.md
-          - zh_TW/swing-tai-wan.md
-          - zh_TW/switch-taipei.md
-          - zh_TW/tap-life.md
+          - tw/big-apple-swing-studio.md
+          - tw/friday-swing.md
+          - tw/jf-swing.md
+          - tw/lets-swing-taichung.md
+          - tw/naughty-swing.md
+          - tw/swing-fomosa.md
+          - tw/swing-gale.md
+          - tw/swing-tai-wan.md
+          - tw/switch-taipei.md
+          - tw/tap-life.md
   - 活动: https://swing.news
   - 更新日志: https://github.com/swingdance/orgs/commits/main/
   - 关于:

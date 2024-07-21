@@ -4,15 +4,15 @@
 
 | 地区编码 | 地区名称 |
 | --- | --- |
-| en_US | [美国](en_US/index.md) | 
+| us | [美国](us/index.md) | 
 
 ## 亚洲
 
 | 地区编码 | 地区名称 |
 | --- | --- |
-| ja_JP | [日本](ja_JP/index.md) | 
-| ko_KR | [韩国](ko_KR/index.md) | 
-| th_TH | [泰国](th_TH/index.md) | 
-| zh_CN | [中国](zh_CN/index.md) | 
-| zh_HK | [香港](zh_HK/index.md) | 
-| zh_TW | [台湾](zh_TW/index.md) | 
+| cn | [中国](cn/index.md) | 
+| hk | [香港](hk/index.md) | 
+| jp | [日本](jp/index.md) | 
+| kr | [韩国](kr/index.md) | 
+| th | [泰国](th/index.md) | 
+| tw | [台湾](tw/index.md) | 
