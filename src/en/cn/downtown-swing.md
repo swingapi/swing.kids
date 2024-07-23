@@ -19,10 +19,11 @@ Since 2017
 
 ## Contact
 
+:fontawesome-solid-envelope: <downtownswing@163.com>  
 
 ---
 
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "DowntownSwing上海摇摆"){ target='_blank' }
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=100069941023442){ target='_blank' } [:fontawesome-brands-instagram:{ .ky_social_links_icon }](https://instagram.com/downtown.swing3){ target='_blank' } [:fontawesome-brands-bilibili:{ .ky_social_links_icon }](https://space.bilibili.com/403909981){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/95w5zY337iI0eMZ-6qaO0w){ target='_blank' }
 
 ---
 
@@ -33,7 +34,7 @@ Since 2017
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30T10:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-07-23 12:44 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

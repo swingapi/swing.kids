@@ -26,7 +26,7 @@ tags:
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-10T14:35:00 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-07-10 14:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
