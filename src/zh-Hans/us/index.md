@@ -5,12 +5,14 @@ description: "美国已收录的摇摆舞组织总览。"
 
 ---
 
-## <a id=new-york></a>[纽约](#new-york) { #new-york }
+## <a id=new-york></a>[纽约州](#new-york) { #new-york }
+
+### <a id=new-york-city></a>纽约市 { #new-york-city }
 
 | | 名称 | |
 | --- | --- | --- |
 | | [iLindy](ilindy.md) |  |
-| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York){ target='_blank' }
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City){ target='_blank' }
 
 ---
 

@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“iLindy”的一些信息。"
 
 # iLindy
 
-:fontawesome-solid-location-dot: 纽约  
+:fontawesome-solid-location-dot: 纽约市  
 
 
 ## 联系
@@ -30,7 +30,7 @@ description: "关于摇摆舞组织“iLindy”的一些信息。"
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York&org_id=ilindy "添加活动"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City&org_id=ilindy "添加活动"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/us/ilindy.json "查看原始源文件"
 [edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bus%5D%20iLindy&region=us&id=ilindy&name=iLindy "编辑信息"
 

@@ -5,7 +5,7 @@ description: "Info about the swing dance org: iLindy."
 
 # iLindy
 
-:fontawesome-solid-location-dot: New York  
+:fontawesome-solid-location-dot: New York City  
 
 
 ## Contact
@@ -30,7 +30,7 @@ description: "Info about the swing dance org: iLindy."
 </div>
 </div>
 
-[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York&org_id=ilindy "Add Event"
+[add-event-link]: https://github.com/swingdance/events/issues/new?assignees=&labels=add+event&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=New%20York&city=New%20York%20City&org_id=ilindy "Add Event"
 [view-raw-source-file]: https://github.com/swingdance/orgs/blob/main/us/ilindy.json "View Raw Source File"
 [edit-info]: https://github.com/swingdance/orgs/issues/new?assignees=&labels=update+org&projects=&template=03-update_entity.yml&title=%5Bus%5D%20iLindy&region=us&id=ilindy&name=iLindy "Edit Info"
 
