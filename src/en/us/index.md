@@ -25,6 +25,13 @@ description: "Overview of collected Swing Dance orgs in United States."
 | | [Hot Rhythm Foundation](hot-rhythm-foundation.md) |  |
 | [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=Texas&city=Austin){ target='_blank' }
 
+### <a id=houston></a>Houston { #houston }
+
+| | Name | |
+| --- | --- | --- |
+| | [Houston Swing Dance Society](houston-swing-dance-society.md) |  |
+| [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=Texas&city=Houston){ target='_blank' }
+
 ---
 
 [Submit Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bus%5D%20%3CName%3E&region=us&province=&city=){ .md-button target='_blank' }

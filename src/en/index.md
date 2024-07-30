@@ -16,3 +16,9 @@
 | kr | [South Korea](kr/index.md) | 
 | th | [Thailand](th/index.md) | 
 | tw | [Taiwan](tw/index.md) | 
+
+## Europe
+
+| Region Code | Region Name |
+| --- | --- |
+| de | [Germany](de/index.md) | 

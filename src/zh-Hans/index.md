@@ -16,3 +16,9 @@
 | kr | [韩国](kr/index.md) | 
 | th | [泰国](th/index.md) | 
 | tw | [台湾](tw/index.md) | 
+
+## 欧洲
+
+| 地区编码 | 地区名称 |
+| --- | --- |
+| de | [德国](de/index.md) | 

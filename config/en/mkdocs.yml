@@ -26,6 +26,7 @@ nav:
         - Cities: us/cities.md
         - Orgs:
           - us/hot-rhythm-foundation.md
+          - us/houston-swing-dance-society.md
           - us/ilindy.md
     - Asia:
       - China:
@@ -176,6 +177,12 @@ nav:
           - tw/swing-tai-wan.md
           - tw/switch-taipei.md
           - tw/tap-life.md
+    - Europe:
+      - Germany:
+        - Overview: de/index.md
+        - Cities: de/cities.md
+        - Orgs:
+          - de/let-it-swing.md
   - Events: https://swing.news
   - Changelogs: https://github.com/swingdance/orgs/commits/main/
   - About:

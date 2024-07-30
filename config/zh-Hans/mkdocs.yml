@@ -27,6 +27,7 @@ nav:
         - 城市: us/cities.md
         - 组织:
           - us/hot-rhythm-foundation.md
+          - us/houston-swing-dance-society.md
           - us/ilindy.md
     - 亚洲:
       - 中国:
@@ -177,6 +178,12 @@ nav:
           - tw/swing-tai-wan.md
           - tw/switch-taipei.md
           - tw/tap-life.md
+    - 欧洲:
+      - 德国:
+        - 总览: de/index.md
+        - 城市: de/cities.md
+        - 组织:
+          - de/let-it-swing.md
   - 活动: https://swing.news
   - 更新日志: https://github.com/swingdance/orgs/commits/main/
   - 关于:
