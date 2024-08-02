@@ -13,7 +13,7 @@ Since 2019
 
 ???+ venue "Venue"
 
-    上海市黄浦区斜土路768号604室 Tabby the Cat 工作室。  
+    上海市黄浦区中山南一路893号5号102室  
 
 ## Contact
 
@@ -32,7 +32,7 @@ Since 2019
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-23 12:29 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-02 03:32 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
