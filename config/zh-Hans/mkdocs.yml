@@ -184,6 +184,11 @@ nav:
         - 城市: de/cities.md
         - 组织:
           - de/let-it-swing.md
+      - 法国:
+        - 总览: fr/index.md
+        - 城市: fr/cities.md
+        - 组织:
+          - fr/swingtime-bordeaux.md
   - 活动: https://swing.news
   - 更新日志: https://github.com/swingdance/orgs/commits/main/
   - 关于:

@@ -22,3 +22,4 @@
 | Region Code | Region Name |
 | --- | --- |
 | de | [Germany](de/index.md) | 
+| fr | [France](fr/index.md) | 

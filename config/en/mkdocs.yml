@@ -183,6 +183,11 @@ nav:
         - Cities: de/cities.md
         - Orgs:
           - de/let-it-swing.md
+      - France:
+        - Overview: fr/index.md
+        - Cities: fr/cities.md
+        - Orgs:
+          - fr/swingtime-bordeaux.md
   - Events: https://swing.news
   - Changelogs: https://github.com/swingdance/orgs/commits/main/
   - About:
