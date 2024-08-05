@@ -197,4 +197,41 @@ nav:
     - 隐私与条款:
       - privacy.md
       - terms.md
-  - + 添加组织/活动: submit.md
+  - + 添加组织/活动:
+    - 地区: submit/index.md
+    - 美洲:
+      - 加拿大: submit/ca.md
+      - 智利: submit/cl.md
+      - 墨西哥: submit/mx.md
+      - 美国: submit/us.md
+    - 亚洲:
+      - 亚美尼亚: submit/am.md
+      - 中国: submit/cn.md
+      - 印尼: submit/id.md
+      - 日本: submit/jp.md
+      - 韩国: submit/kr.md
+      - 泰国: submit/th.md
+      - 土耳其: submit/tr.md
+      - 台湾: submit/tw.md
+    - 欧洲:
+      - 比利时: submit/be.md
+      - 瑞士: submit/ch.md
+      - 捷克: submit/cz.md
+      - 德国: submit/de.md
+      - 丹麦: submit/dk.md
+      - 西班牙: submit/es.md
+      - 法国: submit/fr.md
+      - 希腊: submit/gr.md
+      - 匈牙利: submit/hu.md
+      - 意大利: submit/it.md
+      - 立陶宛: submit/lt.md
+      - 卢森堡: submit/lu.md
+      - 荷兰: submit/nl.md
+      - 挪威: submit/no.md
+      - 波兰: submit/pl.md
+      - 俄罗斯: submit/ru.md
+      - 瑞典: submit/se.md
+      - 斯洛文尼亚: submit/si.md
+      - 英国: submit/uk.md
+    - 大洋洲:
+      - 澳大利亚: submit/au.md

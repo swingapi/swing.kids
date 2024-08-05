@@ -196,4 +196,41 @@ nav:
     - Privacy & Terms:
       - privacy.md
       - terms.md
-  - + Submit Org/Event: submit.md
+  - + Submit Org/Event:
+    - Regions: submit/index.md
+    - America:
+      - Canada: submit/ca.md
+      - Chile: submit/cl.md
+      - Mexico: submit/mx.md
+      - United States: submit/us.md
+    - Asia:
+      - Armenia: submit/am.md
+      - China: submit/cn.md
+      - Indonesia: submit/id.md
+      - Japan: submit/jp.md
+      - South Korea: submit/kr.md
+      - Thailand: submit/th.md
+      - Turkey: submit/tr.md
+      - Taiwan: submit/tw.md
+    - Europe:
+      - Belgium: submit/be.md
+      - Switzerland: submit/ch.md
+      - Czechia: submit/cz.md
+      - Germany: submit/de.md
+      - Denmark: submit/dk.md
+      - Spain: submit/es.md
+      - France: submit/fr.md
+      - Greece: submit/gr.md
+      - Hungary: submit/hu.md
+      - Italy: submit/it.md
+      - Lithuania: submit/lt.md
+      - Luxembourg: submit/lu.md
+      - Netherlands: submit/nl.md
+      - Norway: submit/no.md
+      - Poland: submit/pl.md
+      - Russia: submit/ru.md
+      - Sweden: submit/se.md
+      - Slovenia: submit/si.md
+      - United Kingdom: submit/uk.md
+    - Oceania:
+      - Australia: submit/au.md
