@@ -269,7 +269,7 @@ description: "中国已收录的摇摆舞组织总览。"
 | | [Downtown Swing](downtown-swing.md) | Downtown Swing 上海摇摆 |
 | | [Soul City](soul-city.md) |  |
 | | [Swing Topia](swing-topia.md) |  |
-| | [Tabby The Cat](tabby-the-cat.md) | Tabby The Cat 摇摆舞工作室 |
+| | [Tabby the Cat](tabby-the-cat.md) | Tabby the Cat 摇摆舞工作室 |
 | [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bcn%5D%20%3CName%3E&region=cn&province=Shanghai&city=Shanghai){ target='_blank' }
 
 ---
