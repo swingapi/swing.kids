@@ -20,6 +20,7 @@ Downtown Swing 上海摇摆
 ## 联系
 
 :fontawesome-solid-envelope: <downtownswing@163.com>  
+:fontawesome-solid-globe: <https://www.downtownswing.cn>{ target='_blank' }  
 
 ---
 
@@ -34,7 +35,7 @@ Downtown Swing 上海摇摆
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-07-23 12:44 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-07 13:02 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
