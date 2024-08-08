@@ -11,12 +11,22 @@ description: "关于摇摆舞组织“Swing Beasts”的一些信息。"
 :fontawesome-solid-location-dot: 北京  
 
 
+???+ venue "场地"
+
+    Big Apple Ballroom  
+    北京市朝阳区朝外SOHO A座B1层101室 大苹果摇摆舞厅  
+
+???+ party "舞会信息"
+
+    每周一 20:00  
+    每周六 20:00  
+
 ## 联系
 
 
 ---
 
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingBeasts摇摆野兽"){ target='_blank' }
+ [:fontawesome-brands-facebook-f:{ .ky_social_links_icon }](https://www.facebook.com/profile.php?id=100086747770320){ target='_blank' } [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/cMIeJodcSBt7xEFqth9umw){ target='_blank' }
 
 ---
 
@@ -27,7 +37,7 @@ description: "关于摇摆舞组织“Swing Beasts”的一些信息。"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-08-08 13:44 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
