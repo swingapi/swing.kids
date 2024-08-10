@@ -183,6 +183,11 @@ nav:
         - Cities: de/cities.md
         - Orgs:
           - de/let-it-swing.md
+      - Spain:
+        - Overview: es/index.md
+        - Cities: es/cities.md
+        - Orgs:
+          - es/la-demo-swing-lab.md
       - France:
         - Overview: fr/index.md
         - Cities: fr/cities.md

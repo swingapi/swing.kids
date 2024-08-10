@@ -22,4 +22,5 @@
 | 地区编码 | 地区名称 |
 | --- | --- |
 | de | [德国](de/index.md) | 
+| es | [西班牙](es/index.md) | 
 | fr | [法国](fr/index.md) | 

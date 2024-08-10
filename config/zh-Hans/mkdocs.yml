@@ -184,6 +184,11 @@ nav:
         - 城市: de/cities.md
         - 组织:
           - de/let-it-swing.md
+      - 西班牙:
+        - 总览: es/index.md
+        - 城市: es/cities.md
+        - 组织:
+          - es/la-demo-swing-lab.md
       - 法国:
         - 总览: fr/index.md
         - 城市: fr/cities.md
