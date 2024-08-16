@@ -183,6 +183,11 @@ nav:
         - Cities: de/cities.md
         - Orgs:
           - de/let-it-swing.md
+      - Denmark:
+        - Overview: dk/index.md
+        - Cities: dk/cities.md
+        - Orgs:
+          - dk/swing-central-odense.md
       - Spain:
         - Overview: es/index.md
         - Cities: es/cities.md

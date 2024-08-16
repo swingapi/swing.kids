@@ -184,6 +184,11 @@ nav:
         - 城市: de/cities.md
         - 组织:
           - de/let-it-swing.md
+      - 丹麦:
+        - 总览: dk/index.md
+        - 城市: dk/cities.md
+        - 组织:
+          - dk/swing-central-odense.md
       - 西班牙:
         - 总览: es/index.md
         - 城市: es/cities.md

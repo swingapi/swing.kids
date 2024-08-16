@@ -22,5 +22,6 @@
 | Region Code | Region Name |
 | --- | --- |
 | de | [Germany](de/index.md) | 
+| dk | [Denmark](dk/index.md) | 
 | es | [Spain](es/index.md) | 
 | fr | [France](fr/index.md) | 
