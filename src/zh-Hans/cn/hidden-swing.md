@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Hidden Swing”的一些信息。"
 
 # Hidden Swing
 
-匿流摇摆舞工作室  
-成立于 2022  
-:fontawesome-solid-location-dot: 福州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 匿流摇摆舞工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 福州  
 
 
 ???+ venue "场地"

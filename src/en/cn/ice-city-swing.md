@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Ice City Swing."
 
 # Ice City Swing
 
-摇摆哈尔滨  
-Since 2023  
-:fontawesome-solid-location-dot: Harbin  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆哈尔滨  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Harbin  
 
 
 ## Contact

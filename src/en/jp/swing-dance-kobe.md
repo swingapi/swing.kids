@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Swing Dance Kobe."
 
 # Swing Dance Kobe
 
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 
 ## Contact

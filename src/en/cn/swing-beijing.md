@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Swing Beijing."
 
 # Swing Beijing
 
-摇摆北京  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆北京  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ## Contact

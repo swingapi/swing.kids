@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Shenyang."
 
 # Swing Shenyang
 
-摇摆沈阳  
-Since 2020  
-:fontawesome-solid-location-dot: Shenyang  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆沈阳  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shenyang  
 
 
 ## Contact

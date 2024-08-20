@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Swingin Barrelhouse Records."
 
 # Swingin Barrelhouse Records
 
-Since 2019  
-:fontawesome-solid-location-dot: Yokohama  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Yokohama  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.swingin-barrelhouse-records.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingin-barrelhouse-records.com>{ target='_blank' }  
 
 ---
 

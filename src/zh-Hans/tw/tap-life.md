@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Tap Life”的一些信息。"
 
 # Tap Life
 
-踢踏舞咖啡廳&搖擺舞工作室-TapLife  
-成立于 2016  
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 踢踏舞咖啡廳&搖擺舞工作室-TapLife  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2016  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 
 ???+ venue "场地"
@@ -17,8 +17,8 @@ description: "关于摇摆舞组织“Tap Life”的一些信息。"
 
 ## 联系
 
-:fontawesome-solid-envelope: <taplifecafe@gmail.com>  
-:fontawesome-solid-globe: <https://taplifecafe.blogspot.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <taplifecafe@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://taplifecafe.blogspot.com>{ target='_blank' }  
 
 ---
 

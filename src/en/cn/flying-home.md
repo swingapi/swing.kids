@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Flying Home."
 
 # Flying Home
 
-昆明摇摆  
-Since 2020  
-:fontawesome-solid-location-dot: Kunming  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 昆明摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Kunming  
 
 
 ## Contact

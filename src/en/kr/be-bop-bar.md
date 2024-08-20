@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Be Bop Bar."
 
 # Be Bop Bar
 
-비밥빠  
-:fontawesome-solid-location-dot: Incheon  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 비밥빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Incheon  
 
 
 ---

@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Swing Fomosa."
 
 # Swing Fomosa
 
-:fontawesome-solid-location-dot: Kaohsiung  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Kaohsiung  
 
 
 ???+ venue "Venue"
@@ -14,7 +14,7 @@ description: "Info about the swing dance org: Swing Fomosa."
 
 ## Contact
 
-:fontawesome-solid-envelope: <swingformosa@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingformosa@gmail.com>  
 
 ---
 

@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Zheng Zhou."
 
 # Swing Zheng Zhou
 
-摇摆郑州  
-Since 2020  
-:fontawesome-solid-location-dot: Zhengzhou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆郑州  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Zhengzhou  
 
 
 ## Contact

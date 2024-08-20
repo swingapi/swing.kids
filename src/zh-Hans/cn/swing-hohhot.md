@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Hohhot”的一些信息。"
 
 # Swing Hohhot
 
-摇摆青城  
-成立于 2019  
-:fontawesome-solid-location-dot: 呼和浩特  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆青城  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 呼和浩特  
 
 
 ## 联系

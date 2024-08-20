@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Rhythm Studio”的一些信息。"
 
 # Rhythm Studio
 
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@rhythmstudiohk.com>  
-:fontawesome-solid-globe: <https://rhythmstudiohk.com/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@rhythmstudiohk.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://rhythmstudiohk.com/>{ target='_blank' }  
 
 ---
 

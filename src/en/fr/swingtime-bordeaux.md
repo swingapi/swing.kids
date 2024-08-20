@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Swingtime Bordeaux."
 
 # Swingtime Bordeaux
 
-:fontawesome-solid-location-dot: Bordeaux  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bordeaux  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <swingtime@free.fr>  
-:fontawesome-solid-globe: <https://swingtime.fr>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingtime@free.fr>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingtime.fr>{ target='_blank' }  
 
 ---
 

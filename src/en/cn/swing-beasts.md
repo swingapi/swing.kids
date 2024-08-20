@@ -6,14 +6,15 @@ description: "Info about the swing dance org: Swing Beasts."
 
 # Swing Beasts
 
-摇摆野兽  
-Since 2019  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆野兽  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ???+ venue "Venue"
 
-    Big Apple Ballroom  
+    Big Apple Ballroom  
+      
     北京市朝阳区朝外SOHO A座B1层101室 大苹果摇摆舞厅  
 
 ???+ party "Party"

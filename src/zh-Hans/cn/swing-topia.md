@@ -5,8 +5,8 @@ description: "关于摇摆舞组织“Swing Topia”的一些信息。"
 
 # Swing Topia
 
-成立于 2019  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 
 ## 联系

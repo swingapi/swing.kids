@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Swing Pocket”的一些信息。"
 
 # Swing Pocket
 
-一代搖擺  
-成立于 2021  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 一代搖擺  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.swingpocket.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingpocket.com>{ target='_blank' }  
 
 ---
 

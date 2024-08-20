@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Salon de Cheonan”的一些信息。"
 
 # Salon de Cheonan
 
-취향회관  
-:fontawesome-solid-location-dot: 天安  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 취향회관  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 天安  
 
 
 ---

@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Big Apple (Cheonan)”的一些信息。"
 
 # Big Apple (Cheonan)
 
-빅애플  
-:fontawesome-solid-location-dot: 天安  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 빅애플  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 天安  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <wookiminam@naver.com>  
-:fontawesome-solid-globe: <https://cafe.naver.com/bigappleswing>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <wookiminam@naver.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://cafe.naver.com/bigappleswing>{ target='_blank' }  
 
 ---
 

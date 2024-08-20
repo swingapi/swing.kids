@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Wing Bar."
 
 # Wing Bar
 
-서면윙빠  
-:fontawesome-solid-location-dot: Busan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 서면윙빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Busan  
 
 
 ---

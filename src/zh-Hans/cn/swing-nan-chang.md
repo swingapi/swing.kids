@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Swing Nan Chang”的一些信息。"
 
 # Swing Nan Chang
 
-摇摆南昌  
-:fontawesome-solid-location-dot: 南昌  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆南昌  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 南昌  
 
 
 ---

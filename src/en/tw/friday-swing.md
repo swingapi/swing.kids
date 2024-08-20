@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Friday Swing."
 
 # Friday Swing
 
-Friday Swing 社交舞與搖擺舞  
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Friday Swing 社交舞與搖擺舞  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 
 ???+ venue "Venue"

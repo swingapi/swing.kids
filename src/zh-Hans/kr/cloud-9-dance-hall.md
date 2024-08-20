@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Cloud 9 Dance Hall”的一些信息。"
 
 # Cloud 9 Dance Hall
 
-클라우드9  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 클라우드9  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ---

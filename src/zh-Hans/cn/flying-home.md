@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Flying Home”的一些信息。"
 
 # Flying Home
 
-昆明摇摆  
-成立于 2020  
-:fontawesome-solid-location-dot: 昆明  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 昆明摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 昆明  
 
 
 ## 联系

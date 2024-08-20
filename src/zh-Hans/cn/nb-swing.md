@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“NB Swing”的一些信息。"
 
 # NB Swing
 
-摇摆宁波  
-成立于 2023  
-:fontawesome-solid-location-dot: 宁波  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆宁波  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 宁波  
 
 
 ## 联系

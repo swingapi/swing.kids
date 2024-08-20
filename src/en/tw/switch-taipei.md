@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Switch Taipei."
 
 # Switch Taipei
 
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <swtichtaipei@gmail.com;abcd60615@gmail.com>  
-:fontawesome-solid-globe: <https://www.switchtaipei.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swtichtaipei@gmail.com;abcd60615@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.switchtaipei.com>{ target='_blank' }  
 
 ---
 

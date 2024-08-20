@@ -5,8 +5,8 @@ description: "关于摇摆舞组织“Swing Stars Studio”的一些信息。"
 
 # Swing Stars Studio
 
-成立于 2021  
-:fontawesome-solid-location-dot: 天津  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 天津  
 
 
 ## 联系

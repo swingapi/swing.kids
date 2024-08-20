@@ -6,13 +6,13 @@ description: "Info about the swing dance org: JF Swing."
 
 # JF Swing
 
-JFSwing 搖擺舞教室  
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } JFSwing 搖擺舞教室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <jfswing.tw@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <jfswing.tw@gmail.com>  
 
 ---
 

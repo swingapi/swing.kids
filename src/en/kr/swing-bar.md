@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Swing Bar."
 
 # Swing Bar
 
-스윙빠  
-:fontawesome-solid-location-dot: Jeju  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Jeju  
 
 
 ---

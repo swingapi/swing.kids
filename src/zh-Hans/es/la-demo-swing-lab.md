@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“La Demo Swing Lab”的一些信息。"
 
 # La Demo Swing Lab
 
-:fontawesome-solid-location-dot: 马德里  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 马德里  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <hola@lademoswinglab.es>  
-:fontawesome-solid-globe: <https://www.lademoswinglab.es>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hola@lademoswinglab.es>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.lademoswinglab.es>{ target='_blank' }  
 
 ---
 

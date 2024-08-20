@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Tokyo Swing Dance Society."
 
 # Tokyo Swing Dance Society
 
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 
 ???+ venue "Venue"
@@ -15,8 +15,8 @@ description: "Info about the swing dance org: Tokyo Swing Dance Society."
 
 ## Contact
 
-:fontawesome-solid-envelope: <hiro@impetus.ne.jp>  
-:fontawesome-solid-globe: <https://www.impetus.ne.jp/tsdsweb/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hiro@impetus.ne.jp>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.impetus.ne.jp/tsdsweb/>{ target='_blank' }  
 
 ---
 

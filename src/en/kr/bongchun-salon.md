@@ -6,13 +6,13 @@ description: "Info about the swing dance org: Bongchun Salon."
 
 # Bongchun Salon
 
-봉천살롱  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 봉천살롱  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://cafe.naver.com/bongcheonsalon>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://cafe.naver.com/bongcheonsalon>{ target='_blank' }  
 
 ---
 

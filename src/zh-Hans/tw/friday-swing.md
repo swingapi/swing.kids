@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Friday Swing”的一些信息。"
 
 # Friday Swing
 
-Friday Swing 社交舞與搖擺舞  
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Friday Swing 社交舞與搖擺舞  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 
 ???+ venue "场地"

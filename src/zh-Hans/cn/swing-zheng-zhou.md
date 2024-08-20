@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Zheng Zhou”的一些信息。"
 
 # Swing Zheng Zhou
 
-摇摆郑州  
-成立于 2020  
-:fontawesome-solid-location-dot: 郑州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆郑州  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 郑州  
 
 
 ## 联系

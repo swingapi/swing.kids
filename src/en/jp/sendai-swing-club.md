@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Sendai Swing Club."
 
 # Sendai Swing Club
 
-:fontawesome-solid-location-dot: Sendai  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Sendai  
 
 
 ## Contact

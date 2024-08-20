@@ -5,8 +5,8 @@ description: "Info about the swing dance org: Soul Swing."
 
 # Soul Swing
 
-Since 2020  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ## Contact

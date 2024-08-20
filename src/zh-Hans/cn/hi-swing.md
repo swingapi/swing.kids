@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Hi Swing”的一些信息。"
 
 # Hi Swing
 
-摇摆成都  
-成立于 2019  
-:fontawesome-solid-location-dot: 成都  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆成都  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 成都  
 
 
 ## 联系

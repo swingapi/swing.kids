@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Big Apple Swing Studio”的一些信息�
 
 # Big Apple Swing Studio
 
-Big Apple Swing Studio 搖擺舞教室  
-成立于 2015  
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Big Apple Swing Studio 搖擺舞教室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2015  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 
 ???+ venue "场地"
@@ -17,8 +17,8 @@ Big Apple Swing Studio 搖擺舞教室
 
 ## 联系
 
-:fontawesome-solid-envelope: <appleswingstudio@gmail.com>  
-:fontawesome-solid-globe: <https://www.baswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <appleswingstudio@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.baswing.com>{ target='_blank' }  
 
 ---
 

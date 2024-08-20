@@ -7,8 +7,8 @@ tags:
 
 # Blues Guangzhou
 
-成立于 2018  
-:fontawesome-solid-location-dot: 广州  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 广州  
 
 
 ## 联系

@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Kyungsung hall."
 
 # Kyungsung hall
 
-경성홀  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 경성홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact

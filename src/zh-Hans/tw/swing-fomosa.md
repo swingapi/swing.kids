@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“Swing Fomosa”的一些信息。"
 
 # Swing Fomosa
 
-:fontawesome-solid-location-dot: 高雄  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 高雄  
 
 
 ???+ venue "场地"
@@ -14,7 +14,7 @@ description: "关于摇摆舞组织“Swing Fomosa”的一些信息。"
 
 ## 联系
 
-:fontawesome-solid-envelope: <swingformosa@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingformosa@gmail.com>  
 
 ---
 

@@ -7,7 +7,7 @@ tags:
 
 # Kawasaki Swing
 
-:fontawesome-solid-location-dot: 神奈川  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 神奈川  
 
 
 ## 联系

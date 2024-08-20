@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Swing Latte”的一些信息。"
 
 # Swing Latte
 
-스윙라떼  
-:fontawesome-solid-location-dot: 昌原  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙라떼  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 昌原  
 
 
 ---

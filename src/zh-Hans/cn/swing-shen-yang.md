@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Shenyang”的一些信息。"
 
 # Swing Shenyang
 
-摇摆沈阳  
-成立于 2020  
-:fontawesome-solid-location-dot: 沈阳  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆沈阳  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 沈阳  
 
 
 ## 联系

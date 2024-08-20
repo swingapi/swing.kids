@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Rhythm Park”的一些信息。"
 
 # Rhythm Park
 
-瑞瑟酒吧  
-:fontawesome-solid-location-dot: 贵阳  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 瑞瑟酒吧  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 贵阳  
 
 
 ## 联系

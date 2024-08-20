@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“Sapporo Swing Dance”的一些信息。"
 
 # Sapporo Swing Dance
 
-:fontawesome-solid-location-dot: 札幌  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 札幌  
 
 
 ## 联系

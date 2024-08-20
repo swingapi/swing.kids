@@ -5,12 +5,12 @@ description: "关于摇摆舞组织“The Hop Bangkok”的一些信息。"
 
 # The Hop Bangkok
 
-:fontawesome-solid-location-dot: 曼谷  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 曼谷  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.thehopbkk.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.thehopbkk.com>{ target='_blank' }  
 
 ---
 

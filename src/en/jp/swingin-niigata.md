@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Swingin’ Niigata."
 
 # Swingin’ Niigata
 
-:fontawesome-solid-location-dot: Niigata  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Niigata  
 
 
 ## Contact

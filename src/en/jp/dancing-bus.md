@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Dancing Bus."
 
 # Dancing Bus
 
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@dancingbus.com>  
-:fontawesome-solid-globe: <https://www.dancingbus.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@dancingbus.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.dancingbus.com>{ target='_blank' }  
 
 ---
 

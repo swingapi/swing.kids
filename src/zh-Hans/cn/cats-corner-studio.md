@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Cat's Corner Studio”的一些信息。"
 
 # Cat's Corner Studio
 
-猫角工作室  
-成立于 2014  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 猫角工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2014  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
 ???+ venue "场地"

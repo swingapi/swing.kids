@@ -6,13 +6,13 @@ description: "关于摇摆舞组织“Swing Gale”的一些信息。"
 
 # Swing Gale
 
-Swing Gale 大風搖擺  
-:fontawesome-solid-location-dot: 新竹  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Swing Gale 大風搖擺  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 新竹  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <swinggale@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swinggale@gmail.com>  
 
 ---
 

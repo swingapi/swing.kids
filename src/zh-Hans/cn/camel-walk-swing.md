@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Camel Walk Swing”的一些信息。"
 
 # Camel Walk Swing
 
-骆驼摇摆  
-成立于 2021  
-:fontawesome-solid-location-dot: 杭州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 骆驼摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 杭州  
 
 
 ## 联系

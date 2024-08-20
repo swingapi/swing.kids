@@ -7,8 +7,8 @@ tags:
 
 # Blues Guangzhou
 
-Since 2018  
-:fontawesome-solid-location-dot: Guangzhou  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Guangzhou  
 
 
 ## Contact

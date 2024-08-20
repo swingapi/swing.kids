@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Babaru."
 
 # Babaru
 
-바바루  
-:fontawesome-solid-location-dot: Deagu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 바바루  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Deagu  
 
 
 ---

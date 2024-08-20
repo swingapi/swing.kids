@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Hefei Swing”的一些信息。"
 
 # Hefei Swing
 
-合肥摇摆  
-:fontawesome-solid-location-dot: 合肥  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 合肥摇摆  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 合肥  
 
 
 ---

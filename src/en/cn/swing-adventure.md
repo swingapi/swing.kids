@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Adventure."
 
 # Swing Adventure
 
-西安摇摆  
-Since 2023  
-:fontawesome-solid-location-dot: Xi’an  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 西安摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Xi’an  
 
 
 ## Contact

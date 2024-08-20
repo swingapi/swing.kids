@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Laisi Swing Studio”的一些信息。"
 
 # Laisi Swing Studio
 
-爵对莱斯工作室  
-:fontawesome-solid-location-dot: 南京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 爵对莱斯工作室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 南京  
 
 
 ???+ venue "场地"

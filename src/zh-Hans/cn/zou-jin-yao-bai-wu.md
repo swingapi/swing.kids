@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Zou Jin Yao Bai Wu”的一些信息。"
 
 # Zou Jin Yao Bai Wu
 
-走进摇摆舞  
-成立于 2020  
-:fontawesome-solid-location-dot: 天津  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 走进摇摆舞  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 天津  
 
 
 ## 联系

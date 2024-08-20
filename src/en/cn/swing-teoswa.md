@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Swing Teoswa."
 
 # Swing Teoswa
 
-摇摆潮汕  
-:fontawesome-solid-location-dot: Shantou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆潮汕  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shantou  
 
 
 ---

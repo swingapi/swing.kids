@@ -6,13 +6,13 @@ description: "Info about the swing dance org: Swing It Dance Hall."
 
 # Swing It Dance Hall
 
-스윙잇 댄스홀  
-:fontawesome-solid-location-dot: Daejeon  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙잇 댄스홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Daejeon  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <http://www.swingkorea.com/>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.swingkorea.com/>{ target='_blank' }  
 
 ---
 

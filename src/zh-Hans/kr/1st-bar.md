@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“1st Bar”的一些信息。"
 
 # 1st Bar
 
-일빠  
-:fontawesome-solid-location-dot: 釜山  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 일빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 釜山  
 
 
 ---

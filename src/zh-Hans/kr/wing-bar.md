@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Wing Bar”的一些信息。"
 
 # Wing Bar
 
-서면윙빠  
-:fontawesome-solid-location-dot: 釜山  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 서면윙빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 釜山  
 
 
 ---

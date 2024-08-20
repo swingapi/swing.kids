@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Let It Swing."
 
 # Let It Swing
 
-:fontawesome-solid-location-dot: Berlin  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Berlin  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <contact@letitswing.tv>  
-:fontawesome-solid-globe: <https://letitswing.tv>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <contact@letitswing.tv>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://letitswing.tv>{ target='_blank' }  
 
 ---
 

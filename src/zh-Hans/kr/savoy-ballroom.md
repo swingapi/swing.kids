@@ -6,13 +6,13 @@ description: "关于摇摆舞组织“SAVOY Ballroom ”的一些信息。"
 
 # SAVOY Ballroom 
 
-사보이  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 사보이  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://savoyballroom.modoo.at/>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://savoyballroom.modoo.at/>{ target='_blank' }  
 
 ---
 

@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Foshan”的一些信息。"
 
 # Swing Foshan
 
-佛山摇摆  
-成立于 2018  
-:fontawesome-solid-location-dot: 佛山  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 佛山摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 佛山  
 
 
 ## 联系

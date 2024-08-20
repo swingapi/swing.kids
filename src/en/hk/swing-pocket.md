@@ -6,14 +6,14 @@ description: "Info about the swing dance org: Swing Pocket."
 
 # Swing Pocket
 
-一代搖擺  
-Since 2021  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 一代搖擺  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.swingpocket.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingpocket.com>{ target='_blank' }  
 
 ---
 

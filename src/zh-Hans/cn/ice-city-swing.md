@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Ice City Swing”的一些信息。"
 
 # Ice City Swing
 
-摇摆哈尔滨  
-成立于 2023  
-:fontawesome-solid-location-dot: 哈尔滨  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆哈尔滨  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 哈尔滨  
 
 
 ## 联系

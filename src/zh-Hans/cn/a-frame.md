@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“A Frame”的一些信息。"
 
 # A Frame
 
-A Frame 舞蹈工作室  
-成立于 2020  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } A Frame 舞蹈工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
 ## 联系

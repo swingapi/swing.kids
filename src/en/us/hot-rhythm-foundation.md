@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Hot Rhythm Foundation."
 
 # Hot Rhythm Foundation
 
-:fontawesome-solid-location-dot: Austin  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Austin  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@hotrhythmholiday.com>  
-:fontawesome-solid-globe: <https://www.hotrhythmholiday.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hotrhythmholiday.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.hotrhythmholiday.com>{ target='_blank' }  
 
 ---
 

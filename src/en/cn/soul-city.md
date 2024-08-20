@@ -7,7 +7,7 @@ tags:
 
 # Soul City
 
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 
 ## Contact

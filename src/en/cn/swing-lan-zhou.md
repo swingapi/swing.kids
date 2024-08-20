@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Lan Zhou."
 
 # Swing Lan Zhou
 
-摇摆金城  
-Since 2023  
-:fontawesome-solid-location-dot: Lanzhou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆金城  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Lanzhou  
 
 
 ## Contact

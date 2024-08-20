@@ -5,12 +5,12 @@ description: "Info about the swing dance org: The Hop Bangkok."
 
 # The Hop Bangkok
 
-:fontawesome-solid-location-dot: Bangkok  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Bangkok  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.thehopbkk.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.thehopbkk.com>{ target='_blank' }  
 
 ---
 

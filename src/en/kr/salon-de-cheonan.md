@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Salon de Cheonan."
 
 # Salon de Cheonan
 
-취향회관  
-:fontawesome-solid-location-dot: Cheonan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 취향회관  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Cheonan  
 
 
 ---

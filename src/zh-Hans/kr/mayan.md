@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Mayan”的一些信息。"
 
 # Mayan
 
-마얀  
-:fontawesome-solid-location-dot: 光州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 마얀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 光州  
 
 
 ---

@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Chongqing”的一些信息。"
 
 # Swing Chongqing
 
-山城摇摆  
-成立于 2017  
-:fontawesome-solid-location-dot: 重庆  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 山城摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2017  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 重庆  
 
 
 ## 联系

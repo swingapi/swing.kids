@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Rico”的一些信息。"
 
 # Rico
 
-리코  
-:fontawesome-solid-location-dot: 米酒  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 리코  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 米酒  
 
 
 ---

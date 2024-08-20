@@ -6,13 +6,13 @@ description: "Info about the swing dance org: The Social Club."
 
 # The Social Club
 
-더 쏘셜클럽  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 더 쏘셜클럽  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://socialclubseoul.co.kr>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://socialclubseoul.co.kr>{ target='_blank' }  
 
 ---
 

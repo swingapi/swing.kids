@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Go Swing Tientsin."
 
 # Go Swing Tientsin
 
-够摇  
-Since 2022  
-:fontawesome-solid-location-dot: Tianjin  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 够摇  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tianjin  
 
 
 ## Contact

@@ -5,8 +5,8 @@ description: "关于摇摆舞组织“TheBreak Swing Dance”的一些信息。"
 
 # TheBreak Swing Dance
 
-成立于 2019  
-:fontawesome-solid-location-dot: 广州  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 广州  
 
 
 ## 联系

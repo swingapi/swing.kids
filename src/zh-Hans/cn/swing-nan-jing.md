@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Nanjing”的一些信息。"
 
 # Swing Nanjing
 
-金陵摇摆  
-成立于 2019  
-:fontawesome-solid-location-dot: 南京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 金陵摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 南京  
 
 
 ## 联系

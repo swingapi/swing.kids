@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Triple Crown Swing Dance Academy”的一�
 
 # Triple Crown Swing Dance Academy
 
-트리플크라운 스윙댄스학원  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 트리플크라운 스윙댄스학원  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <triplecrown231@gmail.com>  
-:fontawesome-solid-globe: <http://www.triplecrownsd.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <triplecrown231@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.triplecrownsd.com>{ target='_blank' }  
 
 ---
 

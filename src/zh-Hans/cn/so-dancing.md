@@ -5,8 +5,8 @@ description: "关于摇摆舞组织“SO Dancing”的一些信息。"
 
 # SO Dancing
 
-成立于 2020  
-:fontawesome-solid-location-dot: 深圳  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 深圳  
 
 
 ## 联系

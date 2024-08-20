@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Foshan."
 
 # Swing Foshan
 
-佛山摇摆  
-Since 2018  
-:fontawesome-solid-location-dot: Foshan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 佛山摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Foshan  
 
 
 ## Contact

@@ -6,13 +6,13 @@ description: "Info about the swing dance org: Swing Gale."
 
 # Swing Gale
 
-Swing Gale 大風搖擺  
-:fontawesome-solid-location-dot: Hsinchu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Swing Gale 大風搖擺  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hsinchu  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <swinggale@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swinggale@gmail.com>  
 
 ---
 

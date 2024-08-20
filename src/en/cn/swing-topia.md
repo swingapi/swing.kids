@@ -5,8 +5,8 @@ description: "Info about the swing dance org: Swing Topia."
 
 # Swing Topia
 
-Since 2019  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 
 ## Contact

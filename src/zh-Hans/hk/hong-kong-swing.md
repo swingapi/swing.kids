@@ -5,14 +5,14 @@ description: "关于摇摆舞组织“Hong Kong Swing”的一些信息。"
 
 # Hong Kong Swing
 
-成立于 2006  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2006  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <hkswings@gmail.com>  
-:fontawesome-solid-globe: <https://hongkongswings.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hkswings@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://hongkongswings.com>{ target='_blank' }  
 
 ---
 

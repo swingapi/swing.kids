@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Doo The Swing."
 
 # Doo The Swing
 
-摇摆泉城  
-Since 2019  
-:fontawesome-solid-location-dot: Jinan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆泉城  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Jinan  
 
 
 ## Contact

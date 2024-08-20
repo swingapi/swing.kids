@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Swing 243 Dance Hall”的一些信息。"
 
 # Swing 243 Dance Hall
 
-스윙243 댄스홀  
-:fontawesome-solid-location-dot: 釜山  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙243 댄스홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 釜山  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <doggob1@naver.com>  
-:fontawesome-solid-globe: <https://swing243.wordpress.com/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <doggob1@naver.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swing243.wordpress.com/>{ target='_blank' }  
 
 ---
 

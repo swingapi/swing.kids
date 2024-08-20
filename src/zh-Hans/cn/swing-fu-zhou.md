@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Fuzhou”的一些信息。"
 
 # Swing Fuzhou
 
-榕城摇摆  
-成立于 2018  
-:fontawesome-solid-location-dot: 福州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 榕城摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 福州  
 
 
 ???+ venue "场地"

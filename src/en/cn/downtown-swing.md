@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Downtown Swing."
 
 # Downtown Swing
 
-Downtown Swing 上海摇摆  
-Since 2017  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Downtown Swing 上海摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2017  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 
 ???+ venue "Venue"
@@ -19,8 +19,8 @@ Since 2017
 
 ## Contact
 
-:fontawesome-solid-envelope: <downtownswing@163.com>  
-:fontawesome-solid-globe: <https://www.downtownswing.cn>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <downtownswing@163.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.downtownswing.cn>{ target='_blank' }  
 
 ---
 

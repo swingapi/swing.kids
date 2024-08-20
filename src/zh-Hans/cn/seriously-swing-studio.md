@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Seriously! Swing Studio”的一些信息�
 
 # Seriously! Swing Studio
 
-SSS认真摇摆工作室  
-成立于 2021  
-:fontawesome-solid-location-dot: 杭州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } SSS认真摇摆工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 杭州  
 
 
 ## 联系

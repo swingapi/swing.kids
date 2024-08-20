@@ -7,7 +7,7 @@ tags:
 
 # Kawasaki Swing
 
-:fontawesome-solid-location-dot: Kanagawa  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Kanagawa  
 
 
 ## Contact

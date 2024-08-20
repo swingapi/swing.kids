@@ -5,8 +5,8 @@ description: "Info about the swing dance org: Swing Stars Studio."
 
 # Swing Stars Studio
 
-Since 2021  
-:fontawesome-solid-location-dot: Tianjin  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tianjin  
 
 
 ## Contact

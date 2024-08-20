@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Cloud 9 Dance Hall."
 
 # Cloud 9 Dance Hall
 
-클라우드9  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 클라우드9  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ---

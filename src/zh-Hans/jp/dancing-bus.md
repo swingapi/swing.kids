@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Dancing Bus”的一些信息。"
 
 # Dancing Bus
 
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@dancingbus.com>  
-:fontawesome-solid-globe: <https://www.dancingbus.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@dancingbus.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.dancingbus.com>{ target='_blank' }  
 
 ---
 

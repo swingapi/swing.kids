@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Asurajang”的一些信息。"
 
 # Asurajang
 
-아수라장  
-:fontawesome-solid-location-dot: 大邱  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 아수라장  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 大邱  
 
 
 ---

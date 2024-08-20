@@ -5,13 +5,13 @@ description: "Info about the swing dance org: iLindy."
 
 # iLindy
 
-:fontawesome-solid-location-dot: New York City  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } New York City  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <info@ilindy.com>  
-:fontawesome-solid-globe: <https://ilindy.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@ilindy.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://ilindy.com>{ target='_blank' }  
 
 ---
 

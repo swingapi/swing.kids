@@ -6,13 +6,13 @@ description: "关于摇摆舞组织“Swing It Dance Hall”的一些信息。"
 
 # Swing It Dance Hall
 
-스윙잇 댄스홀  
-:fontawesome-solid-location-dot: 大田  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙잇 댄스홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 大田  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <http://www.swingkorea.com/>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.swingkorea.com/>{ target='_blank' }  
 
 ---
 

@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Kunming”的一些信息。"
 
 # Swing Kunming
 
-摇摆之滇  
-成立于 2019  
-:fontawesome-solid-location-dot: 昆明  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆之滇  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 昆明  
 
 
 ## 联系

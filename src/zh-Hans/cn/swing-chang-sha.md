@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Changsha”的一些信息。"
 
 # Swing Changsha
 
-长沙摇摆  
-成立于 2019  
-:fontawesome-solid-location-dot: 长沙  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 长沙摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 长沙  
 
 
 ## 联系

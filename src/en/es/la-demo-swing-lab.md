@@ -5,13 +5,13 @@ description: "Info about the swing dance org: La Demo Swing Lab."
 
 # La Demo Swing Lab
 
-:fontawesome-solid-location-dot: Madrid  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Madrid  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <hola@lademoswinglab.es>  
-:fontawesome-solid-globe: <https://www.lademoswinglab.es>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hola@lademoswinglab.es>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.lademoswinglab.es>{ target='_blank' }  
 
 ---
 

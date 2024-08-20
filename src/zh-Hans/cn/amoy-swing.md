@@ -5,8 +5,8 @@ description: "关于摇摆舞组织“Amoy Swing”的一些信息。"
 
 # Amoy Swing
 
-成立于 2020  
-:fontawesome-solid-location-dot: 厦门  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2020  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 厦门  
 
 
 ???+ venue "场地"

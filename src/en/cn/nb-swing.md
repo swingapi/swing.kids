@@ -6,9 +6,9 @@ description: "Info about the swing dance org: NB Swing."
 
 # NB Swing
 
-摇摆宁波  
-Since 2023  
-:fontawesome-solid-location-dot: Ningbo  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆宁波  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Ningbo  
 
 
 ## Contact

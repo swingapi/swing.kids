@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Lan Zhou”的一些信息。"
 
 # Swing Lan Zhou
 
-摇摆金城  
-成立于 2023  
-:fontawesome-solid-location-dot: 兰州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆金城  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 兰州  
 
 
 ## 联系

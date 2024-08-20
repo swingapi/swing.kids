@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Hidden Swing."
 
 # Hidden Swing
 
-匿流摇摆舞工作室  
-Since 2022  
-:fontawesome-solid-location-dot: Fuzhou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 匿流摇摆舞工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Fuzhou  
 
 
 ???+ venue "Venue"

@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Yun Swing”的一些信息。"
 
 # Yun Swing
 
-云上摇摆  
-成立于 2022  
-:fontawesome-solid-location-dot: 大理  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 云上摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 大理  
 
 
 ## 联系

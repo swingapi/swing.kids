@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Swing Time Bar”的一些信息。"
 
 # Swing Time Bar
 
-스윙타임  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙타임  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <hl1mwe@gmail.com>  
-:fontawesome-solid-globe: <https://swingtime.modoo.at/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hl1mwe@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingtime.modoo.at/>{ target='_blank' }  
 
 ---
 

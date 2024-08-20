@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Lala Hall”的一些信息。"
 
 # Lala Hall
 
-라라홀  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 라라홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <dancehall@naver.com>  
-:fontawesome-solid-globe: <http://www.krsd.co.kr>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <dancehall@naver.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.krsd.co.kr>{ target='_blank' }  
 
 ---
 

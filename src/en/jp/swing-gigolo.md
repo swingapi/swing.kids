@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Swing Gigolo."
 
 # Swing Gigolo
 
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
-:fontawesome-solid-globe: <http://swing-jack.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <lindyhop@swing-jack.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://swing-jack.com>{ target='_blank' }  
 
 ---
 

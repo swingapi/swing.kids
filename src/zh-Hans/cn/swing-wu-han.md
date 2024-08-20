@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Wuhan”的一些信息。"
 
 # Swing Wuhan
 
-摇摆武汉  
-成立于 2017  
-:fontawesome-solid-location-dot: 武汉  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆武汉  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2017  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 武汉  
 
 
 ## 联系

@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“iLindy”的一些信息。"
 
 # iLindy
 
-:fontawesome-solid-location-dot: 纽约市  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 纽约市  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@ilindy.com>  
-:fontawesome-solid-globe: <https://ilindy.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@ilindy.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://ilindy.com>{ target='_blank' }  
 
 ---
 

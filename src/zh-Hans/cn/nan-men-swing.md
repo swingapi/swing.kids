@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Nan Men Swing”的一些信息。"
 
 # Nan Men Swing
 
-南门 Swing  
-成立于 2022  
-:fontawesome-solid-location-dot: 成都  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 南门 Swing  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 成都  
 
 
 ## 联系

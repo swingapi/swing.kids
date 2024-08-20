@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Chongqing."
 
 # Swing Chongqing
 
-山城摇摆  
-Since 2017  
-:fontawesome-solid-location-dot: Chongqing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 山城摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2017  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chongqing  
 
 
 ## Contact

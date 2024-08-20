@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Asurajang."
 
 # Asurajang
 
-아수라장  
-:fontawesome-solid-location-dot: Deagu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 아수라장  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Deagu  
 
 
 ---

@@ -6,14 +6,15 @@ description: "关于摇摆舞组织“Swing Beasts”的一些信息。"
 
 # Swing Beasts
 
-摇摆野兽  
-成立于 2019  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆野兽  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
 ???+ venue "场地"
 
-    Big Apple Ballroom  
+    Big Apple Ballroom  
+      
     北京市朝阳区朝外SOHO A座B1层101室 大苹果摇摆舞厅  
 
 ???+ party "舞会信息"

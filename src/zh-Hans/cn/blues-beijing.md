@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“Blues Beijing”的一些信息。"
 
 # Blues Beijing
 
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
 ---

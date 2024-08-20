@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Mala Swing."
 
 # Mala Swing
 
-麻辣摇摆  
-Since 2018  
-:fontawesome-solid-location-dot: Chengdu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 麻辣摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chengdu  
 
 
 ## Contact

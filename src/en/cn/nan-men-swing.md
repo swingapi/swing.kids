@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Nan Men Swing."
 
 # Nan Men Swing
 
-南门 Swing  
-Since 2022  
-:fontawesome-solid-location-dot: Chengdu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 南门 Swing  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chengdu  
 
 
 ## Contact

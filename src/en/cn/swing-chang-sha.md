@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Changsha."
 
 # Swing Changsha
 
-长沙摇摆  
-Since 2019  
-:fontawesome-solid-location-dot: Changsha  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 长沙摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Changsha  
 
 
 ## Contact

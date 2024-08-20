@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Doo The Swing”的一些信息。"
 
 # Doo The Swing
 
-摇摆泉城  
-成立于 2019  
-:fontawesome-solid-location-dot: 济南  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆泉城  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 济南  
 
 
 ## 联系

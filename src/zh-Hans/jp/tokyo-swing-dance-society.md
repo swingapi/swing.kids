@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“Tokyo Swing Dance Society”的一些信�
 
 # Tokyo Swing Dance Society
 
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 
 ???+ venue "场地"
@@ -15,8 +15,8 @@ description: "关于摇摆舞组织“Tokyo Swing Dance Society”的一些信�
 
 ## 联系
 
-:fontawesome-solid-envelope: <hiro@impetus.ne.jp>  
-:fontawesome-solid-globe: <https://www.impetus.ne.jp/tsdsweb/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hiro@impetus.ne.jp>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.impetus.ne.jp/tsdsweb/>{ target='_blank' }  
 
 ---
 

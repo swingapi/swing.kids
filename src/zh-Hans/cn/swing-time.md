@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Time”的一些信息。"
 
 # Swing Time
 
-摇摆时代  
-成立于 2021  
-:fontawesome-solid-location-dot: 深圳  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆时代  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 深圳  
 
 
 ## 联系

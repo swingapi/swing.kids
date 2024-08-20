@@ -5,14 +5,14 @@ description: "Info about the swing dance org: Hong Kong Swing."
 
 # Hong Kong Swing
 
-Since 2006  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2006  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <hkswings@gmail.com>  
-:fontawesome-solid-globe: <https://hongkongswings.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hkswings@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://hongkongswings.com>{ target='_blank' }  
 
 ---
 

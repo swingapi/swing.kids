@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Zhuhai”的一些信息。"
 
 # Swing Zhuhai
 
-粤C • Swing  
-成立于 2023  
-:fontawesome-solid-location-dot: 珠海  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 粤C • Swing  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 珠海  
 
 
 ## 联系

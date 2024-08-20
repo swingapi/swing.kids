@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Bing Zhou”的一些信息。"
 
 # Swing Bing Zhou
 
-摇摆并州  
-成立于 2018  
-:fontawesome-solid-location-dot: 太原  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆并州  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 太原  
 
 
 ## 联系

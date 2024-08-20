@@ -8,8 +8,8 @@ tags:
 
 # Hong Kong Balboa
 
-Hong Kong Balboa  
-:fontawesome-solid-location-dot: HK  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Hong Kong Balboa  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } HK  
 
 
 ## Contact

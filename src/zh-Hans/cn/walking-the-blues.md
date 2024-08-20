@@ -7,7 +7,7 @@ tags:
 
 # Walking the Blues
 
-:fontawesome-solid-location-dot: 深圳  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 深圳  
 
 
 ## 联系

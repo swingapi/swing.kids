@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Clave."
 
 # Clave
 
-클라베  
-:fontawesome-solid-location-dot: Suwon  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 클라베  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Suwon  
 
 
 ---

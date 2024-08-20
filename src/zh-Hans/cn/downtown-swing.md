@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Downtown Swing”的一些信息。"
 
 # Downtown Swing
 
-Downtown Swing 上海摇摆  
-成立于 2017  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Downtown Swing 上海摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2017  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 
 ???+ venue "场地"
@@ -19,8 +19,8 @@ Downtown Swing 上海摇摆
 
 ## 联系
 
-:fontawesome-solid-envelope: <downtownswing@163.com>  
-:fontawesome-solid-globe: <https://www.downtownswing.cn>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <downtownswing@163.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.downtownswing.cn>{ target='_blank' }  
 
 ---
 

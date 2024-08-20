@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Shenzhen”的一些信息。"
 
 # Swing Shenzhen
 
-摇摆深圳  
-成立于 2019  
-:fontawesome-solid-location-dot: 深圳  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆深圳  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 深圳  
 
 
 ## 联系

@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Blues Beijing."
 
 # Blues Beijing
 
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ---

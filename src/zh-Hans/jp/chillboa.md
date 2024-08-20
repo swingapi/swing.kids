@@ -5,12 +5,12 @@ description: "关于摇摆舞组织“Chillboa”的一些信息。"
 
 # Chillboa
 
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <chillboa.shibuya@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <chillboa.shibuya@gmail.com>  
 
 ---
 

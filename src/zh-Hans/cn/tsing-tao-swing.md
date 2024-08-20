@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Tsingtao Swing”的一些信息。"
 
 # Tsingtao Swing
 
-青岛摇摆  
-成立于 2019  
-:fontawesome-solid-location-dot: 青岛  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 青岛摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 青岛  
 
 
 ## 联系

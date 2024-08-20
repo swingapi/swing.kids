@@ -6,13 +6,13 @@ description: "Info about the swing dance org: Hoppers Hall."
 
 # Hoppers Hall
 
-하퍼스홀  
-:fontawesome-solid-location-dot: Cheongju  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 하퍼스홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Cheongju  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://litt.ly/hopperhall>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://litt.ly/hopperhall>{ target='_blank' }  
 
 ---
 

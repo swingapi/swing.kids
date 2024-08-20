@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Travels."
 
 # Swing Travels
 
-摇摆之旅  
-Since 2019  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆之旅  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ## Contact

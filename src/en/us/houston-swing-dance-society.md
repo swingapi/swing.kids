@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Houston Swing Dance Society."
 
 # Houston Swing Dance Society
 
-Since 1997  
-:fontawesome-solid-location-dot: Houston  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 1997  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Houston  
 
 
 ## Contact
 
-:fontawesome-solid-globe: <https://www.hsds.org>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.hsds.org>{ target='_blank' }  
 
 ---
 

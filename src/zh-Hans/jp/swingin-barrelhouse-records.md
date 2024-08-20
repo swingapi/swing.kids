@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Swingin Barrelhouse Records”的一些信
 
 # Swingin Barrelhouse Records
 
-成立于 2019  
-:fontawesome-solid-location-dot: 横滨  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 横滨  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.swingin-barrelhouse-records.com>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.swingin-barrelhouse-records.com>{ target='_blank' }  
 
 ---
 

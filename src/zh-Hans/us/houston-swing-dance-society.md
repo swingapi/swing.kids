@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Houston Swing Dance Society”的一些信
 
 # Houston Swing Dance Society
 
-成立于 1997  
-:fontawesome-solid-location-dot: 休斯顿  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 1997  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 休斯顿  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://www.hsds.org>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.hsds.org>{ target='_blank' }  
 
 ---
 

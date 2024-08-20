@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Lizi Swing Dance Studio."
 
 # Lizi Swing Dance Studio
 
-栗子摇摆舞室  
-:fontawesome-solid-location-dot: Changsha  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 栗子摇摆舞室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Changsha  
 
 
 ---

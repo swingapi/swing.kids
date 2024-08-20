@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“M.R. Swing”的一些信息。"
 
 # M.R. Swing
 
-慢热摇摆  
-成立于 2023  
-:fontawesome-solid-location-dot: 南昌  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 慢热摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 南昌  
 
 
 ## 联系

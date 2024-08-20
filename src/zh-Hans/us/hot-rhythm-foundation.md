@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Hot Rhythm Foundation”的一些信息。
 
 # Hot Rhythm Foundation
 
-:fontawesome-solid-location-dot: 奥斯汀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奥斯汀  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <info@hotrhythmholiday.com>  
-:fontawesome-solid-globe: <https://www.hotrhythmholiday.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <info@hotrhythmholiday.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.hotrhythmholiday.com>{ target='_blank' }  
 
 ---
 

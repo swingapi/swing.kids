@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Go Swing Tientsin”的一些信息。"
 
 # Go Swing Tientsin
 
-够摇  
-成立于 2022  
-:fontawesome-solid-location-dot: 天津  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 够摇  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 天津  
 
 
 ## 联系

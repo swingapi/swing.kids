@@ -7,7 +7,7 @@ tags:
 
 # Walking the Blues
 
-:fontawesome-solid-location-dot: Shenzhen  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shenzhen  
 
 
 ## Contact

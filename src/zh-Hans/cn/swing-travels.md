@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Travels”的一些信息。"
 
 # Swing Travels
 
-摇摆之旅  
-成立于 2019  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆之旅  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
 ## 联系

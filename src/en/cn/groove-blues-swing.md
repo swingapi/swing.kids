@@ -7,8 +7,8 @@ tags:
 
 # Groove Blues Swing
 
-Since 2022  
-:fontawesome-solid-location-dot: Shenzhen  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shenzhen  
 
 
 ## Contact

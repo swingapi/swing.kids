@@ -5,12 +5,12 @@ description: "Info about the swing dance org: Chillboa."
 
 # Chillboa
 
-:fontawesome-solid-location-dot: Tokyo  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Tokyo  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <chillboa.shibuya@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <chillboa.shibuya@gmail.com>  
 
 ---
 

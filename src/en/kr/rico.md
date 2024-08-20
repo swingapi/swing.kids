@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Rico."
 
 # Rico
 
-리코  
-:fontawesome-solid-location-dot: Cheongju  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 리코  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Cheongju  
 
 
 ---

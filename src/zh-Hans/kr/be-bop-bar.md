@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Be Bop Bar”的一些信息。"
 
 # Be Bop Bar
 
-비밥빠  
-:fontawesome-solid-location-dot: 仁川  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 비밥빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 仁川  
 
 
 ---

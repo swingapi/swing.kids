@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Zhuhai."
 
 # Swing Zhuhai
 
-粤C • Swing  
-Since 2023  
-:fontawesome-solid-location-dot: Zhuhai  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 粤C • Swing  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Zhuhai  
 
 
 ## Contact

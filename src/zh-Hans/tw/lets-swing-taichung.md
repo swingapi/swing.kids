@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Let’s Swing Taichung”的一些信息�
 
 # Let’s Swing Taichung
 
-Let’s Swing Taichung 台中搖擺舞教室  
-:fontawesome-solid-location-dot: 台中  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Let’s Swing Taichung 台中搖擺舞教室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台中  
 
 
 ???+ venue "场地"
@@ -16,7 +16,7 @@ Let’s Swing Taichung 台中搖擺舞教室
 
 ## 联系
 
-:fontawesome-solid-envelope: <letsswingtaichung@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <letsswingtaichung@gmail.com>  
 
 ---
 

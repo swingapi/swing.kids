@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Laisi Swing Studio."
 
 # Laisi Swing Studio
 
-爵对莱斯工作室  
-:fontawesome-solid-location-dot: Nanjing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 爵对莱斯工作室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Nanjing  
 
 
 ???+ venue "Venue"

@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Swing Gigolo”的一些信息。"
 
 # Swing Gigolo
 
-:fontawesome-solid-location-dot: 东京  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 东京  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <lindyhop@swing-jack.com>  
-:fontawesome-solid-globe: <http://swing-jack.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <lindyhop@swing-jack.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://swing-jack.com>{ target='_blank' }  
 
 ---
 

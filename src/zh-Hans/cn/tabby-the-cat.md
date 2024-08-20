@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Tabby the Cat”的一些信息。"
 
 # Tabby the Cat
 
-Tabby the Cat 摇摆舞工作室  
-成立于 2019  
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Tabby the Cat 摇摆舞工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 
 ???+ venue "场地"
@@ -17,7 +17,7 @@ Tabby the Cat 摇摆舞工作室
 
 ## 联系
 
-:fontawesome-solid-envelope: <17717614792@qq.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <17717614792@qq.com>  
 
 ---
 

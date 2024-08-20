@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Big Apple Swing Studio."
 
 # Big Apple Swing Studio
 
-Big Apple Swing Studio 搖擺舞教室  
-Since 2015  
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Big Apple Swing Studio 搖擺舞教室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2015  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 
 ???+ venue "Venue"
@@ -17,8 +17,8 @@ Since 2015
 
 ## Contact
 
-:fontawesome-solid-envelope: <appleswingstudio@gmail.com>  
-:fontawesome-solid-globe: <https://www.baswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <appleswingstudio@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.baswing.com>{ target='_blank' }  
 
 ---
 

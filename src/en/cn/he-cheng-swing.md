@@ -6,9 +6,9 @@ description: "Info about the swing dance org: He Cheng Swing."
 
 # He Cheng Swing
 
-禾城摇摆  
-Since 2023  
-:fontawesome-solid-location-dot: Jiaxing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 禾城摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Jiaxing  
 
 
 ## Contact

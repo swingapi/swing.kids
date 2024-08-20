@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Double Swing."
 
 # Double Swing
 
-二倍摇摆  
-Since 2022  
-:fontawesome-solid-location-dot: Taizhou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 二倍摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taizhou  
 
 
 ## Contact

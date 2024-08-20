@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Hefei Swing."
 
 # Hefei Swing
 
-合肥摇摆  
-:fontawesome-solid-location-dot: Hefei  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 合肥摇摆  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hefei  
 
 
 ---

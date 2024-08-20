@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“A Jass Dance”的一些信息。"
 
 # A Jass Dance
 
-爵士时代跳舞公司  
-:fontawesome-solid-location-dot: 北京  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 爵士时代跳舞公司  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
 ## 联系

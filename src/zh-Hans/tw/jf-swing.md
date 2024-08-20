@@ -6,13 +6,13 @@ description: "关于摇摆舞组织“JF Swing”的一些信息。"
 
 # JF Swing
 
-JFSwing 搖擺舞教室  
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } JFSwing 搖擺舞教室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <jfswing.tw@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <jfswing.tw@gmail.com>  
 
 ---
 

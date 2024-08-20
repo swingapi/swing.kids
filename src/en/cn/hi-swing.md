@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Hi Swing."
 
 # Hi Swing
 
-摇摆成都  
-Since 2019  
-:fontawesome-solid-location-dot: Chengdu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆成都  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Chengdu  
 
 
 ## Contact

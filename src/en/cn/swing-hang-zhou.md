@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Hangzhou."
 
 # Swing Hangzhou
 
-摇摆杭州  
-Since 2014  
-:fontawesome-solid-location-dot: Hangzhou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆杭州  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2014  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hangzhou  
 
 
 ## Contact

@@ -6,14 +6,14 @@ description: "关于摇摆舞组织“Naughty Swing”的一些信息。"
 
 # Naughty Swing
 
-Naughty Swing 搖擺舞團  
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Naughty Swing 搖擺舞團  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <naughtyswingtw@gmail.com>  
-:fontawesome-solid-globe: <https://naughtyswing.com.tw>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <naughtyswingtw@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://naughtyswing.com.tw>{ target='_blank' }  
 
 ---
 

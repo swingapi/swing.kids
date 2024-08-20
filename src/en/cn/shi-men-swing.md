@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Shi Men Swing."
 
 # Shi Men Swing
 
-石门摇摆  
-Since 2023  
-:fontawesome-solid-location-dot: Shijiazhuang  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 石门摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shijiazhuang  
 
 
 ## Contact

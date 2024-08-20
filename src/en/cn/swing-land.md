@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Land."
 
 # Swing Land
 
-摇摆乐园  
-Since 2023  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆乐园  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ## Contact

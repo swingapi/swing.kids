@@ -7,7 +7,7 @@ tags:
 
 # Soul City
 
-:fontawesome-solid-location-dot: 上海  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 上海  
 
 
 ## 联系

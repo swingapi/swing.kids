@@ -6,13 +6,13 @@ description: "Info about the swing dance org: Big Apple (Seoul)."
 
 # Big Apple (Seoul)
 
-빅애플  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 빅애플  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <wookiminam@gmail.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <wookiminam@gmail.com>  
 
 ---
 

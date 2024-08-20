@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Smalls Swing”的一些信息。"
 
 # Smalls Swing
 
-斯莫斯昆明摇摆  
-成立于 2019  
-:fontawesome-solid-location-dot: 昆明  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 斯莫斯昆明摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 昆明  
 
 
 ???+ venue "场地"

@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Swingtime Bordeaux”的一些信息。"
 
 # Swingtime Bordeaux
 
-:fontawesome-solid-location-dot: 波尔多  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 波尔多  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <swingtime@free.fr>  
-:fontawesome-solid-globe: <https://swingtime.fr>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swingtime@free.fr>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingtime.fr>{ target='_blank' }  
 
 ---
 

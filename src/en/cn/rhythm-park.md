@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Rhythm Park."
 
 # Rhythm Park
 
-瑞瑟酒吧  
-:fontawesome-solid-location-dot: Guiyang  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 瑞瑟酒吧  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Guiyang  
 
 
 ## Contact

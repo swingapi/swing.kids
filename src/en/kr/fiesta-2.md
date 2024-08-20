@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Fiesta 2."
 
 # Fiesta 2
 
-피에스타2  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 피에스타2  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ---

@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Xi An”的一些信息。"
 
 # Swing Xi An
 
-摇摆西安  
-成立于 2018  
-:fontawesome-solid-location-dot: 西安  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆西安  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 西安  
 
 
 ## 联系

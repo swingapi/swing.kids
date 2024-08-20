@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“Swingin’ Niigata”的一些信息。"
 
 # Swingin’ Niigata
 
-:fontawesome-solid-location-dot: 新泻  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 新泻  
 
 
 ## 联系

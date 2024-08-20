@@ -6,14 +6,14 @@ description: "Info about the swing dance org: Naughty Swing."
 
 # Naughty Swing
 
-Naughty Swing 搖擺舞團  
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Naughty Swing 搖擺舞團  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <naughtyswingtw@gmail.com>  
-:fontawesome-solid-globe: <https://naughtyswing.com.tw>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <naughtyswingtw@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://naughtyswing.com.tw>{ target='_blank' }  
 
 ---
 

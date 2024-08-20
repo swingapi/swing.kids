@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Swing Teoswa”的一些信息。"
 
 # Swing Teoswa
 
-摇摆潮汕  
-:fontawesome-solid-location-dot: 汕头  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆潮汕  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 汕头  
 
 
 ---

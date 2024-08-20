@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Wuhan."
 
 # Swing Wuhan
 
-摇摆武汉  
-Since 2017  
-:fontawesome-solid-location-dot: Wuhan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆武汉  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2017  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Wuhan  
 
 
 ## Contact

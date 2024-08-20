@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Osaka Swing”的一些信息。"
 
 # Osaka Swing
 
-大阪スイング  
-:fontawesome-solid-location-dot: 大阪  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 大阪スイング  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 大阪  
 
 
 ???+ venue "场地"
@@ -16,8 +16,8 @@ description: "关于摇摆舞组织“Osaka Swing”的一些信息。"
 
 ## 联系
 
-:fontawesome-solid-envelope: <mechakucha.swing@gmail.com>  
-:fontawesome-solid-globe: <https://osakaswing.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <mechakucha.swing@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://osakaswing.com>{ target='_blank' }  
 
 ---
 

@@ -6,14 +6,14 @@ description: "Info about the swing dance org: Triple Crown Swing Dance Academy."
 
 # Triple Crown Swing Dance Academy
 
-트리플크라운 스윙댄스학원  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 트리플크라운 스윙댄스학원  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <triplecrown231@gmail.com>  
-:fontawesome-solid-globe: <http://www.triplecrownsd.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <triplecrown231@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.triplecrownsd.com>{ target='_blank' }  
 
 ---
 

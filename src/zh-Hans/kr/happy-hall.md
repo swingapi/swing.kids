@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Happy Hall ”的一些信息。"
 
 # Happy Hall 
 
-해피홀  
-成立于 2004  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 해피홀  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2004  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系

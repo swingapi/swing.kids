@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Swing Shenzhen."
 
 # Swing Shenzhen
 
-摇摆深圳  
-Since 2019  
-:fontawesome-solid-location-dot: Shenzhen  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆深圳  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shenzhen  
 
 
 ## Contact

@@ -6,8 +6,8 @@ description: "Info about the swing dance org: In The Mood Sillim."
 
 # In The Mood Sillim
 
-인더무드 신림  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 인더무드 신림  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact

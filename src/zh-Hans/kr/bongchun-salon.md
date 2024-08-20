@@ -6,13 +6,13 @@ description: "关于摇摆舞组织“Bongchun Salon”的一些信息。"
 
 # Bongchun Salon
 
-봉천살롱  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 봉천살롱  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://cafe.naver.com/bongcheonsalon>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://cafe.naver.com/bongcheonsalon>{ target='_blank' }  
 
 ---
 

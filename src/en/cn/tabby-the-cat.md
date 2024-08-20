@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Tabby the Cat."
 
 # Tabby the Cat
 
-Tabby the Cat 摇摆舞工作室  
-Since 2019  
-:fontawesome-solid-location-dot: Shanghai  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } Tabby the Cat 摇摆舞工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Shanghai  
 
 
 ???+ venue "Venue"
@@ -17,7 +17,7 @@ Since 2019
 
 ## Contact
 
-:fontawesome-solid-envelope: <17717614792@qq.com>  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <17717614792@qq.com>  
 
 ---
 

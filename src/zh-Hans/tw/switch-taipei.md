@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Switch Taipei”的一些信息。"
 
 # Switch Taipei
 
-:fontawesome-solid-location-dot: 台北  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台北  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <swtichtaipei@gmail.com;abcd60615@gmail.com>  
-:fontawesome-solid-globe: <https://www.switchtaipei.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <swtichtaipei@gmail.com;abcd60615@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://www.switchtaipei.com>{ target='_blank' }  
 
 ---
 

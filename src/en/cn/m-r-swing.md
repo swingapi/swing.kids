@@ -6,9 +6,9 @@ description: "Info about the swing dance org: M.R. Swing."
 
 # M.R. Swing
 
-慢热摇摆  
-Since 2023  
-:fontawesome-solid-location-dot: Nanchang  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 慢热摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Nanchang  
 
 
 ## Contact

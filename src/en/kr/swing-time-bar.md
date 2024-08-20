@@ -6,14 +6,14 @@ description: "Info about the swing dance org: Swing Time Bar."
 
 # Swing Time Bar
 
-스윙타임  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙타임  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <hl1mwe@gmail.com>  
-:fontawesome-solid-globe: <https://swingtime.modoo.at/>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hl1mwe@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingtime.modoo.at/>{ target='_blank' }  
 
 ---
 

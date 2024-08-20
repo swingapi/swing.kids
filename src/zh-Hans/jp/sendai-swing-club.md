@@ -5,7 +5,7 @@ description: "关于摇摆舞组织“Sendai Swing Club”的一些信息。"
 
 # Sendai Swing Club
 
-:fontawesome-solid-location-dot: 仙台  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 仙台  
 
 
 ## 联系

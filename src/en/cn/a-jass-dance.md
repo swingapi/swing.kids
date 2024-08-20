@@ -6,8 +6,8 @@ description: "Info about the swing dance org: A Jass Dance."
 
 # A Jass Dance
 
-爵士时代跳舞公司  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 爵士时代跳舞公司  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ## Contact

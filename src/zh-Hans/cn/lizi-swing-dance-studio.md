@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Lizi Swing Dance Studio”的一些信息�
 
 # Lizi Swing Dance Studio
 
-栗子摇摆舞室  
-:fontawesome-solid-location-dot: 长沙  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 栗子摇摆舞室  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 长沙  
 
 
 ---

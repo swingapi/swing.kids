@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Clave”的一些信息。"
 
 # Clave
 
-클라베  
-:fontawesome-solid-location-dot: 水原  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 클라베  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 水原  
 
 
 ---

@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Mala Swing”的一些信息。"
 
 # Mala Swing
 
-麻辣摇摆  
-成立于 2018  
-:fontawesome-solid-location-dot: 成都  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 麻辣摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2018  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 成都  
 
 
 ## 联系

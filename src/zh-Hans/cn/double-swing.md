@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Double Swing”的一些信息。"
 
 # Double Swing
 
-二倍摇摆  
-成立于 2022  
-:fontawesome-solid-location-dot: 台州  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 二倍摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 台州  
 
 
 ## 联系

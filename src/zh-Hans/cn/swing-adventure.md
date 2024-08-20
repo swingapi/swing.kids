@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“Swing Adventure”的一些信息。"
 
 # Swing Adventure
 
-西安摇摆  
-成立于 2023  
-:fontawesome-solid-location-dot: 西安  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 西安摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 西安  
 
 
 ## 联系

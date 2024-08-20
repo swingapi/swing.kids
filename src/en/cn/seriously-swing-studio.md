@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Seriously! Swing Studio."
 
 # Seriously! Swing Studio
 
-SSS认真摇摆工作室  
-Since 2021  
-:fontawesome-solid-location-dot: Hangzhou  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } SSS认真摇摆工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Hangzhou  
 
 
 ## Contact

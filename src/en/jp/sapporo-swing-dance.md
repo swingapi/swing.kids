@@ -5,7 +5,7 @@ description: "Info about the swing dance org: Sapporo Swing Dance."
 
 # Sapporo Swing Dance
 
-:fontawesome-solid-location-dot: Sapporo  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Sapporo  
 
 
 ## Contact

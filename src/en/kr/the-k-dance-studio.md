@@ -6,14 +6,14 @@ description: "Info about the swing dance org: The K Dance Studio."
 
 # The K Dance Studio
 
-더 케이 댄스 스튜디오  
-:fontawesome-solid-location-dot: Cheonan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 더 케이 댄스 스튜디오  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Cheonan  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <thekdance@naver.com>  
-:fontawesome-solid-globe: <https://blog.naver.com/thekdance>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <thekdance@naver.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://blog.naver.com/thekdance>{ target='_blank' }  
 
 ---
 

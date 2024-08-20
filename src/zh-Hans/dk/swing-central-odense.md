@@ -5,13 +5,13 @@ description: "关于摇摆舞组织“Swing Central Odense”的一些信息。"
 
 # Swing Central Odense
 
-:fontawesome-solid-location-dot: 奧登斯  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 奧登斯  
 
 
 ## 联系
 
-:fontawesome-solid-envelope: <hello@swingcentral.dk>  
-:fontawesome-solid-globe: <https://swingcentral.dk>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hello@swingcentral.dk>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingcentral.dk>{ target='_blank' }  
 
 ---
 

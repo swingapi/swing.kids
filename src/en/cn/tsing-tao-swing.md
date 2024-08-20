@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Tsingtao Swing."
 
 # Tsingtao Swing
 
-青岛摇摆  
-Since 2019  
-:fontawesome-solid-location-dot: Qingdao  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 青岛摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Qingdao  
 
 
 ## Contact

@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Cat's Corner Studio."
 
 # Cat's Corner Studio
 
-猫角工作室  
-Since 2014  
-:fontawesome-solid-location-dot: Beijing  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 猫角工作室  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2014  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
 ???+ venue "Venue"

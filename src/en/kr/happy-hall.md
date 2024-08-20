@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Happy Hall ."
 
 # Happy Hall 
 
-해피홀  
-Since 2004  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 해피홀  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2004  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact

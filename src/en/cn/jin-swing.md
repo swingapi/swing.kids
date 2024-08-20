@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Jin Swing."
 
 # Jin Swing
 
-晋摇摆  
-Since 2021  
-:fontawesome-solid-location-dot: Taiyuan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 晋摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2021  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taiyuan  
 
 
 ## Contact

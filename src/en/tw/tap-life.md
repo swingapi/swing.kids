@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Tap Life."
 
 # Tap Life
 
-踢踏舞咖啡廳&搖擺舞工作室-TapLife  
-Since 2016  
-:fontawesome-solid-location-dot: Taipei  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 踢踏舞咖啡廳&搖擺舞工作室-TapLife  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2016  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Taipei  
 
 
 ???+ venue "Venue"
@@ -17,8 +17,8 @@ Since 2016
 
 ## Contact
 
-:fontawesome-solid-envelope: <taplifecafe@gmail.com>  
-:fontawesome-solid-globe: <https://taplifecafe.blogspot.com>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <taplifecafe@gmail.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://taplifecafe.blogspot.com>{ target='_blank' }  
 
 ---
 

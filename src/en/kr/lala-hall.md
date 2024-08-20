@@ -6,14 +6,14 @@ description: "Info about the swing dance org: Lala Hall."
 
 # Lala Hall
 
-라라홀  
-:fontawesome-solid-location-dot: Seoul  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 라라홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Seoul  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <dancehall@naver.com>  
-:fontawesome-solid-globe: <http://www.krsd.co.kr>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <dancehall@naver.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <http://www.krsd.co.kr>{ target='_blank' }  
 
 ---
 

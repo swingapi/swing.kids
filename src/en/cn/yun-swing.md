@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Yun Swing."
 
 # Yun Swing
 
-云上摇摆  
-Since 2022  
-:fontawesome-solid-location-dot: Dali  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 云上摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2022  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Dali  
 
 
 ## Contact

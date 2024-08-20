@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Mayan."
 
 # Mayan
 
-마얀  
-:fontawesome-solid-location-dot: Gwangju  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 마얀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Gwangju  
 
 
 ---

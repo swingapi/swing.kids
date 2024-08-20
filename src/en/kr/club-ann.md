@@ -6,8 +6,8 @@ description: "Info about the swing dance org: Club ANN."
 
 # Club ANN
 
-클럽엔  
-:fontawesome-solid-location-dot: Deagu  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 클럽엔  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Deagu  
 
 
 ---

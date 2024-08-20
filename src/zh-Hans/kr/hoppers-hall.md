@@ -6,13 +6,13 @@ description: "关于摇摆舞组织“Hoppers Hall”的一些信息。"
 
 # Hoppers Hall
 
-하퍼스홀  
-:fontawesome-solid-location-dot: 米酒  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 하퍼스홀  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 米酒  
 
 
 ## 联系
 
-:fontawesome-solid-globe: <https://litt.ly/hopperhall>{ target='_blank' }  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://litt.ly/hopperhall>{ target='_blank' }  
 
 ---
 

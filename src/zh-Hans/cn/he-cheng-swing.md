@@ -6,9 +6,9 @@ description: "关于摇摆舞组织“He Cheng Swing”的一些信息。"
 
 # He Cheng Swing
 
-禾城摇摆  
-成立于 2023  
-:fontawesome-solid-location-dot: 嘉兴  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 禾城摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2023  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 嘉兴  
 
 
 ## 联系

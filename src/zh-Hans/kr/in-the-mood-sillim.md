@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“In The Mood Sillim”的一些信息。"
 
 # In The Mood Sillim
 
-인더무드 신림  
-:fontawesome-solid-location-dot: 首尔  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 인더무드 신림  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 首尔  
 
 
 ## 联系

@@ -5,13 +5,13 @@ description: "Info about the swing dance org: Swing Central Odense."
 
 # Swing Central Odense
 
-:fontawesome-solid-location-dot: Odense  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Odense  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <hello@swingcentral.dk>  
-:fontawesome-solid-globe: <https://swingcentral.dk>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <hello@swingcentral.dk>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://swingcentral.dk>{ target='_blank' }  
 
 ---
 

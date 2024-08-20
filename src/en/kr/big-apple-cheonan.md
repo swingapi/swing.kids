@@ -6,14 +6,14 @@ description: "Info about the swing dance org: Big Apple (Cheonan)."
 
 # Big Apple (Cheonan)
 
-빅애플  
-:fontawesome-solid-location-dot: Cheonan  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 빅애플  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Cheonan  
 
 
 ## Contact
 
-:fontawesome-solid-envelope: <wookiminam@naver.com>  
-:fontawesome-solid-globe: <https://cafe.naver.com/bigappleswing>{ target='_blank' }  
+:fontawesome-solid-envelope:{ .ky_list_leading_icon } <wookiminam@naver.com>  
+:fontawesome-solid-globe:{ .ky_list_leading_icon } <https://cafe.naver.com/bigappleswing>{ target='_blank' }  
 
 ---
 

@@ -6,8 +6,8 @@ description: "关于摇摆舞组织“Swing Bar”的一些信息。"
 
 # Swing Bar
 
-스윙빠  
-:fontawesome-solid-location-dot: 济州岛  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 스윙빠  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } 济州岛  
 
 
 ---

@@ -6,9 +6,9 @@ description: "Info about the swing dance org: Smalls Swing."
 
 # Smalls Swing
 
-斯莫斯昆明摇摆  
-Since 2019  
-:fontawesome-solid-location-dot: Kunming  
+:fontawesome-solid-user-group:{ .ky_list_leading_icon } 斯莫斯昆明摇摆  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2019  
+:fontawesome-solid-location-dot:{ .ky_list_leading_icon } Kunming  
 
 
 ???+ venue "Venue"
