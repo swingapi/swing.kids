@@ -15,6 +15,7 @@
 | jp | [日本](jp/index.md) | 
 | kr | [韩国](kr/index.md) | 
 | th | [泰国](th/index.md) | 
+| tr | [土耳其](tr/index.md) | 
 | tw | [台湾](tw/index.md) | 
 
 ## 欧洲

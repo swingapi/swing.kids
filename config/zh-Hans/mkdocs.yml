@@ -164,6 +164,12 @@ nav:
         - 城市: th/cities.md
         - 组织:
           - th/the-hop-bangkok.md
+      - 土耳其:
+        - 总览: tr/index.md
+        - 城市: tr/cities.md
+        - 组织:
+          - tr/swing-istanbul.md
+          - tr/swing-planet.md
       - 台湾:
         - 总览: tw/index.md
         - 城市: tw/cities.md

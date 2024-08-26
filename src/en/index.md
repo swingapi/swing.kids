@@ -15,6 +15,7 @@
 | jp | [Japan](jp/index.md) | 
 | kr | [South Korea](kr/index.md) | 
 | th | [Thailand](th/index.md) | 
+| tr | [Turkey](tr/index.md) | 
 | tw | [Taiwan](tw/index.md) | 
 
 ## Europe

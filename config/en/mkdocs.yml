@@ -163,6 +163,12 @@ nav:
         - Cities: th/cities.md
         - Orgs:
           - th/the-hop-bangkok.md
+      - Turkey:
+        - Overview: tr/index.md
+        - Cities: tr/cities.md
+        - Orgs:
+          - tr/swing-istanbul.md
+          - tr/swing-planet.md
       - Taiwan:
         - Overview: tw/index.md
         - Cities: tw/cities.md
