@@ -119,6 +119,17 @@ description: "中国已收录的摇摆舞组织总览。"
 
 ---
 
+## <a id=guangxi></a>[广西](#guangxi) { #guangxi }
+
+### <a id=nanning></a>南宁 { #nanning }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Youth X](swing-youth-x.md) | 摇摆青年社团 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bcn%5D%20%3CName%3E&region=cn&province=Guangxi&city=Nanning){ target='_blank' }
+
+---
+
 ## <a id=guizhou></a>[贵州](#guizhou) { #guizhou }
 
 ### <a id=guiyang></a>贵阳 { #guiyang }
@@ -309,6 +320,16 @@ description: "中国已收录的摇摆舞组织总览。"
 | | [Swing Tianjin](swing-tian-jin.md) | 天津摇摆 |
 | | [Zou Jin Yao Bai Wu](zou-jin-yao-bai-wu.md) | 走进摇摆舞 |
 | [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bcn%5D%20%3CName%3E&region=cn&province=Tianjin&city=Tianjin){ target='_blank' }
+
+---
+
+## <a id=xinjiang></a>[新疆](#xinjiang) { #xinjiang }
+
+| | 名称 | |
+| --- | --- | --- |
+| | [Swing Tianshan](swing-tianshan.md) | 摇摆天山 |
+| | [Swing XJ](swing-xj.md) | 摇摆新疆 |
+| [+ 组织](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bcn%5D%20%3CName%3E&region=cn&province=Xinjiang&city=Xinjiang){ target='_blank' }
 
 ---
 
