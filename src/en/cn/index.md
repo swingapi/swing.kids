@@ -269,6 +269,7 @@ description: "Overview of collected Swing Dance orgs in China."
 | | Name | |
 | --- | --- | --- |
 | | [Tsingtao Swing](tsing-tao-swing.md) | 青岛摇摆 |
+| | [Vaudeville Club & Art](vaudeville.md) | 伍德维勒俱乐部 |
 | [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bcn%5D%20%3CName%3E&region=cn&province=Shandong&city=Qingdao){ target='_blank' }
 
 ---
