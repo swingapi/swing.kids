@@ -7,6 +7,7 @@ description: "Info about the swing dance org: Swing Beijing."
 # Swing Beijing
 
 :fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆北京  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } Since 2003  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } Beijing  
 
 
@@ -27,7 +28,7 @@ description: "Info about the swing dance org: Swing Beijing."
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-10-19 07:12 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-10-19 07:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 

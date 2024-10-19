@@ -7,6 +7,7 @@ description: "关于摇摆舞组织“Swing Beijing”的一些信息。"
 # Swing Beijing
 
 :fontawesome-solid-user-group:{ .ky_list_leading_icon } 摇摆北京  
+:fontawesome-solid-flag:{ .ky_list_leading_icon } 成立于 2003  
 :fontawesome-solid-location-dot:{ .ky_list_leading_icon } 北京  
 
 
@@ -27,7 +28,7 @@ description: "关于摇摆舞组织“Swing Beijing”的一些信息。"
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-10-19 07:12 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-10-19 07:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
