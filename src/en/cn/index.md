@@ -282,6 +282,7 @@ description: "Overview of collected Swing Dance orgs in China."
 | | [Soul City](soul-city.md) |  |
 | | [Swing Topia](swing-topia.md) |  |
 | | [Tabby the Cat](tabby-the-cat.md) | Tabby the Cat 摇摆舞工作室 |
+| | [The Riff](the-riff.md) | 一时兴起 |
 | [+ Org](https://github.com/swingdance/orgs/issues/new?assignees=&labels=add+org&projects=&template=02-add_entity.yml&title=%5Bcn%5D%20%3CName%3E&region=cn&province=Shanghai&city=Shanghai){ target='_blank' }
 
 ---
