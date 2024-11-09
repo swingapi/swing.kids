@@ -16,7 +16,7 @@ description: "Info about the swing dance org: Swing Land."
 
 ---
 
- [:fontawesome-brands-weixin:{ .ky_social_links_icon }](# "SwingLand摇摆乐园"){ target='_blank' }
+ [:fontawesome-brands-weixin:{ .ky_social_links_icon }](https://mp.weixin.qq.com/s/ylWzjduTgUfZHeSpL97JMw){ target='_blank' }
 
 ---
 
@@ -27,7 +27,7 @@ description: "Info about the swing dance org: Swing Land."
 [:material-file-edit-outline:][edit-info]{ target='_blank' }
 </div>
 <div class="ky_page_footer_leading" markdown="span">
-[:material-clock-edit-outline: 2024-06-30 10:35 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
+[:material-clock-edit-outline: 2024-11-09 07:32 UTC][view-edit-history]{ .ky_page_footer_history_button target='_blank' }
 </div>
 </div>
 
