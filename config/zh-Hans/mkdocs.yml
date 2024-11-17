@@ -211,9 +211,9 @@ nav:
         - 组织:
           - fr/swingtime-bordeaux.md
   - 活动: https://swing.news/zh-Hans
+  - references.md
   - 更新日志: https://github.com/swingdance/orgs/commits/main/
   - 关于:
-    - references.md
     - support.md
     - 隐私与条款:
       - privacy.md

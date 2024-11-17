@@ -210,9 +210,9 @@ nav:
         - Orgs:
           - fr/swingtime-bordeaux.md
   - Events: https://swing.news
+  - references.md
   - Changelogs: https://github.com/swingdance/orgs/commits/main/
   - About:
-    - references.md
     - support.md
     - Privacy & Terms:
       - privacy.md
