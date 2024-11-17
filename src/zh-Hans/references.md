@@ -14,6 +14,8 @@ status: references
 | hk • 香港 | [Calendar](https://rhythmstudiohk.com/calendar/) | Rhythm Studio |
 | jp • 日本 | [Swing Dance Events in Japan](https://sites.google.com/view/swingdanceeventsinjapan/home) | Taiga |
 | kr • 韩国 | [주간 소셜 스케줄](https://docs.google.com/spreadsheets/d/1f2y-doDtxlxZwswSB-yWs5n7A01xBccFQLDnFCLnTns) | Triplecrown Swing Dance |
+| us • 美国 | [Dance Parties Coming Up in NYC](https://www.youshouldbedancing.nyc/dance-parties-1) | YSBD |
+| us • 美国 | [This Week in Swing NYC](https://thisweekinswingnyc.com) | Eileen O'Donnell |
 |  •  | [Swing Europe - Events](https://swingingeurope.eu/events) | Swing Europe |
 |  •  | [Swing Plan-it](https://www.swingplanit.com) |  |
 | [+ 添加](https://github.com/swingdance/references/issues/new)
